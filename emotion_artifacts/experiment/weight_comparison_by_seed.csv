@@ -1,0 +1,1676 @@
+﻿seed_track_id,seed_title,seed_genre,emotion_weight,baseline_top10_overlap,ild_at_10,long_tail_share_at_10,mean_emotion_similarity,unique_artists_at_10
+cach_mang:01-duongtruongsonxeanhqua.,Duong Truong Son Xe Anh Qua,cach_mang,0.0,1.0,0.6871143938200709,,0.8558360934257507,9
+cach_mang:01-duongtruongsonxeanhqua.,Duong Truong Son Xe Anh Qua,cach_mang,0.25,0.9,0.6846073363715222,,0.8572462201118469,10
+cach_mang:01-duongtruongsonxeanhqua.,Duong Truong Son Xe Anh Qua,cach_mang,0.5,0.9,0.684607336371522,,0.8572462201118469,10
+cach_mang:01-duongtruongsonxeanhqua.,Duong Truong Son Xe Anh Qua,cach_mang,0.75,0.7,0.6956151487419884,,0.8628236651420593,8
+cach_mang:01-duongtruongsonxeanhqua.,Duong Truong Son Xe Anh Qua,cach_mang,1.0,0.3,0.7571028021019873,,0.8684266805648804,6
+cach_mang:01-meyeucon.,Me Yeu Con,cach_mang,0.0,1.0,0.6388780937913734,,0.8645262718200684,10
+cach_mang:01-meyeucon.,Me Yeu Con,cach_mang,0.25,0.9,0.6408659352091713,,0.8655579686164856,9
+cach_mang:01-meyeucon.,Me Yeu Con,cach_mang,0.5,0.7,0.6849911840817194,,0.875174343585968,8
+cach_mang:01-meyeucon.,Me Yeu Con,cach_mang,0.75,0.7,0.7025836711368584,,0.8752222061157227,8
+cach_mang:01-meyeucon.,Me Yeu Con,cach_mang,1.0,0.4,0.773821951245776,,0.8796776533126831,6
+cach_mang:02-soinhosoithuong.,Soi Nho Soi Thuong,cach_mang,0.0,1.0,0.6884632032968652,,0.8703432083129883,7
+cach_mang:02-soinhosoithuong.,Soi Nho Soi Thuong,cach_mang,0.25,1.0,0.6884632032968651,,0.8703432083129883,7
+cach_mang:02-soinhosoithuong.,Soi Nho Soi Thuong,cach_mang,0.5,0.8,0.6920195164216669,,0.8778874278068542,6
+cach_mang:02-soinhosoithuong.,Soi Nho Soi Thuong,cach_mang,0.75,0.5,0.7122448598255935,,0.8855587840080261,6
+cach_mang:02-soinhosoithuong.,Soi Nho Soi Thuong,cach_mang,1.0,0.3,0.7834753893309294,,0.8942849040031433,7
+cach_mang:04-cogaivotchong.,Co Gai Vot Chong,cach_mang,0.0,1.0,0.7012485442357993,,0.863418698310852,9
+cach_mang:04-cogaivotchong.,Co Gai Vot Chong,cach_mang,0.25,1.0,0.7012485442357993,,0.863418698310852,9
+cach_mang:04-cogaivotchong.,Co Gai Vot Chong,cach_mang,0.5,0.9,0.7064733427239356,,0.8651506304740906,9
+cach_mang:04-cogaivotchong.,Co Gai Vot Chong,cach_mang,0.75,0.8,0.7079172732531952,,0.8684718012809753,8
+cach_mang:04-cogaivotchong.,Co Gai Vot Chong,cach_mang,1.0,0.5,0.7287934797137363,,0.8722306489944458,7
+cach_mang:04-noidaoxa.,Noi Dao Xa,cach_mang,0.0,1.0,0.6888359173492355,,0.8740639686584473,9
+cach_mang:04-noidaoxa.,Noi Dao Xa,cach_mang,0.25,0.9,0.6920402684791852,,0.8756605982780457,8
+cach_mang:04-noidaoxa.,Noi Dao Xa,cach_mang,0.5,0.9,0.6920402684791852,,0.8756605982780457,8
+cach_mang:04-noidaoxa.,Noi Dao Xa,cach_mang,0.75,0.6,0.7142986463891123,,0.8829485177993774,7
+cach_mang:04-noidaoxa.,Noi Dao Xa,cach_mang,1.0,0.4,0.7445921734220389,,0.8883135914802551,6
+cach_mang:05-chieubiengioi.,Chieu Bien Gioi,cach_mang,0.0,1.0,0.7015410660598808,,0.8471037149429321,7
+cach_mang:05-chieubiengioi.,Chieu Bien Gioi,cach_mang,0.25,0.9,0.7023881733316035,,0.8523672223091125,6
+cach_mang:05-chieubiengioi.,Chieu Bien Gioi,cach_mang,0.5,0.8,0.7083476237119288,,0.8576502799987793,7
+cach_mang:05-chieubiengioi.,Chieu Bien Gioi,cach_mang,0.75,0.5,0.7491232799359996,,0.8665750622749329,6
+cach_mang:05-chieubiengioi.,Chieu Bien Gioi,cach_mang,1.0,0.2,0.8392960703432711,,0.8707666397094727,6
+cach_mang:07-anhodausongemcuoisong.,Anh O Dau Song Em Cuoi Song,cach_mang,0.0,1.0,0.6329752266380531,,0.8680447340011597,10
+cach_mang:07-anhodausongemcuoisong.,Anh O Dau Song Em Cuoi Song,cach_mang,0.25,0.9,0.6465837112079875,,0.8713785409927368,10
+cach_mang:07-anhodausongemcuoisong.,Anh O Dau Song Em Cuoi Song,cach_mang,0.5,0.9,0.6392345981302775,,0.8719964027404785,10
+cach_mang:07-anhodausongemcuoisong.,Anh O Dau Song Em Cuoi Song,cach_mang,0.75,0.5,0.6954120997244148,,0.8813499212265015,7
+cach_mang:07-anhodausongemcuoisong.,Anh O Dau Song Em Cuoi Song,cach_mang,1.0,0.1,0.7656634826455287,,0.8881266713142395,5
+cach_mang:08-emchonloinay.,Em Chon Loi Nay,cach_mang,0.0,1.0,0.6879505624879407,,0.8606780171394348,8
+cach_mang:08-emchonloinay.,Em Chon Loi Nay,cach_mang,0.25,0.8,0.6801617000804723,,0.8668006062507629,9
+cach_mang:08-emchonloinay.,Em Chon Loi Nay,cach_mang,0.5,0.4,0.7130557105234944,,0.8801150321960449,8
+cach_mang:08-emchonloinay.,Em Chon Loi Nay,cach_mang,0.75,0.3,0.7306518282155106,,0.8832456469535828,7
+cach_mang:08-emchonloinay.,Em Chon Loi Nay,cach_mang,1.0,0.1,0.7933943664829689,,0.8875873684883118,5
+cach_mang:09-muaxuandenroido.,Mua Xuan Den Roi Do,cach_mang,0.0,1.0,0.6811889077875262,,0.8433133959770203,7
+cach_mang:09-muaxuandenroido.,Mua Xuan Den Roi Do,cach_mang,0.25,1.0,0.6811889077875262,,0.8433133959770203,7
+cach_mang:09-muaxuandenroido.,Mua Xuan Den Roi Do,cach_mang,0.5,0.8,0.6956396263438561,,0.8486149907112122,7
+cach_mang:09-muaxuandenroido.,Mua Xuan Den Roi Do,cach_mang,0.75,0.4,0.7992783082667441,,0.8617485761642456,8
+cach_mang:09-muaxuandenroido.,Mua Xuan Den Roi Do,cach_mang,1.0,0.1,0.8154351406758441,,0.8653437495231628,8
+cach_mang:09-rungxanhvangtiengta-lu.,Rung Xanh Vang Tieng Ta,cach_mang,0.0,1.0,0.6847537375401164,,0.8549747467041016,8
+cach_mang:09-rungxanhvangtiengta-lu.,Rung Xanh Vang Tieng Ta,cach_mang,0.25,1.0,0.6847537375401165,,0.8549747467041016,8
+cach_mang:09-rungxanhvangtiengta-lu.,Rung Xanh Vang Tieng Ta,cach_mang,0.5,0.7,0.7093378436562071,,0.8655868768692017,6
+cach_mang:09-rungxanhvangtiengta-lu.,Rung Xanh Vang Tieng Ta,cach_mang,0.75,0.6,0.7053249179474521,,0.8672690391540527,6
+cach_mang:09-rungxanhvangtiengta-lu.,Rung Xanh Vang Tieng Ta,cach_mang,1.0,0.5,0.6968499508508555,,0.8685644865036011,6
+cach_mang:09.datnuoc.,Dat Nuoc,cach_mang,0.0,1.0,0.664813815371534,,0.8483095169067383,9
+cach_mang:09.datnuoc.,Dat Nuoc,cach_mang,0.25,0.9,0.6844356414019925,,0.8518297076225281,9
+cach_mang:09.datnuoc.,Dat Nuoc,cach_mang,0.5,0.8,0.6866463113517925,,0.855182945728302,8
+cach_mang:09.datnuoc.,Dat Nuoc,cach_mang,0.75,0.5,0.7435643018593667,,0.8632299304008484,7
+cach_mang:09.datnuoc.,Dat Nuoc,cach_mang,1.0,0.3,0.819517912353962,,0.8702555894851685,6
+cach_mang:10-ganlamtruongsa.,Gan Lam Truong Sa,cach_mang,0.0,1.0,0.7050738038412407,,0.8651979565620422,8
+cach_mang:10-ganlamtruongsa.,Gan Lam Truong Sa,cach_mang,0.25,0.9,0.7025692440640193,,0.867720901966095,7
+cach_mang:10-ganlamtruongsa.,Gan Lam Truong Sa,cach_mang,0.5,0.9,0.7025692440640194,,0.867720901966095,7
+cach_mang:10-ganlamtruongsa.,Gan Lam Truong Sa,cach_mang,0.75,0.7,0.7114988097403412,,0.8734423518180847,6
+cach_mang:10-ganlamtruongsa.,Gan Lam Truong Sa,cach_mang,1.0,0.3,0.7290193288422887,,0.8761776685714722,8
+cach_mang:11.nhanhlanrung.,Nhanh Lan Rung,cach_mang,0.0,1.0,0.6976330341426198,,0.8510090112686157,8
+cach_mang:11.nhanhlanrung.,Nhanh Lan Rung,cach_mang,0.25,0.9,0.6761497334098407,,0.8555656671524048,9
+cach_mang:11.nhanhlanrung.,Nhanh Lan Rung,cach_mang,0.5,0.7,0.6796376881644522,,0.8612337112426758,9
+cach_mang:11.nhanhlanrung.,Nhanh Lan Rung,cach_mang,0.75,0.6,0.689338452887179,,0.8642174601554871,8
+cach_mang:11.nhanhlanrung.,Nhanh Lan Rung,cach_mang,1.0,0.4,0.6995877554198281,,0.86676025390625,6
+cach_mang:anhbahung-topca_xcnk,Anh Ba Hung,cach_mang,0.0,1.0,0.6909716189803018,,0.8622874021530151,10
+cach_mang:anhbahung-topca_xcnk,Anh Ba Hung,cach_mang,0.25,1.0,0.6909716189803017,,0.8622874021530151,10
+cach_mang:anhbahung-topca_xcnk,Anh Ba Hung,cach_mang,0.5,0.7,0.6659610202644244,,0.8725337982177734,10
+cach_mang:anhbahung-topca_xcnk,Anh Ba Hung,cach_mang,0.75,0.6,0.653680989898237,,0.874245285987854,10
+cach_mang:anhbahung-topca_xcnk,Anh Ba Hung,cach_mang,1.0,0.4,0.6644989880519333,,0.8757498860359192,10
+cach_mang:aomuadong-tungduong-3826026_hq,Ao Mua Dong,cach_mang,0.0,1.0,0.666300267696925,,0.8472169041633606,9
+cach_mang:aomuadong-tungduong-3826026_hq,Ao Mua Dong,cach_mang,0.25,0.9,0.6903528204789074,,0.8504805564880371,8
+cach_mang:aomuadong-tungduong-3826026_hq,Ao Mua Dong,cach_mang,0.5,0.8,0.6956007000523842,,0.855770468711853,8
+cach_mang:aomuadong-tungduong-3826026_hq,Ao Mua Dong,cach_mang,0.75,0.4,0.7798307402702712,,0.8700408935546875,6
+cach_mang:aomuadong-tungduong-3826026_hq,Ao Mua Dong,cach_mang,1.0,0.3,0.7647711775068163,,0.871364414691925,7
+cach_mang:bacdangcungchungchauhanhquan-topc_3jm6j_hq,Bac Dang Cung Chung Chau Hanh Quan,cach_mang,0.0,1.0,0.6881891209550066,,0.8786441683769226,9
+cach_mang:bacdangcungchungchauhanhquan-topc_3jm6j_hq,Bac Dang Cung Chung Chau Hanh Quan,cach_mang,0.25,0.9,0.6855921843761029,,0.8874394297599792,10
+cach_mang:bacdangcungchungchauhanhquan-topc_3jm6j_hq,Bac Dang Cung Chung Chau Hanh Quan,cach_mang,0.5,0.9,0.6855921843761029,,0.8874393701553345,10
+cach_mang:bacdangcungchungchauhanhquan-topc_3jm6j_hq,Bac Dang Cung Chung Chau Hanh Quan,cach_mang,0.75,0.8,0.6878893983028951,,0.8909071683883667,10
+cach_mang:bacdangcungchungchauhanhquan-topc_3jm6j_hq,Bac Dang Cung Chung Chau Hanh Quan,cach_mang,1.0,0.5,0.7137232836567151,,0.8946105241775513,9
+cach_mang:bacdangcungchungchauhanhquan-va-2277688.,Bac Dang Cung Chung Chau Hanh Quan,cach_mang,0.0,1.0,0.6879770696227184,,0.8787349462509155,9
+cach_mang:bacdangcungchungchauhanhquan-va-2277688.,Bac Dang Cung Chung Chau Hanh Quan,cach_mang,0.25,1.0,0.6879770696227184,,0.8787349462509155,9
+cach_mang:bacdangcungchungchauhanhquan-va-2277688.,Bac Dang Cung Chung Chau Hanh Quan,cach_mang,0.5,0.9,0.684593701333997,,0.8860673904418945,10
+cach_mang:bacdangcungchungchauhanhquan-va-2277688.,Bac Dang Cung Chung Chau Hanh Quan,cach_mang,0.75,0.8,0.6768044326460874,,0.8911053538322449,10
+cach_mang:bacdangcungchungchauhanhquan-va-2277688.,Bac Dang Cung Chung Chau Hanh Quan,cach_mang,1.0,0.6,0.6918937038496465,,0.8929745554924011,10
+cach_mang:bachomottinhyeubaola-thanhhoa-2335314.,Bac Ho Mot Tinh Yeu Bao La,cach_mang,0.0,1.0,0.6635916541635961,,0.8628717660903931,9
+cach_mang:bachomottinhyeubaola-thanhhoa-2335314.,Bac Ho Mot Tinh Yeu Bao La,cach_mang,0.25,0.9,0.6688572072565605,,0.8645766377449036,9
+cach_mang:bachomottinhyeubaola-thanhhoa-2335314.,Bac Ho Mot Tinh Yeu Bao La,cach_mang,0.5,0.8,0.6752170849371902,,0.867378830909729,10
+cach_mang:bachomottinhyeubaola-thanhhoa-2335314.,Bac Ho Mot Tinh Yeu Bao La,cach_mang,0.75,0.8,0.6752170849371902,,0.867378830909729,10
+cach_mang:bachomottinhyeubaola-thanhhoa-2335314.,Bac Ho Mot Tinh Yeu Bao La,cach_mang,1.0,0.5,0.7105083863763804,,0.8716766238212585,8
+cach_mang:baicadatphuongnam-dongdao_r2v7,Bai Ca Dat Phuong Nam,cach_mang,0.0,1.0,0.6827343409930461,,0.8709421157836914,8
+cach_mang:baicadatphuongnam-dongdao_r2v7,Bai Ca Dat Phuong Nam,cach_mang,0.25,1.0,0.6827343409930461,,0.8709421157836914,8
+cach_mang:baicadatphuongnam-dongdao_r2v7,Bai Ca Dat Phuong Nam,cach_mang,0.5,1.0,0.6827343409930462,,0.8709421157836914,8
+cach_mang:baicadatphuongnam-dongdao_r2v7,Bai Ca Dat Phuong Nam,cach_mang,0.75,0.7,0.7151908336579642,,0.8776451945304871,7
+cach_mang:baicadatphuongnam-dongdao_r2v7,Bai Ca Dat Phuong Nam,cach_mang,1.0,0.6,0.7236784272985533,,0.878410816192627,6
+cach_mang:baicahochiminh-fmband-3887974_hq,Bai Ca Ho Chi Minh,cach_mang,0.0,1.0,0.6674522338841702,,0.8621153831481934,10
+cach_mang:baicahochiminh-fmband-3887974_hq,Bai Ca Ho Chi Minh,cach_mang,0.25,0.9,0.6743114555610051,,0.8651795387268066,10
+cach_mang:baicahochiminh-fmband-3887974_hq,Bai Ca Ho Chi Minh,cach_mang,0.5,0.7,0.6608226582267278,,0.8717839121818542,10
+cach_mang:baicahochiminh-fmband-3887974_hq,Bai Ca Ho Chi Minh,cach_mang,0.75,0.5,0.6555631298201943,,0.8754938840866089,10
+cach_mang:baicahochiminh-fmband-3887974_hq,Bai Ca Ho Chi Minh,cach_mang,1.0,0.5,0.6281447959900436,,0.8762658834457397,10
+cach_mang:baicahyvong-lananh_9fx_hq,Bai Ca Hy Vong,cach_mang,0.0,1.0,0.7078548309870326,,0.8780258297920227,8
+cach_mang:baicahyvong-lananh_9fx_hq,Bai Ca Hy Vong,cach_mang,0.25,0.9,0.7033601668936579,,0.879620373249054,9
+cach_mang:baicahyvong-lananh_9fx_hq,Bai Ca Hy Vong,cach_mang,0.5,0.8,0.689577428938041,,0.8875540494918823,10
+cach_mang:baicahyvong-lananh_9fx_hq,Bai Ca Hy Vong,cach_mang,0.75,0.6,0.6913534998007509,,0.8930904269218445,10
+cach_mang:baicahyvong-lananh_9fx_hq,Bai Ca Hy Vong,cach_mang,1.0,0.5,0.7296670502881947,,0.8957298994064331,10
+cach_mang:baicahyvong-tungduong-3826024_hq,Bai Ca Hy Vong,cach_mang,0.0,1.0,0.71250277148413,,0.8874877095222473,8
+cach_mang:baicahyvong-tungduong-3826024_hq,Bai Ca Hy Vong,cach_mang,0.25,0.9,0.7052159350704533,,0.8899126052856445,8
+cach_mang:baicahyvong-tungduong-3826024_hq,Bai Ca Hy Vong,cach_mang,0.5,0.8,0.699089736203019,,0.8926323652267456,9
+cach_mang:baicahyvong-tungduong-3826024_hq,Bai Ca Hy Vong,cach_mang,0.75,0.7,0.7002572301997763,,0.8972285389900208,9
+cach_mang:baicahyvong-tungduong-3826024_hq,Bai Ca Hy Vong,cach_mang,1.0,0.3,0.7488090198143518,,0.9019780158996582,10
+cach_mang:baicakhongquen-camvan_3gbny.,Bai Ca Khong Quen,cach_mang,0.0,1.0,0.6804103679777084,,0.8822949528694153,9
+cach_mang:baicakhongquen-camvan_3gbny.,Bai Ca Khong Quen,cach_mang,0.25,0.9,0.6650009011243593,,0.8859097361564636,9
+cach_mang:baicakhongquen-camvan_3gbny.,Bai Ca Khong Quen,cach_mang,0.5,0.8,0.6623257228171242,,0.8920059204101562,10
+cach_mang:baicakhongquen-camvan_3gbny.,Bai Ca Khong Quen,cach_mang,0.75,0.7,0.6450057476791744,,0.8959466218948364,10
+cach_mang:baicakhongquen-camvan_3gbny.,Bai Ca Khong Quen,cach_mang,1.0,0.5,0.6886809043887978,,0.8995314836502075,10
+cach_mang:baicakhongquen-quochungnsut-5129042.,Bai Ca Khong Quen,cach_mang,0.0,1.0,0.684148678930385,,0.8785260915756226,9
+cach_mang:baicakhongquen-quochungnsut-5129042.,Bai Ca Khong Quen,cach_mang,0.25,1.0,0.684148678930385,,0.8785260319709778,9
+cach_mang:baicakhongquen-quochungnsut-5129042.,Bai Ca Khong Quen,cach_mang,0.5,0.8,0.6610297398483175,,0.8863109350204468,9
+cach_mang:baicakhongquen-quochungnsut-5129042.,Bai Ca Khong Quen,cach_mang,0.75,0.6,0.6530296227635983,,0.8920474052429199,10
+cach_mang:baicakhongquen-quochungnsut-5129042.,Bai Ca Khong Quen,cach_mang,1.0,0.5,0.6932122033731141,,0.8936210870742798,9
+cach_mang:baicakhongquen-taminhtam-2267775.,Bai Ca Khong Quen,cach_mang,0.0,1.0,0.680127012381992,,0.8809837102890015,9
+cach_mang:baicakhongquen-taminhtam-2267775.,Bai Ca Khong Quen,cach_mang,0.25,0.9,0.6645828125206573,,0.884170413017273,9
+cach_mang:baicakhongquen-taminhtam-2267775.,Bai Ca Khong Quen,cach_mang,0.5,0.8,0.6633083856965598,,0.8920731544494629,10
+cach_mang:baicakhongquen-taminhtam-2267775.,Bai Ca Khong Quen,cach_mang,0.75,0.6,0.6540480288659705,,0.8971796035766602,10
+cach_mang:baicakhongquen-taminhtam-2267775.,Bai Ca Khong Quen,cach_mang,1.0,0.5,0.7146433075800466,,0.8990924954414368,10
+cach_mang:baicamayao-nhomhaiau_a25,Bai Ca May Ao,cach_mang,0.0,1.0,0.6630047909803477,,0.8670824766159058,10
+cach_mang:baicamayao-nhomhaiau_a25,Bai Ca May Ao,cach_mang,0.25,0.9,0.6691902519315691,,0.869735598564148,10
+cach_mang:baicamayao-nhomhaiau_a25,Bai Ca May Ao,cach_mang,0.5,0.8,0.6703396242812188,,0.8775025606155396,10
+cach_mang:baicamayao-nhomhaiau_a25,Bai Ca May Ao,cach_mang,0.75,0.7,0.6735819973362782,,0.8813111186027527,9
+cach_mang:baicamayao-nhomhaiau_a25,Bai Ca May Ao,cach_mang,1.0,0.5,0.7187822993580133,,0.8831061124801636,9
+cach_mang:baicanamtan-nsndthuhien_326tk,Bai Ca Nam Tan,cach_mang,0.0,1.0,0.660060079989797,,0.8888669013977051,10
+cach_mang:baicanamtan-nsndthuhien_326tk,Bai Ca Nam Tan,cach_mang,0.25,1.0,0.660060079989797,,0.8888669013977051,10
+cach_mang:baicanamtan-nsndthuhien_326tk,Bai Ca Nam Tan,cach_mang,0.5,0.8,0.6578126634017001,,0.8956936001777649,10
+cach_mang:baicanamtan-nsndthuhien_326tk,Bai Ca Nam Tan,cach_mang,0.75,0.7,0.6385449698078196,,0.8965210914611816,10
+cach_mang:baicanamtan-nsndthuhien_326tk,Bai Ca Nam Tan,cach_mang,1.0,0.3,0.7583892485381021,,0.9033064842224121,10
+cach_mang:baicanamtan-topca_ubra,Bai Ca Nam Tan,cach_mang,0.0,1.0,0.6612958153306449,,0.8899544477462769,10
+cach_mang:baicanamtan-topca_ubra,Bai Ca Nam Tan,cach_mang,0.25,0.8,0.6708795254383368,,0.8974105715751648,10
+cach_mang:baicanamtan-topca_ubra,Bai Ca Nam Tan,cach_mang,0.5,0.7,0.6714788784174818,,0.9016059041023254,10
+cach_mang:baicanamtan-topca_ubra,Bai Ca Nam Tan,cach_mang,0.75,0.6,0.6575608537690361,,0.9040980339050293,10
+cach_mang:baicanamtan-topca_ubra,Bai Ca Nam Tan,cach_mang,1.0,0.3,0.709855330189678,,0.9080878496170044,10
+cach_mang:baicanguoigiaoviennhandan-dangduo_3ct9v.,Bai Ca Nguoi Giao Vien Nhan Dan,cach_mang,0.0,1.0,0.6689458507836832,,0.8817365765571594,10
+cach_mang:baicanguoigiaoviennhandan-dangduo_3ct9v.,Bai Ca Nguoi Giao Vien Nhan Dan,cach_mang,0.25,1.0,0.6689458507836832,,0.8817365765571594,10
+cach_mang:baicanguoigiaoviennhandan-dangduo_3ct9v.,Bai Ca Nguoi Giao Vien Nhan Dan,cach_mang,0.5,0.8,0.6745331230016853,,0.8861958384513855,10
+cach_mang:baicanguoigiaoviennhandan-dangduo_3ct9v.,Bai Ca Nguoi Giao Vien Nhan Dan,cach_mang,0.75,0.6,0.6701588810132948,,0.8924065828323364,9
+cach_mang:baicanguoigiaoviennhandan-dangduo_3ct9v.,Bai Ca Nguoi Giao Vien Nhan Dan,cach_mang,1.0,0.5,0.7119685507166349,,0.8944323658943176,9
+cach_mang:baicanguoinutuvesaigon-thanhthuy_a6k_hq,Bai Ca Nguoi Nu Tu Ve Sai Gon,cach_mang,0.0,1.0,0.6530755925697606,,0.8576850891113281,10
+cach_mang:baicanguoinutuvesaigon-thanhthuy_a6k_hq,Bai Ca Nguoi Nu Tu Ve Sai Gon,cach_mang,0.25,1.0,0.6530755925697606,,0.8576850891113281,10
+cach_mang:baicanguoinutuvesaigon-thanhthuy_a6k_hq,Bai Ca Nguoi Nu Tu Ve Sai Gon,cach_mang,0.5,1.0,0.6530755925697606,,0.8576849699020386,10
+cach_mang:baicanguoinutuvesaigon-thanhthuy_a6k_hq,Bai Ca Nguoi Nu Tu Ve Sai Gon,cach_mang,0.75,0.6,0.7042628001036508,,0.8643971681594849,9
+cach_mang:baicanguoinutuvesaigon-thanhthuy_a6k_hq,Bai Ca Nguoi Nu Tu Ve Sai Gon,cach_mang,1.0,0.2,0.7688575366802278,,0.8700019121170044,7
+cach_mang:baicathongnhat-anhtho_38fnf.,Bai Ca Thong Nhat,cach_mang,0.0,1.0,0.6942026402038587,,0.8884701728820801,9
+cach_mang:baicathongnhat-anhtho_38fnf.,Bai Ca Thong Nhat,cach_mang,0.25,1.0,0.6942026402038586,,0.8884701728820801,9
+cach_mang:baicathongnhat-anhtho_38fnf.,Bai Ca Thong Nhat,cach_mang,0.5,0.9,0.6947816680073438,,0.8907435536384583,9
+cach_mang:baicathongnhat-anhtho_38fnf.,Bai Ca Thong Nhat,cach_mang,0.75,0.8,0.7019997846640105,,0.8938180208206177,9
+cach_mang:baicathongnhat-anhtho_38fnf.,Bai Ca Thong Nhat,cach_mang,1.0,0.5,0.6841114494984137,,0.8964008092880249,10
+cach_mang:baicathongnhat-trongtan-2587700.,Bai Ca Thong Nhat,cach_mang,0.0,1.0,0.678466039687093,,0.8924515843391418,8
+cach_mang:baicathongnhat-trongtan-2587700.,Bai Ca Thong Nhat,cach_mang,0.25,0.9,0.6792582933594831,,0.8962623476982117,9
+cach_mang:baicathongnhat-trongtan-2587700.,Bai Ca Thong Nhat,cach_mang,0.5,0.8,0.6630442821292416,,0.898900032043457,9
+cach_mang:baicathongnhat-trongtan-2587700.,Bai Ca Thong Nhat,cach_mang,0.75,0.8,0.6630442821292417,,0.8989001512527466,9
+cach_mang:baicathongnhat-trongtan-2587700.,Bai Ca Thong Nhat,cach_mang,1.0,0.6,0.6430187357671702,,0.9023211598396301,10
+cach_mang:baicaxaydung-quanglinh_xgcy,Bai Ca Xay Dung,cach_mang,0.0,1.0,0.6404504196602936,,0.8593935966491699,10
+cach_mang:baicaxaydung-quanglinh_xgcy,Bai Ca Xay Dung,cach_mang,0.25,1.0,0.6404504196602936,,0.8593935966491699,10
+cach_mang:baicaxaydung-quanglinh_xgcy,Bai Ca Xay Dung,cach_mang,0.5,0.9,0.659096849144057,,0.8615854978561401,9
+cach_mang:baicaxaydung-quanglinh_xgcy,Bai Ca Xay Dung,cach_mang,0.75,0.7,0.6860119119861656,,0.8661590814590454,9
+cach_mang:baicaxaydung-quanglinh_xgcy,Bai Ca Xay Dung,cach_mang,1.0,0.5,0.7438849474485082,,0.8680132627487183,8
+cach_mang:baonoilenroi-topcanam_czdw,Bao Noi Len Roi,cach_mang,0.0,1.0,0.6809053245004487,,0.8645867109298706,10
+cach_mang:baonoilenroi-topcanam_czdw,Bao Noi Len Roi,cach_mang,0.25,0.9,0.6858918650921697,,0.8657539486885071,10
+cach_mang:baonoilenroi-topcanam_czdw,Bao Noi Len Roi,cach_mang,0.5,0.9,0.6898849759977486,,0.8673429489135742,9
+cach_mang:baonoilenroi-topcanam_czdw,Bao Noi Len Roi,cach_mang,0.75,0.9,0.6898849759977485,,0.8673429489135742,9
+cach_mang:baonoilenroi-topcanam_czdw,Bao Noi Len Roi,cach_mang,1.0,0.3,0.7298424848937489,,0.8759528398513794,9
+cach_mang:bayquabiendong-m4u_36yg6_hq,Bay Qua Bien Dong,cach_mang,0.0,1.0,0.6921886457499082,,0.8633133769035339,7
+cach_mang:bayquabiendong-m4u_36yg6_hq,Bay Qua Bien Dong,cach_mang,0.25,1.0,0.6921886457499081,,0.8633133769035339,7
+cach_mang:bayquabiendong-m4u_36yg6_hq,Bay Qua Bien Dong,cach_mang,0.5,0.7,0.7047793876057622,,0.8694265484809875,6
+cach_mang:bayquabiendong-m4u_36yg6_hq,Bay Qua Bien Dong,cach_mang,0.75,0.6,0.7117085002704029,,0.8720517158508301,7
+cach_mang:bayquabiendong-m4u_36yg6_hq,Bay Qua Bien Dong,cach_mang,1.0,0.1,0.7240651675252664,,0.8785225749015808,8
+cach_mang:bienhatchieunay-tungduong-3826034_hq,Bien Hat Chieu Nay,cach_mang,0.0,1.0,0.6914218209600764,,0.8839558362960815,8
+cach_mang:bienhatchieunay-tungduong-3826034_hq,Bien Hat Chieu Nay,cach_mang,0.25,1.0,0.6914218209600763,,0.8839558362960815,8
+cach_mang:bienhatchieunay-tungduong-3826034_hq,Bien Hat Chieu Nay,cach_mang,0.5,0.9,0.6865823023140435,,0.8883312940597534,8
+cach_mang:bienhatchieunay-tungduong-3826034_hq,Bien Hat Chieu Nay,cach_mang,0.75,0.8,0.6854764986204075,,0.8898841142654419,8
+cach_mang:bienhatchieunay-tungduong-3826034_hq,Bien Hat Chieu Nay,cach_mang,1.0,0.5,0.7397597774816649,,0.8941261172294617,8
+cach_mang:cauhobenbohienluong-anhtho_3dzyz_hq,Cau Ho Ben Bo Hien Luong,cach_mang,0.0,1.0,0.6840059502630977,,0.8753007650375366,10
+cach_mang:cauhobenbohienluong-anhtho_3dzyz_hq,Cau Ho Ben Bo Hien Luong,cach_mang,0.25,0.9,0.6896040478745429,,0.8775501251220703,9
+cach_mang:cauhobenbohienluong-anhtho_3dzyz_hq,Cau Ho Ben Bo Hien Luong,cach_mang,0.5,0.9,0.6943285451219845,,0.8786001205444336,9
+cach_mang:cauhobenbohienluong-anhtho_3dzyz_hq,Cau Ho Ben Bo Hien Luong,cach_mang,0.75,0.7,0.7097670258040981,,0.8866826891899109,8
+cach_mang:cauhobenbohienluong-anhtho_3dzyz_hq,Cau Ho Ben Bo Hien Luong,cach_mang,1.0,0.3,0.8062563930530252,,0.8932632207870483,8
+cach_mang:cauhobenbohienluong-dantruong_rjnh,Cau Ho Ben Bo Hien Luong,cach_mang,0.0,1.0,0.7083498006221312,,0.8748361468315125,8
+cach_mang:cauhobenbohienluong-dantruong_rjnh,Cau Ho Ben Bo Hien Luong,cach_mang,0.25,0.8,0.6904277491623723,,0.882501482963562,9
+cach_mang:cauhobenbohienluong-dantruong_rjnh,Cau Ho Ben Bo Hien Luong,cach_mang,0.5,0.8,0.6904277491623722,,0.882501482963562,9
+cach_mang:cauhobenbohienluong-dantruong_rjnh,Cau Ho Ben Bo Hien Luong,cach_mang,0.75,0.6,0.7124633679544251,,0.8926616907119751,9
+cach_mang:cauhobenbohienluong-dantruong_rjnh,Cau Ho Ben Bo Hien Luong,cach_mang,1.0,0.2,0.8137054194146627,,0.8990284204483032,9
+nhac_trinh:01.hatrang.,Ha Trang,nhac_trinh,0.0,1.0,0.5446992097968646,,0.8778418302536011,9
+nhac_trinh:01.hatrang.,Ha Trang,nhac_trinh,0.25,1.0,0.5446992097968644,,0.8778418302536011,9
+nhac_trinh:01.hatrang.,Ha Trang,nhac_trinh,0.5,0.7,0.5531469508521165,,0.8871933817863464,9
+nhac_trinh:01.hatrang.,Ha Trang,nhac_trinh,0.75,0.5,0.6194264801224616,,0.8950761556625366,9
+nhac_trinh:01.hatrang.,Ha Trang,nhac_trinh,1.0,0.3,0.6475100642301881,,0.8967223167419434,9
+nhac_trinh:01.xinchotoi.,Xin Cho Toi,nhac_trinh,0.0,1.0,0.7172825952022797,,0.8472493886947632,10
+nhac_trinh:01.xinchotoi.,Xin Cho Toi,nhac_trinh,0.25,0.9,0.7152249411761663,,0.8490071296691895,10
+nhac_trinh:01.xinchotoi.,Xin Cho Toi,nhac_trinh,0.5,0.7,0.6995767146364972,,0.854407787322998,9
+nhac_trinh:01.xinchotoi.,Xin Cho Toi,nhac_trinh,0.75,0.6,0.7187162043788853,,0.8588777780532837,9
+nhac_trinh:01.xinchotoi.,Xin Cho Toi,nhac_trinh,1.0,0.1,0.8403062480994093,,0.8682858347892761,6
+nhac_trinh:02chieumotminhquapho.,Chieu Mot Minh Qua Pho,nhac_trinh,0.0,1.0,0.4663985382936626,,0.8764867782592773,8
+nhac_trinh:02chieumotminhquapho.,Chieu Mot Minh Qua Pho,nhac_trinh,0.25,0.9,0.5081889046597322,,0.8788909912109375,9
+nhac_trinh:02chieumotminhquapho.,Chieu Mot Minh Qua Pho,nhac_trinh,0.5,0.5,0.5947124166933078,,0.8925307989120483,8
+nhac_trinh:02chieumotminhquapho.,Chieu Mot Minh Qua Pho,nhac_trinh,0.75,0.3,0.6332649923347684,,0.9022294878959656,8
+nhac_trinh:02chieumotminhquapho.,Chieu Mot Minh Qua Pho,nhac_trinh,1.0,0.2,0.6845006732011737,,0.9039983749389648,8
+nhac_trinh:03-degiocuondisongcavoiductuan.,De Gio Cuon Di Song Ca Voi Duc Tuan,nhac_trinh,0.0,1.0,0.5023163883321428,,0.8740102648735046,8
+nhac_trinh:03-degiocuondisongcavoiductuan.,De Gio Cuon Di Song Ca Voi Duc Tuan,nhac_trinh,0.25,0.8,0.5695920362821421,,0.8792206645011902,8
+nhac_trinh:03-degiocuondisongcavoiductuan.,De Gio Cuon Di Song Ca Voi Duc Tuan,nhac_trinh,0.5,0.7,0.585374150992413,,0.8824698328971863,8
+nhac_trinh:03-degiocuondisongcavoiductuan.,De Gio Cuon Di Song Ca Voi Duc Tuan,nhac_trinh,0.75,0.6,0.6063524658470918,,0.8899356126785278,7
+nhac_trinh:03-degiocuondisongcavoiductuan.,De Gio Cuon Di Song Ca Voi Duc Tuan,nhac_trinh,1.0,0.6,0.6650316000115072,,0.8942867517471313,9
+nhac_trinh:03-rungxuadakhep-trinhcongson.,Rung Xua Da Khep,nhac_trinh,0.0,1.0,0.6879351122969483,,0.8614231944084167,6
+nhac_trinh:03-rungxuadakhep-trinhcongson.,Rung Xua Da Khep,nhac_trinh,0.25,0.8,0.6871403024766101,,0.8698498606681824,4
+nhac_trinh:03-rungxuadakhep-trinhcongson.,Rung Xua Da Khep,nhac_trinh,0.5,0.7,0.6871421679895422,,0.8762840032577515,4
+nhac_trinh:03-rungxuadakhep-trinhcongson.,Rung Xua Da Khep,nhac_trinh,0.75,0.7,0.6871421679895421,,0.8762840032577515,4
+nhac_trinh:03-rungxuadakhep-trinhcongson.,Rung Xua Da Khep,nhac_trinh,1.0,0.3,0.7530260745685357,,0.8800855875015259,5
+nhac_trinh:03-trinhcongson-xintranonguoi.,Trinh Cong Son,nhac_trinh,0.0,1.0,0.6971837149258089,,0.8814206123352051,4
+nhac_trinh:03-trinhcongson-xintranonguoi.,Trinh Cong Son,nhac_trinh,0.25,0.9,0.6954962669004041,,0.8875986337661743,3
+nhac_trinh:03-trinhcongson-xintranonguoi.,Trinh Cong Son,nhac_trinh,0.5,0.8,0.692613151453809,,0.8912930488586426,2
+nhac_trinh:03-trinhcongson-xintranonguoi.,Trinh Cong Son,nhac_trinh,0.75,0.8,0.692613151453809,,0.8912930488586426,2
+nhac_trinh:03-trinhcongson-xintranonguoi.,Trinh Cong Son,nhac_trinh,1.0,0.7,0.7653629043623418,,0.8932722806930542,4
+nhac_trinh:03.ruemtungngonxuannong.,Ru Em Tung Ngon Xuan Nong,nhac_trinh,0.0,1.0,0.5790962795122699,,0.8862870931625366,8
+nhac_trinh:03.ruemtungngonxuannong.,Ru Em Tung Ngon Xuan Nong,nhac_trinh,0.25,0.8,0.6142288970563428,,0.8967511057853699,8
+nhac_trinh:03.ruemtungngonxuannong.,Ru Em Tung Ngon Xuan Nong,nhac_trinh,0.5,0.8,0.6142288970563428,,0.8967510461807251,8
+nhac_trinh:03.ruemtungngonxuannong.,Ru Em Tung Ngon Xuan Nong,nhac_trinh,0.75,0.5,0.6228343623613443,,0.9126079678535461,9
+nhac_trinh:03.ruemtungngonxuannong.,Ru Em Tung Ngon Xuan Nong,nhac_trinh,1.0,0.4,0.7201596798035429,,0.9139750599861145,8
+nhac_trinh:04.muahong.,Mua Hong,nhac_trinh,0.0,1.0,0.414543465161605,,0.9214602708816528,7
+nhac_trinh:04.muahong.,Mua Hong,nhac_trinh,0.25,1.0,0.414543465161605,,0.9214602708816528,7
+nhac_trinh:04.muahong.,Mua Hong,nhac_trinh,0.5,0.8,0.41417251294805546,,0.9237855672836304,8
+nhac_trinh:04.muahong.,Mua Hong,nhac_trinh,0.75,0.7,0.4635039169125846,,0.9285496473312378,8
+nhac_trinh:04.muahong.,Mua Hong,nhac_trinh,1.0,0.6,0.5018663768105951,,0.931013286113739,8
+nhac_trinh:05.emconnhohayemdaquen.,Em Con Nho Hay Em Da Quen,nhac_trinh,0.0,1.0,0.3282217343173886,,0.8324429392814636,6
+nhac_trinh:05.emconnhohayemdaquen.,Em Con Nho Hay Em Da Quen,nhac_trinh,0.25,0.9,0.4260761296797035,,0.8363412022590637,6
+nhac_trinh:05.emconnhohayemdaquen.,Em Con Nho Hay Em Da Quen,nhac_trinh,0.5,0.4,0.6319027564268963,,0.8568307757377625,9
+nhac_trinh:05.emconnhohayemdaquen.,Em Con Nho Hay Em Da Quen,nhac_trinh,0.75,0.3,0.6424888819017875,,0.8595768213272095,9
+nhac_trinh:05.emconnhohayemdaquen.,Em Con Nho Hay Em Da Quen,nhac_trinh,1.0,0.3,0.7000799345397009,,0.8627527952194214,7
+nhac_trinh:08-conmatconlai.,Con Mat Con Lai,nhac_trinh,0.0,1.0,0.7068545060973069,,0.8660426139831543,8
+nhac_trinh:08-conmatconlai.,Con Mat Con Lai,nhac_trinh,0.25,1.0,0.7068545060973069,,0.8660426139831543,8
+nhac_trinh:08-conmatconlai.,Con Mat Con Lai,nhac_trinh,0.5,0.7,0.7226646526367333,,0.8739608526229858,9
+nhac_trinh:08-conmatconlai.,Con Mat Con Lai,nhac_trinh,0.75,0.6,0.7174363564881716,,0.8790332078933716,8
+nhac_trinh:08-conmatconlai.,Con Mat Con Lai,nhac_trinh,1.0,0.1,0.8067636494622696,,0.8843188285827637,3
+nhac_trinh:09.rutangamngui.,Ru Ta Ngam Ngui,nhac_trinh,0.0,1.0,0.5379423744761898,,0.871200442314148,9
+nhac_trinh:09.rutangamngui.,Ru Ta Ngam Ngui,nhac_trinh,0.25,0.7,0.634052452645872,,0.8877686262130737,8
+nhac_trinh:09.rutangamngui.,Ru Ta Ngam Ngui,nhac_trinh,0.5,0.6,0.6696223917205478,,0.898558497428894,8
+nhac_trinh:09.rutangamngui.,Ru Ta Ngam Ngui,nhac_trinh,0.75,0.4,0.6555940125797284,,0.9030512571334839,9
+nhac_trinh:09.rutangamngui.,Ru Ta Ngam Ngui,nhac_trinh,1.0,0.3,0.7223396743314535,,0.905769944190979,8
+nhac_trinh:10-phoipha.,Phoi Pha,nhac_trinh,0.0,1.0,0.6095195149202478,,0.882422924041748,9
+nhac_trinh:10-phoipha.,Phoi Pha,nhac_trinh,0.25,0.8,0.6199452277184478,,0.8900526762008667,8
+nhac_trinh:10-phoipha.,Phoi Pha,nhac_trinh,0.5,0.7,0.6110276245491184,,0.8953388929367065,8
+nhac_trinh:10-phoipha.,Phoi Pha,nhac_trinh,0.75,0.6,0.6423281409280406,,0.8990537524223328,9
+nhac_trinh:10-phoipha.,Phoi Pha,nhac_trinh,1.0,0.4,0.7508120446638962,,0.9058116674423218,8
+nhac_trinh:10.tinhxa.,Tinh Xa,nhac_trinh,0.0,1.0,0.6092532005028919,,0.8696554899215698,9
+nhac_trinh:10.tinhxa.,Tinh Xa,nhac_trinh,0.25,1.0,0.6092532005028919,,0.8696554899215698,9
+nhac_trinh:10.tinhxa.,Tinh Xa,nhac_trinh,0.5,0.8,0.6481378753063558,,0.8782987594604492,8
+nhac_trinh:10.tinhxa.,Tinh Xa,nhac_trinh,0.75,0.6,0.6755369386601364,,0.8844470977783203,9
+nhac_trinh:10.tinhxa.,Tinh Xa,nhac_trinh,1.0,0.3,0.7691909943084887,,0.8872600793838501,8
+nhac_trinh:19nhucanhvacbay-bangkieu.,Nhu Canh Vac Bay,nhac_trinh,0.0,1.0,0.621114683718045,,0.8435598611831665,7
+nhac_trinh:19nhucanhvacbay-bangkieu.,Nhu Canh Vac Bay,nhac_trinh,0.25,0.9,0.6218793440362688,,0.8449803590774536,8
+nhac_trinh:19nhucanhvacbay-bangkieu.,Nhu Canh Vac Bay,nhac_trinh,0.5,0.5,0.5933006180260226,,0.8527818918228149,10
+nhac_trinh:19nhucanhvacbay-bangkieu.,Nhu Canh Vac Bay,nhac_trinh,0.75,0.4,0.6020790272996163,,0.8554784655570984,9
+nhac_trinh:19nhucanhvacbay-bangkieu.,Nhu Canh Vac Bay,nhac_trinh,1.0,0.1,0.8575133147800854,,0.864054799079895,9
+nhac_trinh:31tinhkhucobai-trinhvinhtrinh.,Tinh Khuc O Bai,nhac_trinh,0.0,1.0,0.7294413868376606,,0.8612691760063171,5
+nhac_trinh:31tinhkhucobai-trinhvinhtrinh.,Tinh Khuc O Bai,nhac_trinh,0.25,0.8,0.7054006144056574,,0.8648295402526855,5
+nhac_trinh:31tinhkhucobai-trinhvinhtrinh.,Tinh Khuc O Bai,nhac_trinh,0.5,0.6,0.69936274699335,,0.8701852560043335,6
+nhac_trinh:31tinhkhucobai-trinhvinhtrinh.,Tinh Khuc O Bai,nhac_trinh,0.75,0.4,0.6989548204206469,,0.8750002980232239,7
+nhac_trinh:31tinhkhucobai-trinhvinhtrinh.,Tinh Khuc O Bai,nhac_trinh,1.0,0.1,0.7522772559478119,,0.8806630373001099,9
+nhac_trinh:biennho-lequyen-5410854.,Bien Nho,nhac_trinh,0.0,1.0,0.5926149537160386,,0.8872367739677429,4
+nhac_trinh:biennho-lequyen-5410854.,Bien Nho,nhac_trinh,0.25,0.9,0.6237819079734583,,0.8919594883918762,3
+nhac_trinh:biennho-lequyen-5410854.,Bien Nho,nhac_trinh,0.5,0.9,0.6237819079734584,,0.8919594883918762,3
+nhac_trinh:biennho-lequyen-5410854.,Bien Nho,nhac_trinh,0.75,0.8,0.6488091567441604,,0.8928869366645813,3
+nhac_trinh:biennho-lequyen-5410854.,Bien Nho,nhac_trinh,1.0,0.7,0.6675822160790162,,0.8941389918327332,5
+nhac_trinh:biennho-ngoclan_3nerm_hq,Bien Nho,nhac_trinh,0.0,1.0,0.5690770537235056,,0.8565192222595215,8
+nhac_trinh:biennho-ngoclan_3nerm_hq,Bien Nho,nhac_trinh,0.25,0.9,0.580615203065085,,0.8577252626419067,8
+nhac_trinh:biennho-ngoclan_3nerm_hq,Bien Nho,nhac_trinh,0.5,0.9,0.580615203065085,,0.8577253222465515,8
+nhac_trinh:biennho-ngoclan_3nerm_hq,Bien Nho,nhac_trinh,0.75,0.7,0.6030302222488348,,0.8653477430343628,9
+nhac_trinh:biennho-ngoclan_3nerm_hq,Bien Nho,nhac_trinh,1.0,0.3,0.8265073938183767,,0.8691197633743286,8
+nhac_trinh:cadaome-damvinhhung-4085989.,Ca Dao Me,nhac_trinh,0.0,1.0,0.6408853053323031,,0.8592925071716309,7
+nhac_trinh:cadaome-damvinhhung-4085989.,Ca Dao Me,nhac_trinh,0.25,1.0,0.6408853053323031,,0.8592925071716309,7
+nhac_trinh:cadaome-damvinhhung-4085989.,Ca Dao Me,nhac_trinh,0.5,0.8,0.6511128797264438,,0.8653160929679871,7
+nhac_trinh:cadaome-damvinhhung-4085989.,Ca Dao Me,nhac_trinh,0.75,0.4,0.7079064086506527,,0.8725214004516602,8
+nhac_trinh:cadaome-damvinhhung-4085989.,Ca Dao Me,nhac_trinh,1.0,0.2,0.8380693631482071,,0.8782970309257507,10
+nhac_trinh:cadaome-trinhcongson_37jan_hq,Ca Dao Me,nhac_trinh,0.0,1.0,0.6790761326953568,,0.8769658803939819,5
+nhac_trinh:cadaome-trinhcongson_37jan_hq,Ca Dao Me,nhac_trinh,0.25,0.9,0.689414636273269,,0.8802614212036133,4
+nhac_trinh:cadaome-trinhcongson_37jan_hq,Ca Dao Me,nhac_trinh,0.5,0.8,0.6979387531074596,,0.8826541900634766,3
+nhac_trinh:cadaome-trinhcongson_37jan_hq,Ca Dao Me,nhac_trinh,0.75,0.7,0.7003158721235239,,0.8846545219421387,3
+nhac_trinh:cadaome-trinhcongson_37jan_hq,Ca Dao Me,nhac_trinh,1.0,0.7,0.733771920274819,,0.8865609169006348,4
+nhac_trinh:catbui-damvinhhung_3gthf,Cat Bui,nhac_trinh,0.0,1.0,0.7076533583492555,,0.8595690727233887,8
+nhac_trinh:catbui-damvinhhung_3gthf,Cat Bui,nhac_trinh,0.25,1.0,0.7076533583492555,,0.8595690727233887,8
+nhac_trinh:catbui-damvinhhung_3gthf,Cat Bui,nhac_trinh,0.5,0.7,0.7532882932459556,,0.8698487281799316,8
+nhac_trinh:catbui-damvinhhung_3gthf,Cat Bui,nhac_trinh,0.75,0.5,0.7542434352698825,,0.8749721646308899,8
+nhac_trinh:catbui-damvinhhung_3gthf,Cat Bui,nhac_trinh,1.0,0.4,0.7754088298193503,,0.8760857582092285,8
+nhac_trinh:catbui-dinhnguyen_3cp7e_hq,Cat Bui,nhac_trinh,0.0,1.0,0.6421925459786212,,0.8431558609008789,7
+nhac_trinh:catbui-dinhnguyen_3cp7e_hq,Cat Bui,nhac_trinh,0.25,0.8,0.6881405556331959,,0.8575013279914856,7
+nhac_trinh:catbui-dinhnguyen_3cp7e_hq,Cat Bui,nhac_trinh,0.5,0.6,0.7075664822859149,,0.8644901514053345,8
+nhac_trinh:catbui-dinhnguyen_3cp7e_hq,Cat Bui,nhac_trinh,0.75,0.4,0.7133863611265693,,0.8675780296325684,8
+nhac_trinh:catbui-dinhnguyen_3cp7e_hq,Cat Bui,nhac_trinh,1.0,0.3,0.7795077700450648,,0.8694373965263367,9
+nhac_trinh:catbui-khanhly-3667568_hq,Cat Bui,nhac_trinh,0.0,1.0,0.6953898441474449,,0.850605845451355,9
+nhac_trinh:catbui-khanhly-3667568_hq,Cat Bui,nhac_trinh,0.25,1.0,0.6953898441474449,,0.850605845451355,9
+nhac_trinh:catbui-khanhly-3667568_hq,Cat Bui,nhac_trinh,0.5,0.6,0.747127279480136,,0.8675459623336792,8
+nhac_trinh:catbui-khanhly-3667568_hq,Cat Bui,nhac_trinh,0.75,0.5,0.7469487306601579,,0.8698726892471313,8
+nhac_trinh:catbui-khanhly-3667568_hq,Cat Bui,nhac_trinh,1.0,0.3,0.7503456424560491,,0.8726059794425964,7
+nhac_trinh:chieumotminhquapho-lannha-5663426_hq,Chieu Mot Minh Qua Pho,nhac_trinh,0.0,1.0,0.5021604224529194,,0.8626350164413452,8
+nhac_trinh:chieumotminhquapho-lannha-5663426_hq,Chieu Mot Minh Qua Pho,nhac_trinh,0.25,0.9,0.5346362522480377,,0.8668540716171265,7
+nhac_trinh:chieumotminhquapho-lannha-5663426_hq,Chieu Mot Minh Qua Pho,nhac_trinh,0.5,0.8,0.4975873198334041,,0.8683050870895386,8
+nhac_trinh:chieumotminhquapho-lannha-5663426_hq,Chieu Mot Minh Qua Pho,nhac_trinh,0.75,0.7,0.5688661438041744,,0.8730764389038086,7
+nhac_trinh:chieumotminhquapho-lannha-5663426_hq,Chieu Mot Minh Qua Pho,nhac_trinh,1.0,0.3,0.7427188278560798,,0.8786085247993469,9
+nhac_trinh:chieumotminhquapho-ngoclan-47804.,Chieu Mot Minh Qua Pho,nhac_trinh,0.0,1.0,0.5035516346714363,,0.8786808848381042,8
+nhac_trinh:chieumotminhquapho-ngoclan-47804.,Chieu Mot Minh Qua Pho,nhac_trinh,0.25,0.9,0.5177748538941696,,0.8830536603927612,8
+nhac_trinh:chieumotminhquapho-ngoclan-47804.,Chieu Mot Minh Qua Pho,nhac_trinh,0.5,0.6,0.6116825595943219,,0.892889678478241,8
+nhac_trinh:chieumotminhquapho-ngoclan-47804.,Chieu Mot Minh Qua Pho,nhac_trinh,0.75,0.5,0.6337633936817514,,0.8971041440963745,8
+nhac_trinh:chieumotminhquapho-ngoclan-47804.,Chieu Mot Minh Qua Pho,nhac_trinh,1.0,0.3,0.7505237719907749,,0.9014995694160461,8
+nhac_trinh:chimduoiconmua-trinhcongson_393m9,Chim Duoi Con Mua,nhac_trinh,0.0,1.0,0.5940859555224879,,0.8720532655715942,5
+nhac_trinh:chimduoiconmua-trinhcongson_393m9,Chim Duoi Con Mua,nhac_trinh,0.25,1.0,0.5940859555224879,,0.8720532655715942,5
+nhac_trinh:chimduoiconmua-trinhcongson_393m9,Chim Duoi Con Mua,nhac_trinh,0.5,0.8,0.6364732589347933,,0.8756083250045776,6
+nhac_trinh:chimduoiconmua-trinhcongson_393m9,Chim Duoi Con Mua,nhac_trinh,0.75,0.8,0.6755209971317885,,0.8771408200263977,6
+nhac_trinh:chimduoiconmua-trinhcongson_393m9,Chim Duoi Con Mua,nhac_trinh,1.0,0.6,0.6974959996631928,,0.8791068196296692,5
+nhac_trinh:conaivoiai-quangdung-720932.,Con Ai Voi Ai,nhac_trinh,0.0,1.0,0.7226562481648484,,0.8393977284431458,8
+nhac_trinh:conaivoiai-quangdung-720932.,Con Ai Voi Ai,nhac_trinh,0.25,0.9,0.739636563374401,,0.8444315195083618,7
+nhac_trinh:conaivoiai-quangdung-720932.,Con Ai Voi Ai,nhac_trinh,0.5,0.8,0.7365821271975487,,0.8488327264785767,6
+nhac_trinh:conaivoiai-quangdung-720932.,Con Ai Voi Ai,nhac_trinh,0.75,0.7,0.7419661969034573,,0.8510963320732117,6
+nhac_trinh:conaivoiai-quangdung-720932.,Con Ai Voi Ai,nhac_trinh,1.0,0.2,0.8380683215871302,,0.8565549850463867,8
+nhac_trinh:contuoinaochoem-builanhuong-7583083,Con Tuoi Nao Cho Em,nhac_trinh,0.0,1.0,0.4748630554958139,,0.8756400346755981,7
+nhac_trinh:contuoinaochoem-builanhuong-7583083,Con Tuoi Nao Cho Em,nhac_trinh,0.25,0.8,0.5809403749442507,,0.8825492858886719,9
+nhac_trinh:contuoinaochoem-builanhuong-7583083,Con Tuoi Nao Cho Em,nhac_trinh,0.5,0.7,0.6049256454721172,,0.8865112066268921,9
+nhac_trinh:contuoinaochoem-builanhuong-7583083,Con Tuoi Nao Cho Em,nhac_trinh,0.75,0.7,0.608815648437768,,0.8894861936569214,9
+nhac_trinh:contuoinaochoem-builanhuong-7583083,Con Tuoi Nao Cho Em,nhac_trinh,1.0,0.4,0.7606237454667851,,0.8974517583847046,10
+nhac_trinh:contuoinaochoem-lequyen-5410858.,Con Tuoi Nao Cho Em,nhac_trinh,0.0,1.0,0.4871031263413864,,0.8606941103935242,7
+nhac_trinh:contuoinaochoem-lequyen-5410858.,Con Tuoi Nao Cho Em,nhac_trinh,0.25,0.9,0.49226982190272545,,0.8656150698661804,6
+nhac_trinh:contuoinaochoem-lequyen-5410858.,Con Tuoi Nao Cho Em,nhac_trinh,0.5,0.8,0.5483719087236938,,0.8682826161384583,5
+nhac_trinh:contuoinaochoem-lequyen-5410858.,Con Tuoi Nao Cho Em,nhac_trinh,0.75,0.5,0.6630919231820334,,0.8784712553024292,4
+nhac_trinh:contuoinaochoem-lequyen-5410858.,Con Tuoi Nao Cho Em,nhac_trinh,1.0,0.3,0.7507708373696086,,0.879815399646759,6
+nhac_trinh:contuoinaochoem-minhthinhsuy-6929901.,Con Tuoi Nao Cho Em,nhac_trinh,0.0,1.0,0.6116709329512594,,0.8506600260734558,9
+nhac_trinh:contuoinaochoem-minhthinhsuy-6929901.,Con Tuoi Nao Cho Em,nhac_trinh,0.25,0.9,0.6264020384270438,,0.8534555435180664,9
+nhac_trinh:contuoinaochoem-minhthinhsuy-6929901.,Con Tuoi Nao Cho Em,nhac_trinh,0.5,0.5,0.6297363911908868,,0.8648138046264648,7
+nhac_trinh:contuoinaochoem-minhthinhsuy-6929901.,Con Tuoi Nao Cho Em,nhac_trinh,0.75,0.4,0.6545124071670854,,0.8689732551574707,5
+nhac_trinh:contuoinaochoem-minhthinhsuy-6929901.,Con Tuoi Nao Cho Em,nhac_trinh,1.0,0.2,0.7228461975802337,,0.8707301020622253,9
+nhac_trinh:dauchandiadang-lequyen-5410855.,Dau Chan Dia Dang,nhac_trinh,0.0,1.0,0.5128690121995834,,0.8788672685623169,6
+nhac_trinh:dauchandiadang-lequyen-5410855.,Dau Chan Dia Dang,nhac_trinh,0.25,0.9,0.5169758216096471,,0.8853519558906555,5
+nhac_trinh:dauchandiadang-lequyen-5410855.,Dau Chan Dia Dang,nhac_trinh,0.5,0.8,0.5696626983530264,,0.8865130543708801,4
+nhac_trinh:dauchandiadang-lequyen-5410855.,Dau Chan Dia Dang,nhac_trinh,0.75,0.6,0.6269215034835243,,0.8894092440605164,4
+nhac_trinh:dauchandiadang-lequyen-5410855.,Dau Chan Dia Dang,nhac_trinh,1.0,0.6,0.6730881747012784,,0.8922361135482788,6
+nhac_trinh:dauchandiadang-quangdung_39w5b.,Dau Chan Dia Dang,nhac_trinh,0.0,1.0,0.5551076862444039,,0.8638728857040405,6
+nhac_trinh:dauchandiadang-quangdung_39w5b.,Dau Chan Dia Dang,nhac_trinh,0.25,0.8,0.462367470681824,,0.8679119944572449,6
+nhac_trinh:dauchandiadang-quangdung_39w5b.,Dau Chan Dia Dang,nhac_trinh,0.5,0.6,0.5287089227859871,,0.8727140426635742,6
+nhac_trinh:dauchandiadang-quangdung_39w5b.,Dau Chan Dia Dang,nhac_trinh,0.75,0.3,0.6859693318894803,,0.8839098811149597,7
+nhac_trinh:dauchandiadang-quangdung_39w5b.,Dau Chan Dia Dang,nhac_trinh,1.0,0.2,0.7773571341425888,,0.8886831402778625,9
+nhac_trinh:dauchandiadang-thudang-2596273_hq,Dau Chan Dia Dang,nhac_trinh,0.0,1.0,0.6262437540313683,,0.8859780430793762,6
+nhac_trinh:dauchandiadang-thudang-2596273_hq,Dau Chan Dia Dang,nhac_trinh,0.25,0.9,0.6401471284681592,,0.8891497850418091,6
+nhac_trinh:dauchandiadang-thudang-2596273_hq,Dau Chan Dia Dang,nhac_trinh,0.5,0.8,0.6653459464455671,,0.8933216333389282,7
+nhac_trinh:dauchandiadang-thudang-2596273_hq,Dau Chan Dia Dang,nhac_trinh,0.75,0.6,0.6687289881500712,,0.9019249677658081,8
+nhac_trinh:dauchandiadang-thudang-2596273_hq,Dau Chan Dia Dang,nhac_trinh,1.0,0.5,0.7400710063118756,,0.9042768478393555,8
+nhac_trinh:degiocuondi-foreststudiotrucnhanthuminh-8436179.,De Gio Cuon Di,nhac_trinh,0.0,1.0,0.5519124705222789,,0.8687283396720886,8
+nhac_trinh:degiocuondi-foreststudiotrucnhanthuminh-8436179.,De Gio Cuon Di,nhac_trinh,0.25,0.8,0.5831180851507825,,0.8734579086303711,8
+nhac_trinh:degiocuondi-foreststudiotrucnhanthuminh-8436179.,De Gio Cuon Di,nhac_trinh,0.5,0.8,0.5831180851507825,,0.8734579086303711,8
+nhac_trinh:degiocuondi-foreststudiotrucnhanthuminh-8436179.,De Gio Cuon Di,nhac_trinh,0.75,0.7,0.6077192070937552,,0.8785001635551453,8
+nhac_trinh:degiocuondi-foreststudiotrucnhanthuminh-8436179.,De Gio Cuon Di,nhac_trinh,1.0,0.6,0.6575497629789612,,0.8823491930961609,8
+nhac_trinh:degiocuondi-maikhoi_au5w,De Gio Cuon Di,nhac_trinh,0.0,1.0,0.5511608527863694,,0.8730834126472473,8
+nhac_trinh:degiocuondi-maikhoi_au5w,De Gio Cuon Di,nhac_trinh,0.25,1.0,0.5511608527863694,,0.8730834126472473,8
+nhac_trinh:degiocuondi-maikhoi_au5w,De Gio Cuon Di,nhac_trinh,0.5,0.9,0.579699083006808,,0.8755213618278503,8
+nhac_trinh:degiocuondi-maikhoi_au5w,De Gio Cuon Di,nhac_trinh,0.75,0.7,0.6121002691525902,,0.8815523386001587,9
+nhac_trinh:degiocuondi-maikhoi_au5w,De Gio Cuon Di,nhac_trinh,1.0,0.4,0.6924607288392837,,0.8859944343566895,8
+nhac_trinh:degiocuondi-thudang-2596285.,De Gio Cuon Di,nhac_trinh,0.0,1.0,0.6036795659176072,,0.8900205492973328,8
+nhac_trinh:degiocuondi-thudang-2596285.,De Gio Cuon Di,nhac_trinh,0.25,0.9,0.6104902615886291,,0.894859790802002,7
+nhac_trinh:degiocuondi-thudang-2596285.,De Gio Cuon Di,nhac_trinh,0.5,0.8,0.6093307738353766,,0.896307110786438,7
+nhac_trinh:degiocuondi-thudang-2596285.,De Gio Cuon Di,nhac_trinh,0.75,0.7,0.6091130502676648,,0.8979005813598633,7
+nhac_trinh:degiocuondi-thudang-2596285.,De Gio Cuon Di,nhac_trinh,1.0,0.6,0.7011513400126493,,0.8998176455497742,8
+nhac_trinh:degiocuondi-thuychi-3198822_hq,De Gio Cuon Di,nhac_trinh,0.0,1.0,0.5521717600880225,,0.8757970929145813,8
+nhac_trinh:degiocuondi-thuychi-3198822_hq,De Gio Cuon Di,nhac_trinh,0.25,1.0,0.5521717600880225,,0.8757970929145813,8
+nhac_trinh:degiocuondi-thuychi-3198822_hq,De Gio Cuon Di,nhac_trinh,0.5,0.7,0.6003944406534375,,0.8817523121833801,8
+nhac_trinh:degiocuondi-thuychi-3198822_hq,De Gio Cuon Di,nhac_trinh,0.75,0.6,0.6167414286329015,,0.8872557878494263,8
+nhac_trinh:degiocuondi-thuychi-3198822_hq,De Gio Cuon Di,nhac_trinh,1.0,0.6,0.6832395819556596,,0.8895784616470337,7
+nhac_trinh:demthaytalathacdo-edwardnguyen_3ckdk_hq,Dem Thay Ta La Thac Do,nhac_trinh,0.0,1.0,0.6322664325071452,,0.8695791363716125,9
+nhac_trinh:demthaytalathacdo-edwardnguyen_3ckdk_hq,Dem Thay Ta La Thac Do,nhac_trinh,0.25,1.0,0.6322664325071453,,0.8695791363716125,9
+nhac_trinh:demthaytalathacdo-edwardnguyen_3ckdk_hq,Dem Thay Ta La Thac Do,nhac_trinh,0.5,0.9,0.6206049632524295,,0.8712979555130005,9
+nhac_trinh:demthaytalathacdo-edwardnguyen_3ckdk_hq,Dem Thay Ta La Thac Do,nhac_trinh,0.75,0.7,0.6327090224173945,,0.8767495155334473,8
+nhac_trinh:demthaytalathacdo-edwardnguyen_3ckdk_hq,Dem Thay Ta La Thac Do,nhac_trinh,1.0,0.3,0.7040748430661878,,0.8832894563674927,10
+nhac_trinh:diemxua-hale-5758885.,Diem Xua,nhac_trinh,0.0,1.0,0.42289909849723983,,0.8747571706771851,6
+nhac_trinh:diemxua-hale-5758885.,Diem Xua,nhac_trinh,0.25,0.9,0.42215354603115685,,0.8770908117294312,7
+nhac_trinh:diemxua-hale-5758885.,Diem Xua,nhac_trinh,0.5,0.8,0.4771890466473919,,0.882071316242218,7
+nhac_trinh:diemxua-hale-5758885.,Diem Xua,nhac_trinh,0.75,0.6,0.5541274704830748,,0.8869012594223022,8
+nhac_trinh:diemxua-hale-5758885.,Diem Xua,nhac_trinh,1.0,0.2,0.7824146937421683,,0.8941116333007812,8
+nhac_trinh:diemxua-lequyen-5410860.,Diem Xua,nhac_trinh,0.0,1.0,0.5129981483481801,,0.8832852244377136,8
+nhac_trinh:diemxua-lequyen-5410860.,Diem Xua,nhac_trinh,0.25,0.8,0.5843778755279978,,0.8942316174507141,6
+nhac_trinh:diemxua-lequyen-5410860.,Diem Xua,nhac_trinh,0.5,0.7,0.6142334800828245,,0.8986434936523438,5
+nhac_trinh:diemxua-lequyen-5410860.,Diem Xua,nhac_trinh,0.75,0.6,0.6370154238329744,,0.9014147520065308,4
+nhac_trinh:diemxua-lequyen-5410860.,Diem Xua,nhac_trinh,1.0,0.2,0.7492255070983136,,0.9072216153144836,4
+nhac_trinh:diemxuaemlabanoicuaanhost-miule-4274744_hq,Diem Xua Em La Ba Noi Cua Anh OST,nhac_trinh,0.0,1.0,0.4519164026320158,,0.8446113467216492,6
+nhac_trinh:diemxuaemlabanoicuaanhost-miule-4274744_hq,Diem Xua Em La Ba Noi Cua Anh OST,nhac_trinh,0.25,1.0,0.4519164026320158,,0.8446113467216492,6
+nhac_trinh:diemxuaemlabanoicuaanhost-miule-4274744_hq,Diem Xua Em La Ba Noi Cua Anh OST,nhac_trinh,0.5,1.0,0.4519164026320158,,0.8446113467216492,6
+nhac_trinh:diemxuaemlabanoicuaanhost-miule-4274744_hq,Diem Xua Em La Ba Noi Cua Anh OST,nhac_trinh,0.75,0.8,0.5524323686683693,,0.8516752123832703,7
+nhac_trinh:diemxuaemlabanoicuaanhost-miule-4274744_hq,Diem Xua Em La Ba Noi Cua Anh OST,nhac_trinh,1.0,0.2,0.8014388866428367,,0.8623660802841187,7
+nhac_trinh:emdibomacconduong-tranthuha-2159668.,Em Di Bo Mac Con Duong,nhac_trinh,0.0,1.0,0.7001632602240898,,0.8668000102043152,8
+nhac_trinh:emdibomacconduong-tranthuha-2159668.,Em Di Bo Mac Con Duong,nhac_trinh,0.25,0.9,0.6765958600648371,,0.8705240488052368,8
+nhac_trinh:emdibomacconduong-tranthuha-2159668.,Em Di Bo Mac Con Duong,nhac_trinh,0.5,0.7,0.695227069668964,,0.8753121495246887,9
+nhac_trinh:emdibomacconduong-tranthuha-2159668.,Em Di Bo Mac Con Duong,nhac_trinh,0.75,0.4,0.6958908271287134,,0.8850486874580383,7
+nhac_trinh:emdibomacconduong-tranthuha-2159668.,Em Di Bo Mac Con Duong,nhac_trinh,1.0,0.1,0.7930109967311454,,0.8918757438659668,9
+nhac_trinh:giotlethienthu-trinhcongson_393mg,Giot Le Thien Thu,nhac_trinh,0.0,1.0,0.6258567714420776,,0.8884021639823914,6
+nhac_trinh:giotlethienthu-trinhcongson_393mg,Giot Le Thien Thu,nhac_trinh,0.25,0.9,0.6589177722042004,,0.8939107656478882,5
+nhac_trinh:giotlethienthu-trinhcongson_393mg,Giot Le Thien Thu,nhac_trinh,0.5,0.8,0.6882853599910256,,0.899819016456604,4
+nhac_trinh:giotlethienthu-trinhcongson_393mg,Giot Le Thien Thu,nhac_trinh,0.75,0.7,0.7036927845849699,,0.9029792547225952,5
+nhac_trinh:giotlethienthu-trinhcongson_393mg,Giot Le Thien Thu,nhac_trinh,1.0,0.5,0.7448171150050925,,0.9040724635124207,5
+nhac_trinh:giotlethienthu-trinhcongson_3zpu,Giot Le Thien Thu,nhac_trinh,0.0,1.0,0.6258567714420776,,0.8884021639823914,6
+nhac_trinh:giotlethienthu-trinhcongson_3zpu,Giot Le Thien Thu,nhac_trinh,0.25,0.9,0.6589177722042004,,0.8939107656478882,5
+nhac_trinh:giotlethienthu-trinhcongson_3zpu,Giot Le Thien Thu,nhac_trinh,0.5,0.8,0.6882853599910256,,0.899819016456604,4
+nhac_trinh:giotlethienthu-trinhcongson_3zpu,Giot Le Thien Thu,nhac_trinh,0.75,0.7,0.7036927845849699,,0.9029792547225952,5
+nhac_trinh:giotlethienthu-trinhcongson_3zpu,Giot Le Thien Thu,nhac_trinh,1.0,0.5,0.7448171150050925,,0.9040724635124207,5
+nhac_trinh:goitenbonmua-lequyen-5410849.,Goi Ten Bon Mua,nhac_trinh,0.0,1.0,0.6392068449810744,,0.8919572830200195,4
+nhac_trinh:goitenbonmua-lequyen-5410849.,Goi Ten Bon Mua,nhac_trinh,0.25,1.0,0.6392068449810744,,0.8919574022293091,4
+nhac_trinh:goitenbonmua-lequyen-5410849.,Goi Ten Bon Mua,nhac_trinh,0.5,0.9,0.6021278270386379,,0.8969590067863464,4
+nhac_trinh:goitenbonmua-lequyen-5410849.,Goi Ten Bon Mua,nhac_trinh,0.75,0.8,0.6233730814540611,,0.9003828763961792,3
+nhac_trinh:goitenbonmua-lequyen-5410849.,Goi Ten Bon Mua,nhac_trinh,1.0,0.7,0.6770438955243503,,0.9019882082939148,4
+nhac_trinh:goitenbonmua-lethu_3k86u_hq,Goi Ten Bon Mua,nhac_trinh,0.0,1.0,0.513871912099525,,0.8740941286087036,5
+nhac_trinh:goitenbonmua-lethu_3k86u_hq,Goi Ten Bon Mua,nhac_trinh,0.25,0.9,0.5641323363015878,,0.8759098052978516,4
+nhac_trinh:goitenbonmua-lethu_3k86u_hq,Goi Ten Bon Mua,nhac_trinh,0.5,0.8,0.5115431778836526,,0.8783405423164368,5
+nhac_trinh:goitenbonmua-lethu_3k86u_hq,Goi Ten Bon Mua,nhac_trinh,0.75,0.4,0.6148195366833694,,0.8886891603469849,5
+nhac_trinh:goitenbonmua-lethu_3k86u_hq,Goi Ten Bon Mua,nhac_trinh,1.0,0.1,0.7017377202560101,,0.8922809362411499,7
+nhac_trinh:hatrang-builanhuong-7583082,Ha Trang,nhac_trinh,0.0,1.0,0.5065832670417769,,0.8939566612243652,7
+nhac_trinh:hatrang-builanhuong-7583082,Ha Trang,nhac_trinh,0.25,1.0,0.5065832670417769,,0.8939566612243652,7
+nhac_trinh:hatrang-builanhuong-7583082,Ha Trang,nhac_trinh,0.5,0.9,0.5390487787074016,,0.8992899060249329,8
+nhac_trinh:hatrang-builanhuong-7583082,Ha Trang,nhac_trinh,0.75,0.8,0.5489960638183213,,0.9023973345756531,9
+nhac_trinh:hatrang-builanhuong-7583082,Ha Trang,nhac_trinh,1.0,0.5,0.6690159635669254,,0.9073814153671265,8
+nhac_trinh:hatrang-gianghongngoc-5734138.,Ha Trang,nhac_trinh,0.0,1.0,0.5130965829060401,,0.8806586265563965,7
+nhac_trinh:hatrang-gianghongngoc-5734138.,Ha Trang,nhac_trinh,0.25,1.0,0.5130965829060401,,0.8806586265563965,7
+nhac_trinh:hatrang-gianghongngoc-5734138.,Ha Trang,nhac_trinh,0.5,0.9,0.5068259007840779,,0.8842484354972839,7
+nhac_trinh:hatrang-gianghongngoc-5734138.,Ha Trang,nhac_trinh,0.75,0.8,0.5488906797253861,,0.8859211802482605,8
+nhac_trinh:hatrang-gianghongngoc-5734138.,Ha Trang,nhac_trinh,1.0,0.3,0.7006673391991013,,0.8927313089370728,9
+nhac_trinh:hatrang-thudang-2596274.,Ha Trang,nhac_trinh,0.0,1.0,0.5729924022921961,,0.8828192949295044,9
+nhac_trinh:hatrang-thudang-2596274.,Ha Trang,nhac_trinh,0.25,1.0,0.572992402292196,,0.8828192949295044,9
+nhac_trinh:hatrang-thudang-2596274.,Ha Trang,nhac_trinh,0.5,0.8,0.617936424456421,,0.890429675579071,7
+nhac_trinh:hatrang-thudang-2596274.,Ha Trang,nhac_trinh,0.75,0.6,0.6262439290008024,,0.8956379890441895,7
+nhac_trinh:hatrang-thudang-2596274.,Ha Trang,nhac_trinh,1.0,0.4,0.6774548656477941,,0.8995010256767273,8
+nhac_trinh:hoavangmaydo-phamanhduy-5916797_hq,Hoa Vang May Do,nhac_trinh,0.0,1.0,0.6307535534945846,,0.8548436164855957,7
+nhac_trinh:hoavangmaydo-phamanhduy-5916797_hq,Hoa Vang May Do,nhac_trinh,0.25,1.0,0.6307535534945847,,0.8548434972763062,7
+nhac_trinh:hoavangmaydo-phamanhduy-5916797_hq,Hoa Vang May Do,nhac_trinh,0.5,0.8,0.6720708920096825,,0.8644872903823853,7
+nhac_trinh:hoavangmaydo-phamanhduy-5916797_hq,Hoa Vang May Do,nhac_trinh,0.75,0.5,0.6821968335245123,,0.8724601864814758,8
+nhac_trinh:hoavangmaydo-phamanhduy-5916797_hq,Hoa Vang May Do,nhac_trinh,1.0,0.2,0.8098084137999406,,0.878251850605011,9
+nhac_trinh:homnaytoinghe-lecattrongly_3vveu,Hom Nay Toi Nghe,nhac_trinh,0.0,1.0,0.647218258242071,,0.8360986709594727,6
+nhac_trinh:homnaytoinghe-lecattrongly_3vveu,Hom Nay Toi Nghe,nhac_trinh,0.25,1.0,0.647218258242071,,0.8360986709594727,6
+nhac_trinh:homnaytoinghe-lecattrongly_3vveu,Hom Nay Toi Nghe,nhac_trinh,0.5,0.9,0.6492080090180081,,0.8397016525268555,7
+nhac_trinh:homnaytoinghe-lecattrongly_3vveu,Hom Nay Toi Nghe,nhac_trinh,0.75,0.7,0.6636269007059855,,0.8449737429618835,8
+nhac_trinh:homnaytoinghe-lecattrongly_3vveu,Hom Nay Toi Nghe,nhac_trinh,1.0,0.2,0.7324246517431894,,0.8538132905960083,8
+nhac_trinh:langlenoinay-trinhcongson_393m2,Lang Le Noi Nay,nhac_trinh,0.0,1.0,0.6925045562560086,,0.8819576501846313,5
+nhac_trinh:langlenoinay-trinhcongson_393m2,Lang Le Noi Nay,nhac_trinh,0.25,0.9,0.7059446756284145,,0.8896318674087524,5
+nhac_trinh:langlenoinay-trinhcongson_393m2,Lang Le Noi Nay,nhac_trinh,0.5,0.8,0.7046576105788128,,0.8912464380264282,5
+nhac_trinh:langlenoinay-trinhcongson_393m2,Lang Le Noi Nay,nhac_trinh,0.75,0.8,0.7046576105788129,,0.8912463188171387,5
+nhac_trinh:langlenoinay-trinhcongson_393m2,Lang Le Noi Nay,nhac_trinh,1.0,0.5,0.6930697286417157,,0.8928241729736328,6
+nhac_trinh:loimeru-bichnga_zvam,Loi Me Ru,nhac_trinh,0.0,1.0,0.39332303642419536,,0.839266300201416,8
+nhac_trinh:loimeru-bichnga_zvam,Loi Me Ru,nhac_trinh,0.25,0.8,0.3984644113097417,,0.8445225954055786,7
+nhac_trinh:loimeru-bichnga_zvam,Loi Me Ru,nhac_trinh,0.5,0.7,0.3973322264910916,,0.8487527966499329,6
+nhac_trinh:loimeru-bichnga_zvam,Loi Me Ru,nhac_trinh,0.75,0.3,0.5890252847753477,,0.857580840587616,7
+nhac_trinh:loimeru-bichnga_zvam,Loi Me Ru,nhac_trinh,1.0,0.1,0.7498835240993278,,0.859909176826477,7
+nhac_trinh:moingaytoichonmotniemvui-trinhcon_393kt,Moi Ngay Toi Chon Mot Niem Vui,nhac_trinh,0.0,1.0,0.5996543819109001,,0.8474928140640259,7
+nhac_trinh:moingaytoichonmotniemvui-trinhcon_393kt,Moi Ngay Toi Chon Mot Niem Vui,nhac_trinh,0.25,0.9,0.6157399609664929,,0.8517794609069824,7
+nhac_trinh:moingaytoichonmotniemvui-trinhcon_393kt,Moi Ngay Toi Chon Mot Niem Vui,nhac_trinh,0.5,0.6,0.6920684619702946,,0.8650433421134949,6
+nhac_trinh:moingaytoichonmotniemvui-trinhcon_393kt,Moi Ngay Toi Chon Mot Niem Vui,nhac_trinh,0.75,0.4,0.6812699727557677,,0.8731962442398071,4
+nhac_trinh:moingaytoichonmotniemvui-trinhcon_393kt,Moi Ngay Toi Chon Mot Niem Vui,nhac_trinh,1.0,0.2,0.7420256462073149,,0.877754807472229,6
+nhac_trinh:motcoidive-bangcuongthudang-2596280.,Mot Coi Di Ve,nhac_trinh,0.0,1.0,0.6671155229719296,,0.8769332766532898,7
+nhac_trinh:motcoidive-bangcuongthudang-2596280.,Mot Coi Di Ve,nhac_trinh,0.25,1.0,0.6671155229719296,,0.8769332766532898,7
+nhac_trinh:motcoidive-bangcuongthudang-2596280.,Mot Coi Di Ve,nhac_trinh,0.5,0.7,0.6804123090425112,,0.8831521272659302,6
+nhac_trinh:motcoidive-bangcuongthudang-2596280.,Mot Coi Di Ve,nhac_trinh,0.75,0.7,0.6706001570390994,,0.8835775256156921,7
+nhac_trinh:motcoidive-bangcuongthudang-2596280.,Mot Coi Di Ve,nhac_trinh,1.0,0.5,0.8083527051328877,,0.8885485529899597,8
+nhac_trinh:motcoidive-dinhnguyen_3cp6b_hq,Mot Coi Di Ve,nhac_trinh,0.0,1.0,0.648819193641971,,0.8633195757865906,9
+nhac_trinh:motcoidive-dinhnguyen_3cp6b_hq,Mot Coi Di Ve,nhac_trinh,0.25,0.9,0.6482464772546042,,0.8659936189651489,8
+nhac_trinh:motcoidive-dinhnguyen_3cp6b_hq,Mot Coi Di Ve,nhac_trinh,0.5,0.9,0.6482464772546044,,0.8659936189651489,8
+nhac_trinh:motcoidive-dinhnguyen_3cp6b_hq,Mot Coi Di Ve,nhac_trinh,0.75,0.5,0.6772812256436879,,0.8783613443374634,9
+nhac_trinh:motcoidive-dinhnguyen_3cp6b_hq,Mot Coi Di Ve,nhac_trinh,1.0,0.1,0.7881778539223332,,0.883299708366394,8
+nhac_trinh:muahong-halebuilanhuong-5986336(1).,Mua Hong,nhac_trinh,0.0,1.0,0.42449986670509793,,0.9288383722305298,7
+nhac_trinh:muahong-halebuilanhuong-5986336(1).,Mua Hong,nhac_trinh,0.25,1.0,0.42449986670509793,,0.9288383722305298,7
+nhac_trinh:muahong-halebuilanhuong-5986336(1).,Mua Hong,nhac_trinh,0.5,1.0,0.42449986670509793,,0.9288383722305298,7
+nhac_trinh:muahong-halebuilanhuong-5986336(1).,Mua Hong,nhac_trinh,0.75,0.8,0.4566269122574536,,0.9323511123657227,8
+nhac_trinh:muahong-halebuilanhuong-5986336(1).,Mua Hong,nhac_trinh,1.0,0.7,0.5163309595802376,,0.9347738027572632,8
+nhac_trinh:muahong-halebuilanhuong-5986336.,Mua Hong,nhac_trinh,0.0,1.0,0.42449986670509793,,0.9288383722305298,7
+nhac_trinh:muahong-halebuilanhuong-5986336.,Mua Hong,nhac_trinh,0.25,1.0,0.42449986670509793,,0.9288383722305298,7
+nhac_trinh:muahong-halebuilanhuong-5986336.,Mua Hong,nhac_trinh,0.5,1.0,0.42449986670509793,,0.9288383722305298,7
+nhac_trinh:muahong-halebuilanhuong-5986336.,Mua Hong,nhac_trinh,0.75,0.8,0.4566269122574536,,0.9323511123657227,8
+nhac_trinh:muahong-halebuilanhuong-5986336.,Mua Hong,nhac_trinh,1.0,0.7,0.5163309595802376,,0.9347738027572632,8
+nhac_trinh:muahong-lannha-1768615_hq,Mua Hong,nhac_trinh,0.0,1.0,0.42070586552938716,,0.9011472463607788,8
+nhac_trinh:muahong-lannha-1768615_hq,Mua Hong,nhac_trinh,0.25,0.9,0.4151642826091548,,0.9054301977157593,7
+nhac_trinh:muahong-lannha-1768615_hq,Mua Hong,nhac_trinh,0.5,0.9,0.4151642826091548,,0.9054303169250488,7
+nhac_trinh:muahong-lannha-1768615_hq,Mua Hong,nhac_trinh,0.75,0.7,0.44886587860677896,,0.9109994173049927,7
+nhac_trinh:muahong-lannha-1768615_hq,Mua Hong,nhac_trinh,1.0,0.6,0.44343324561335906,,0.9120407104492188,8
+nhac_trinh:muahong-lehieu_8e.,Mua Hong,nhac_trinh,0.0,1.0,0.399110596460905,,0.9157196283340454,6
+nhac_trinh:muahong-lehieu_8e.,Mua Hong,nhac_trinh,0.25,1.0,0.399110596460905,,0.9157196283340454,6
+nhac_trinh:muahong-lehieu_8e.,Mua Hong,nhac_trinh,0.5,1.0,0.399110596460905,,0.9157196283340454,6
+nhac_trinh:muahong-lehieu_8e.,Mua Hong,nhac_trinh,0.75,0.9,0.3943677346092441,,0.9175881147384644,6
+nhac_trinh:muahong-lehieu_8e.,Mua Hong,nhac_trinh,1.0,0.6,0.4908817076288299,,0.9239169359207153,5
+nhac_trinh:muahong-lequyen-5410852(1).,Mua Hong,nhac_trinh,0.0,1.0,0.4604516828620278,,0.9306215047836304,5
+nhac_trinh:muahong-lequyen-5410852(1).,Mua Hong,nhac_trinh,0.25,0.9,0.4636345279356974,,0.9325053095817566,5
+nhac_trinh:muahong-lequyen-5410852(1).,Mua Hong,nhac_trinh,0.5,0.8,0.4665401604176277,,0.9351121187210083,5
+nhac_trinh:muahong-lequyen-5410852(1).,Mua Hong,nhac_trinh,0.75,0.8,0.4665401604176276,,0.9351121187210083,5
+nhac_trinh:muahong-lequyen-5410852(1).,Mua Hong,nhac_trinh,1.0,0.7,0.5047813117146661,,0.9360777735710144,5
+nhac_trinh:muahong-lequyen-5410852.,Mua Hong,nhac_trinh,0.0,1.0,0.4604516828620278,,0.9306215047836304,5
+nhac_trinh:muahong-lequyen-5410852.,Mua Hong,nhac_trinh,0.25,0.9,0.4636345279356974,,0.9325053095817566,5
+nhac_trinh:muahong-lequyen-5410852.,Mua Hong,nhac_trinh,0.5,0.8,0.4665401604176277,,0.9351121187210083,5
+nhac_trinh:muahong-lequyen-5410852.,Mua Hong,nhac_trinh,0.75,0.8,0.4665401604176276,,0.9351121187210083,5
+nhac_trinh:muahong-lequyen-5410852.,Mua Hong,nhac_trinh,1.0,0.7,0.5047813117146661,,0.9360777735710144,5
+nhac_trinh:nangthuytinh-anlan_5jb.,Nang Thuy Tinh,nhac_trinh,0.0,1.0,0.5244356111889806,,0.8931416273117065,10
+nhac_trinh:nangthuytinh-anlan_5jb.,Nang Thuy Tinh,nhac_trinh,0.25,0.9,0.5224600572327581,,0.8947544097900391,9
+nhac_trinh:nangthuytinh-anlan_5jb.,Nang Thuy Tinh,nhac_trinh,0.5,0.9,0.5586677411659553,,0.8969500660896301,9
+nhac_trinh:nangthuytinh-anlan_5jb.,Nang Thuy Tinh,nhac_trinh,0.75,0.8,0.5719123011052257,,0.8993033170700073,9
+nhac_trinh:nangthuytinh-anlan_5jb.,Nang Thuy Tinh,nhac_trinh,1.0,0.5,0.7137798620854667,,0.9049836993217468,8
+nhac_trinh:nangthuytinh-avinlusunihalinh-7174076_hq,Nang Thuy Tinh,nhac_trinh,0.0,1.0,0.5118689987153342,,0.8873289227485657,9
+nhac_trinh:nangthuytinh-avinlusunihalinh-7174076_hq,Nang Thuy Tinh,nhac_trinh,0.25,1.0,0.5118689987153342,,0.8873289227485657,9
+nhac_trinh:nangthuytinh-avinlusunihalinh-7174076_hq,Nang Thuy Tinh,nhac_trinh,0.5,0.9,0.5369978644338055,,0.8947263956069946,9
+nhac_trinh:nangthuytinh-avinlusunihalinh-7174076_hq,Nang Thuy Tinh,nhac_trinh,0.75,0.9,0.5369978644338055,,0.8947263956069946,9
+nhac_trinh:nangthuytinh-avinlusunihalinh-7174076_hq,Nang Thuy Tinh,nhac_trinh,1.0,0.3,0.7225112801792944,,0.9012653231620789,9
+nhac_trinh:nhinnhungmuathudi-myanh-7566546_hq,Nhin Nhung Mua Thu Di,nhac_trinh,0.0,1.0,0.573364410459908,,0.8895292282104492,9
+nhac_trinh:nhinnhungmuathudi-myanh-7566546_hq,Nhin Nhung Mua Thu Di,nhac_trinh,0.25,0.8,0.5615330210352111,,0.8975308537483215,9
+nhac_trinh:nhinnhungmuathudi-myanh-7566546_hq,Nhin Nhung Mua Thu Di,nhac_trinh,0.5,0.7,0.5599741733633671,,0.900619626045227,9
+nhac_trinh:nhinnhungmuathudi-myanh-7566546_hq,Nhin Nhung Mua Thu Di,nhac_trinh,0.75,0.6,0.5925468509199084,,0.9029480218887329,10
+nhac_trinh:nhinnhungmuathudi-myanh-7566546_hq,Nhin Nhung Mua Thu Di,nhac_trinh,1.0,0.5,0.6641470019840086,,0.9039208292961121,9
+nhac_trinh:nhinnhungmuathudi-mylinh-8272053.,Nhin Nhung Mua Thu Di,nhac_trinh,0.0,1.0,0.5476130618021133,,0.8897584676742554,9
+nhac_trinh:nhinnhungmuathudi-mylinh-8272053.,Nhin Nhung Mua Thu Di,nhac_trinh,0.25,0.9,0.5635737603319636,,0.8979102373123169,9
+nhac_trinh:nhinnhungmuathudi-mylinh-8272053.,Nhin Nhung Mua Thu Di,nhac_trinh,0.5,0.8,0.5620688597241469,,0.901109516620636,9
+nhac_trinh:nhinnhungmuathudi-mylinh-8272053.,Nhin Nhung Mua Thu Di,nhac_trinh,0.75,0.7,0.5815745548939703,,0.9020199775695801,10
+nhac_trinh:nhinnhungmuathudi-mylinh-8272053.,Nhin Nhung Mua Thu Di,nhac_trinh,1.0,0.5,0.6323707438687274,,0.9030796885490417,10
+nhac_trinh:nhinnhungmuathudi-thanhlam-2433672,Nhin Nhung Mua Thu Di,nhac_trinh,0.0,1.0,0.5760473314110051,,0.8864076733589172,9
+nhac_trinh:nhinnhungmuathudi-thanhlam-2433672,Nhin Nhung Mua Thu Di,nhac_trinh,0.25,0.9,0.5752345608955322,,0.8901524543762207,9
+nhac_trinh:nhinnhungmuathudi-thanhlam-2433672,Nhin Nhung Mua Thu Di,nhac_trinh,0.5,0.8,0.5869518983728087,,0.8923410177230835,9
+nhac_trinh:nhinnhungmuathudi-thanhlam-2433672,Nhin Nhung Mua Thu Di,nhac_trinh,0.75,0.8,0.5836212109532048,,0.8930708169937134,9
+nhac_trinh:nhinnhungmuathudi-thanhlam-2433672,Nhin Nhung Mua Thu Di,nhac_trinh,1.0,0.6,0.6423727050620075,,0.8940348625183105,10
+nhac_trinh:nhinnhungmuathudi-tungduong-2423896_hq,Nhin Nhung Mua Thu Di,nhac_trinh,0.0,1.0,0.5224886145961342,,0.8848322629928589,9
+nhac_trinh:nhinnhungmuathudi-tungduong-2423896_hq,Nhin Nhung Mua Thu Di,nhac_trinh,0.25,1.0,0.5224886145961343,,0.8848322629928589,9
+nhac_trinh:nhinnhungmuathudi-tungduong-2423896_hq,Nhin Nhung Mua Thu Di,nhac_trinh,0.5,0.9,0.47463713555008424,,0.8864712715148926,9
+nhac_trinh:nhinnhungmuathudi-tungduong-2423896_hq,Nhin Nhung Mua Thu Di,nhac_trinh,0.75,0.9,0.47463713555008413,,0.8864712715148926,9
+nhac_trinh:nhinnhungmuathudi-tungduong-2423896_hq,Nhin Nhung Mua Thu Di,nhac_trinh,1.0,0.7,0.6825295821327862,,0.8887642025947571,9
+nhac_trinh:nhucanhvacbay-thanhlam_akk9,Nhu Canh Vac Bay,nhac_trinh,0.0,1.0,0.6377009377595613,,0.8434187173843384,9
+nhac_trinh:nhucanhvacbay-thanhlam_akk9,Nhu Canh Vac Bay,nhac_trinh,0.25,0.9,0.6019404285090554,,0.8466383814811707,8
+nhac_trinh:nhucanhvacbay-thanhlam_akk9,Nhu Canh Vac Bay,nhac_trinh,0.5,0.8,0.6453934842084372,,0.850625216960907,9
+nhac_trinh:nhucanhvacbay-thanhlam_akk9,Nhu Canh Vac Bay,nhac_trinh,0.75,0.5,0.6624873605997822,,0.8548167943954468,9
+nhac_trinh:nhucanhvacbay-thanhlam_akk9,Nhu Canh Vac Bay,nhac_trinh,1.0,0.4,0.8088790521310882,,0.8604670763015747,9
+nhac_trinh:nhumotloichiatay-thudang-2596286.,Nhu Mot Loi Chia Tay,nhac_trinh,0.0,1.0,0.6509662864655873,,0.8692754507064819,9
+nhac_trinh:nhumotloichiatay-thudang-2596286.,Nhu Mot Loi Chia Tay,nhac_trinh,0.25,0.9,0.6499242358043854,,0.8758288621902466,8
+nhac_trinh:nhumotloichiatay-thudang-2596286.,Nhu Mot Loi Chia Tay,nhac_trinh,0.5,0.6,0.6718525750530369,,0.8838967084884644,7
+nhac_trinh:nhumotloichiatay-thudang-2596286.,Nhu Mot Loi Chia Tay,nhac_trinh,0.75,0.6,0.671852575053037,,0.8838967084884644,7
+nhac_trinh:nhumotloichiatay-thudang-2596286.,Nhu Mot Loi Chia Tay,nhac_trinh,1.0,0.3,0.7184891638385847,,0.893023669719696,7
+nhac_trinh:noivongtaylon-phinhung-3764916_hq,Noi Vong Tay Lon,nhac_trinh,0.0,1.0,0.6933058964140323,,0.8662058711051941,10
+nhac_trinh:noivongtaylon-phinhung-3764916_hq,Noi Vong Tay Lon,nhac_trinh,0.25,1.0,0.6933058964140325,,0.8662058711051941,10
+nhac_trinh:noivongtaylon-phinhung-3764916_hq,Noi Vong Tay Lon,nhac_trinh,0.5,0.9,0.6763881380455214,,0.8671783208847046,10
+nhac_trinh:noivongtaylon-phinhung-3764916_hq,Noi Vong Tay Lon,nhac_trinh,0.75,0.7,0.7597331605637494,,0.8770338892936707,9
+nhac_trinh:noivongtaylon-phinhung-3764916_hq,Noi Vong Tay Lon,nhac_trinh,1.0,0.4,0.8319759057182126,,0.8852418661117554,7
+nhac_trinh:noivongtaylon-quangdung-2448532.,Noi Vong Tay Lon,nhac_trinh,0.0,1.0,0.7036550370836165,,0.8742038011550903,8
+nhac_trinh:noivongtaylon-quangdung-2448532.,Noi Vong Tay Lon,nhac_trinh,0.25,1.0,0.7036550370836165,,0.8742038011550903,8
+nhac_trinh:noivongtaylon-quangdung-2448532.,Noi Vong Tay Lon,nhac_trinh,0.5,1.0,0.7036550370836167,,0.8742038011550903,8
+nhac_trinh:noivongtaylon-quangdung-2448532.,Noi Vong Tay Lon,nhac_trinh,0.75,0.9,0.7331592907441894,,0.8779536485671997,8
+nhac_trinh:noivongtaylon-quangdung-2448532.,Noi Vong Tay Lon,nhac_trinh,1.0,0.5,0.8120508504175509,,0.8879119753837585,9
+nhac_trinh:otro-hale-6287210.,O Tro,nhac_trinh,0.0,1.0,0.5034960253986912,,0.8486430048942566,7
+nhac_trinh:otro-hale-6287210.,O Tro,nhac_trinh,0.25,0.9,0.522067078506957,,0.8525663614273071,7
+nhac_trinh:otro-hale-6287210.,O Tro,nhac_trinh,0.5,0.8,0.4899294035532042,,0.8538703918457031,7
+nhac_trinh:otro-hale-6287210.,O Tro,nhac_trinh,0.75,0.6,0.5675758021270348,,0.8571732640266418,7
+nhac_trinh:otro-hale-6287210.,O Tro,nhac_trinh,1.0,0.3,0.7164040128506491,,0.8593679666519165,8
+nhac_trinh:phoipha-lequyen-5410851_hq,Phoi Pha,nhac_trinh,0.0,1.0,0.6292859612037075,,0.8918131589889526,5
+nhac_trinh:phoipha-lequyen-5410851_hq,Phoi Pha,nhac_trinh,0.25,1.0,0.6292859612037075,,0.8918131589889526,5
+nhac_trinh:phoipha-lequyen-5410851_hq,Phoi Pha,nhac_trinh,0.5,0.9,0.6338037210116804,,0.8957996368408203,5
+nhac_trinh:phoipha-lequyen-5410851_hq,Phoi Pha,nhac_trinh,0.75,0.8,0.6532891013073746,,0.8978907465934753,4
+nhac_trinh:phoipha-lequyen-5410851_hq,Phoi Pha,nhac_trinh,1.0,0.6,0.6588743097676881,,0.9021939039230347,5
+nhac_trinh:phoipha-tuanngoc-602358.,Phoi Pha,nhac_trinh,0.0,1.0,0.6286024764670559,,0.8766972422599792,9
+nhac_trinh:phoipha-tuanngoc-602358.,Phoi Pha,nhac_trinh,0.25,0.9,0.6115557987837552,,0.8814565539360046,9
+nhac_trinh:phoipha-tuanngoc-602358.,Phoi Pha,nhac_trinh,0.5,0.8,0.6081230271544884,,0.8838686943054199,8
+nhac_trinh:phoipha-tuanngoc-602358.,Phoi Pha,nhac_trinh,0.75,0.8,0.624188537802999,,0.8843560218811035,8
+nhac_trinh:phoipha-tuanngoc-602358.,Phoi Pha,nhac_trinh,1.0,0.4,0.7865002040659167,,0.8912700414657593,8
+nhac_trinh:phucambuon-trinhcongson_37jak_hq,Phuc Am Buon,nhac_trinh,0.0,1.0,0.5398591438797173,,0.8599861860275269,4
+nhac_trinh:phucambuon-trinhcongson_37jak_hq,Phuc Am Buon,nhac_trinh,0.25,0.9,0.5462564615617589,,0.8629783391952515,5
+nhac_trinh:phucambuon-trinhcongson_37jak_hq,Phuc Am Buon,nhac_trinh,0.5,0.7,0.6426057856003154,,0.8717325329780579,4
+nhac_trinh:phucambuon-trinhcongson_37jak_hq,Phuc Am Buon,nhac_trinh,0.75,0.5,0.7068127125400733,,0.8814548254013062,3
+nhac_trinh:phucambuon-trinhcongson_37jak_hq,Phuc Am Buon,nhac_trinh,1.0,0.3,0.7656704282186664,,0.8856897354125977,7
+nhac_trinh:phudu-toannguyen_3h8hr(1).,Phu Du,nhac_trinh,0.0,1.0,0.6086870574719184,,0.8448184132575989,8
+nhac_trinh:phudu-toannguyen_3h8hr(1).,Phu Du,nhac_trinh,0.25,0.9,0.6554653166294854,,0.8520418405532837,8
+nhac_trinh:phudu-toannguyen_3h8hr(1).,Phu Du,nhac_trinh,0.5,0.5,0.6626145207474057,,0.8654404878616333,8
+nhac_trinh:phudu-toannguyen_3h8hr(1).,Phu Du,nhac_trinh,0.75,0.3,0.6553190350565185,,0.8700264692306519,9
+nhac_trinh:phudu-toannguyen_3h8hr(1).,Phu Du,nhac_trinh,1.0,0.2,0.8015647082376554,,0.8782661557197571,10
+nhac_trinh:phudu-toannguyen_3h8hr.,Phu Du,nhac_trinh,0.0,1.0,0.6086870574719184,,0.8448184132575989,8
+nhac_trinh:phudu-toannguyen_3h8hr.,Phu Du,nhac_trinh,0.25,0.9,0.6554653166294854,,0.8520418405532837,8
+nhac_trinh:phudu-toannguyen_3h8hr.,Phu Du,nhac_trinh,0.5,0.5,0.6626145207474057,,0.8654404878616333,8
+nhac_trinh:phudu-toannguyen_3h8hr.,Phu Du,nhac_trinh,0.75,0.3,0.6553190350565185,,0.8700264692306519,9
+nhac_trinh:phudu-toannguyen_3h8hr.,Phu Du,nhac_trinh,1.0,0.2,0.8015647082376554,,0.8782661557197571,10
+nhac_trinh:rudoidinhe-lequyen-5410853.,Ru Doi Di Nhe,nhac_trinh,0.0,1.0,0.6518177092691784,,0.867982029914856,2
+nhac_trinh:rudoidinhe-lequyen-5410853.,Ru Doi Di Nhe,nhac_trinh,0.25,0.9,0.6435187518533567,,0.8717814683914185,1
+nhac_trinh:rudoidinhe-lequyen-5410853.,Ru Doi Di Nhe,nhac_trinh,0.5,0.8,0.6438423730755201,,0.8761557340621948,1
+nhac_trinh:rudoidinhe-lequyen-5410853.,Ru Doi Di Nhe,nhac_trinh,0.75,0.8,0.6438423730755201,,0.8761557340621948,1
+nhac_trinh:rudoidinhe-lequyen-5410853.,Ru Doi Di Nhe,nhac_trinh,1.0,0.4,0.7493259482241297,,0.8792065382003784,5
+nhac_trinh:ruem-hongnhung-2423239,Ru Em,nhac_trinh,0.0,1.0,0.5759573106953023,,0.8742992281913757,7
+nhac_trinh:ruem-hongnhung-2423239,Ru Em,nhac_trinh,0.25,0.9,0.5959669484273058,,0.8771820068359375,8
+nhac_trinh:ruem-hongnhung-2423239,Ru Em,nhac_trinh,0.5,0.9,0.5959669484273058,,0.8771820068359375,8
+nhac_trinh:ruem-hongnhung-2423239,Ru Em,nhac_trinh,0.75,0.7,0.6086695724514607,,0.8800323605537415,9
+nhac_trinh:ruem-hongnhung-2423239,Ru Em,nhac_trinh,1.0,0.6,0.6833424876581123,,0.8811169862747192,10
+nhac_trinh:ruemtungngonxuannong-bangcuongthudang-2596279_hq,Ru Em Tung Ngon Xuan Nong,nhac_trinh,0.0,1.0,0.623479295664351,,0.8930866122245789,10
+nhac_trinh:ruemtungngonxuannong-bangcuongthudang-2596279_hq,Ru Em Tung Ngon Xuan Nong,nhac_trinh,0.25,1.0,0.623479295664351,,0.8930867314338684,10
+nhac_trinh:ruemtungngonxuannong-bangcuongthudang-2596279_hq,Ru Em Tung Ngon Xuan Nong,nhac_trinh,0.5,0.9,0.6304886071915129,,0.8963340520858765,10
+nhac_trinh:ruemtungngonxuannong-bangcuongthudang-2596279_hq,Ru Em Tung Ngon Xuan Nong,nhac_trinh,0.75,0.7,0.6663091982230603,,0.9086786508560181,9
+nhac_trinh:ruemtungngonxuannong-bangcuongthudang-2596279_hq,Ru Em Tung Ngon Xuan Nong,nhac_trinh,1.0,0.5,0.7203474635122551,,0.9106172323226929,8
+nhac_trinh:ruemtungngonxuannong-lequyen-5410857_hq,Ru Em Tung Ngon Xuan Nong,nhac_trinh,0.0,1.0,0.6004283350819501,,0.8898537755012512,8
+nhac_trinh:ruemtungngonxuannong-lequyen-5410857_hq,Ru Em Tung Ngon Xuan Nong,nhac_trinh,0.25,1.0,0.6004283350819501,,0.8898537755012512,8
+nhac_trinh:ruemtungngonxuannong-lequyen-5410857_hq,Ru Em Tung Ngon Xuan Nong,nhac_trinh,0.5,0.8,0.6297358014101205,,0.8973191976547241,7
+nhac_trinh:ruemtungngonxuannong-lequyen-5410857_hq,Ru Em Tung Ngon Xuan Nong,nhac_trinh,0.75,0.6,0.6395136974638794,,0.9104034304618835,6
+nhac_trinh:ruemtungngonxuannong-lequyen-5410857_hq,Ru Em Tung Ngon Xuan Nong,nhac_trinh,1.0,0.5,0.7316671669351663,,0.9127340316772461,8
+nhac_trinh:ruemtungngonxuannong-ngoclan_3tkj8_hq,Ru Em Tung Ngon Xuan Nong,nhac_trinh,0.0,1.0,0.6216877373224893,,0.8838242292404175,10
+nhac_trinh:ruemtungngonxuannong-ngoclan_3tkj8_hq,Ru Em Tung Ngon Xuan Nong,nhac_trinh,0.25,0.9,0.6239593501159404,,0.8879207372665405,10
+nhac_trinh:ruemtungngonxuannong-ngoclan_3tkj8_hq,Ru Em Tung Ngon Xuan Nong,nhac_trinh,0.5,0.7,0.6309329168608298,,0.8948293924331665,9
+nhac_trinh:ruemtungngonxuannong-ngoclan_3tkj8_hq,Ru Em Tung Ngon Xuan Nong,nhac_trinh,0.75,0.5,0.6482149461113083,,0.908888041973114,10
+nhac_trinh:ruemtungngonxuannong-ngoclan_3tkj8_hq,Ru Em Tung Ngon Xuan Nong,nhac_trinh,1.0,0.4,0.6923140148397778,,0.9092937707901001,10
+nhac_trinh:rutangamngui-lequyen-5410856.,Ru Ta Ngam Ngui,nhac_trinh,0.0,1.0,0.6398356648857707,,0.889733612537384,5
+nhac_trinh:rutangamngui-lequyen-5410856.,Ru Ta Ngam Ngui,nhac_trinh,0.25,0.8,0.6383594814970114,,0.9007323384284973,4
+nhac_trinh:rutangamngui-lequyen-5410856.,Ru Ta Ngam Ngui,nhac_trinh,0.5,0.8,0.6383594814970115,,0.9007323384284973,4
+nhac_trinh:rutangamngui-lequyen-5410856.,Ru Ta Ngam Ngui,nhac_trinh,0.75,0.7,0.6598873411690935,,0.9033060073852539,4
+nhac_trinh:rutangamngui-lequyen-5410856.,Ru Ta Ngam Ngui,nhac_trinh,1.0,0.5,0.6673223318352024,,0.9060930013656616,5
+nhac_trinh:rutangamngui-mocsan-7810245_hq,Ru Ta Ngam Ngui,nhac_trinh,0.0,1.0,0.5865276291369349,,0.8661898374557495,8
+nhac_trinh:rutangamngui-mocsan-7810245_hq,Ru Ta Ngam Ngui,nhac_trinh,0.25,0.8,0.6330150275757986,,0.877642035484314,7
+nhac_trinh:rutangamngui-mocsan-7810245_hq,Ru Ta Ngam Ngui,nhac_trinh,0.5,0.7,0.655907641501757,,0.8866540789604187,8
+nhac_trinh:rutangamngui-mocsan-7810245_hq,Ru Ta Ngam Ngui,nhac_trinh,0.75,0.5,0.6136927807610811,,0.8931395411491394,8
+nhac_trinh:rutangamngui-mocsan-7810245_hq,Ru Ta Ngam Ngui,nhac_trinh,1.0,0.3,0.7015532561178907,,0.897457480430603,8
+nhac_trinh:rutangamngui-thudang-2596283_hq,Ru Ta Ngam Ngui,nhac_trinh,0.0,1.0,0.6257319640208285,,0.882378101348877,7
+nhac_trinh:rutangamngui-thudang-2596283_hq,Ru Ta Ngam Ngui,nhac_trinh,0.25,0.9,0.649729924495317,,0.8910323977470398,6
+nhac_trinh:rutangamngui-thudang-2596283_hq,Ru Ta Ngam Ngui,nhac_trinh,0.5,0.8,0.6633541687462301,,0.8954215049743652,7
+nhac_trinh:rutangamngui-thudang-2596283_hq,Ru Ta Ngam Ngui,nhac_trinh,0.75,0.5,0.6756285480692757,,0.9044114947319031,8
+nhac_trinh:rutangamngui-thudang-2596283_hq,Ru Ta Ngam Ngui,nhac_trinh,1.0,0.3,0.7197823636349118,,0.9068731069564819,7
+nhac_trinh:rutinh-khanhngoc_ta8s,Ru Tinh,nhac_trinh,0.0,1.0,0.6176959343766573,,0.877884030342102,8
+nhac_trinh:rutinh-khanhngoc_ta8s,Ru Tinh,nhac_trinh,0.25,0.9,0.6249560978769623,,0.8820992708206177,8
+nhac_trinh:rutinh-khanhngoc_ta8s,Ru Tinh,nhac_trinh,0.5,0.9,0.6249560978769624,,0.8820991516113281,8
+nhac_trinh:rutinh-khanhngoc_ta8s,Ru Tinh,nhac_trinh,0.75,0.8,0.6273617968171041,,0.8837177157402039,8
+nhac_trinh:rutinh-khanhngoc_ta8s,Ru Tinh,nhac_trinh,1.0,0.3,0.7467146655876657,,0.8892308473587036,9
+nhac_trinh:tadathaygitrongdemnay-camvan-2437495.,Ta Da Thay Gi Trong Dem Nay,nhac_trinh,0.0,1.0,0.6896497149511063,,0.8666810989379883,10
+nhac_trinh:tadathaygitrongdemnay-camvan-2437495.,Ta Da Thay Gi Trong Dem Nay,nhac_trinh,0.25,0.9,0.6888960322839548,,0.8695729374885559,10
+nhac_trinh:tadathaygitrongdemnay-camvan-2437495.,Ta Da Thay Gi Trong Dem Nay,nhac_trinh,0.5,0.9,0.6888960322839548,,0.8695729374885559,10
+nhac_trinh:tadathaygitrongdemnay-camvan-2437495.,Ta Da Thay Gi Trong Dem Nay,nhac_trinh,0.75,0.8,0.709565803419052,,0.8737576603889465,10
+nhac_trinh:tadathaygitrongdemnay-camvan-2437495.,Ta Da Thay Gi Trong Dem Nay,nhac_trinh,1.0,0.3,0.7571429874068621,,0.8855652809143066,10
+nhac_trinh:tadathaygitrongdemnay-damvinhhung-4085992.,Ta Da Thay Gi Trong Dem Nay,nhac_trinh,0.0,1.0,0.7051426361353963,,0.8775531053543091,9
+nhac_trinh:tadathaygitrongdemnay-damvinhhung-4085992.,Ta Da Thay Gi Trong Dem Nay,nhac_trinh,0.25,1.0,0.7051426361353963,,0.8775531053543091,9
+nhac_trinh:tadathaygitrongdemnay-damvinhhung-4085992.,Ta Da Thay Gi Trong Dem Nay,nhac_trinh,0.5,0.9,0.7068709721296758,,0.8795250058174133,9
+nhac_trinh:tadathaygitrongdemnay-damvinhhung-4085992.,Ta Da Thay Gi Trong Dem Nay,nhac_trinh,0.75,0.8,0.7121412993996484,,0.8813868761062622,9
+nhac_trinh:tadathaygitrongdemnay-damvinhhung-4085992.,Ta Da Thay Gi Trong Dem Nay,nhac_trinh,1.0,0.4,0.7986543140498933,,0.8922500610351562,9
+nhac_trinh:tadathaygitrongdemnay-huyentrang-6225010,Ta Da Thay Gi Trong Dem Nay,nhac_trinh,0.0,1.0,0.6952475541491806,,0.8715863227844238,9
+nhac_trinh:tadathaygitrongdemnay-huyentrang-6225010,Ta Da Thay Gi Trong Dem Nay,nhac_trinh,0.25,0.9,0.6840625821945118,,0.8766473531723022,9
+nhac_trinh:tadathaygitrongdemnay-huyentrang-6225010,Ta Da Thay Gi Trong Dem Nay,nhac_trinh,0.5,0.8,0.662179221415097,,0.8806646466255188,9
+nhac_trinh:tadathaygitrongdemnay-huyentrang-6225010,Ta Da Thay Gi Trong Dem Nay,nhac_trinh,0.75,0.7,0.6343590213308636,,0.8846338987350464,9
+nhac_trinh:tadathaygitrongdemnay-huyentrang-6225010,Ta Da Thay Gi Trong Dem Nay,nhac_trinh,1.0,0.4,0.6940532301682352,,0.8901437520980835,10
+nhac_trinh:tinhnho-phanmanhquynh-7570009_hq,Tinh Nho,nhac_trinh,0.0,1.0,0.5391941872408951,,0.8398876190185547,5
+nhac_trinh:tinhnho-phanmanhquynh-7570009_hq,Tinh Nho,nhac_trinh,0.25,0.8,0.4903669618684769,,0.8474095463752747,6
+nhac_trinh:tinhnho-phanmanhquynh-7570009_hq,Tinh Nho,nhac_trinh,0.5,0.4,0.633085794983153,,0.8622538447380066,6
+nhac_trinh:tinhnho-phanmanhquynh-7570009_hq,Tinh Nho,nhac_trinh,0.75,0.4,0.6480905950645897,,0.86309814453125,7
+nhac_trinh:tinhnho-phanmanhquynh-7570009_hq,Tinh Nho,nhac_trinh,1.0,0.2,0.7256163558596086,,0.868545651435852,9
+nhac_trinh:tinhsau-thanhha-4730311(1).,Tinh Sau,nhac_trinh,0.0,1.0,0.3857757250256689,,0.867367148399353,8
+nhac_trinh:tinhsau-thanhha-4730311(1).,Tinh Sau,nhac_trinh,0.25,0.8,0.5165406648377824,,0.8821541666984558,9
+nhac_trinh:tinhsau-thanhha-4730311(1).,Tinh Sau,nhac_trinh,0.5,0.6,0.6065185107025948,,0.8942136764526367,9
+nhac_trinh:tinhsau-thanhha-4730311(1).,Tinh Sau,nhac_trinh,0.75,0.4,0.6638326043323521,,0.9005610346794128,10
+nhac_trinh:tinhsau-thanhha-4730311(1).,Tinh Sau,nhac_trinh,1.0,0.2,0.7166616231328017,,0.9051046371459961,9
+nhac_trinh:tinhsau-thanhha-4730311.,Tinh Sau,nhac_trinh,0.0,1.0,0.3857757250256689,,0.867367148399353,8
+nhac_trinh:tinhsau-thanhha-4730311.,Tinh Sau,nhac_trinh,0.25,0.8,0.5165406648377824,,0.8821541666984558,9
+nhac_trinh:tinhsau-thanhha-4730311.,Tinh Sau,nhac_trinh,0.5,0.6,0.6065185107025948,,0.8942136764526367,9
+nhac_trinh:tinhsau-thanhha-4730311.,Tinh Sau,nhac_trinh,0.75,0.4,0.6638326043323521,,0.9005610346794128,10
+nhac_trinh:tinhsau-thanhha-4730311.,Tinh Sau,nhac_trinh,1.0,0.2,0.7166616231328017,,0.9051046371459961,9
+nhac_trinh:tinhsau-thudang-2596277.,Tinh Sau,nhac_trinh,0.0,1.0,0.6704166648559609,,0.8922481536865234,6
+nhac_trinh:tinhsau-thudang-2596277.,Tinh Sau,nhac_trinh,0.25,1.0,0.670416664855961,,0.8922481536865234,6
+nhac_trinh:tinhsau-thudang-2596277.,Tinh Sau,nhac_trinh,0.5,0.9,0.6683022707332168,,0.8964377641677856,6
+nhac_trinh:tinhsau-thudang-2596277.,Tinh Sau,nhac_trinh,0.75,0.8,0.6729400812505507,,0.8969799876213074,7
+nhac_trinh:tinhsau-thudang-2596277.,Tinh Sau,nhac_trinh,1.0,0.7,0.6914162216497195,,0.8992371559143066,8
+nhac_trinh:toioidungtuyetvong-quangdung_bhuu,Toi Oi Dung Tuyet Vong,nhac_trinh,0.0,1.0,0.6270305914427635,,0.8565764427185059,9
+nhac_trinh:toioidungtuyetvong-quangdung_bhuu,Toi Oi Dung Tuyet Vong,nhac_trinh,0.25,0.8,0.6331165518486519,,0.8596242070198059,9
+nhac_trinh:toioidungtuyetvong-quangdung_bhuu,Toi Oi Dung Tuyet Vong,nhac_trinh,0.5,0.7,0.6354819139732,,0.8643573522567749,9
+nhac_trinh:toioidungtuyetvong-quangdung_bhuu,Toi Oi Dung Tuyet Vong,nhac_trinh,0.75,0.4,0.7440813445032567,,0.876724898815155,8
+nhac_trinh:toioidungtuyetvong-quangdung_bhuu,Toi Oi Dung Tuyet Vong,nhac_trinh,1.0,0.1,0.8455464665797856,,0.8865311741828918,9
+nhac_trinh:toiruemngu-tranthuha-2266760_hq,Toi Ru Em Ngu,nhac_trinh,0.0,1.0,0.6032982424849993,,0.8332731127738953,9
+nhac_trinh:toiruemngu-tranthuha-2266760_hq,Toi Ru Em Ngu,nhac_trinh,0.25,0.8,0.612694866057163,,0.8429757952690125,9
+nhac_trinh:toiruemngu-tranthuha-2266760_hq,Toi Ru Em Ngu,nhac_trinh,0.5,0.5,0.5787862076731238,,0.8560141324996948,8
+nhac_trinh:toiruemngu-tranthuha-2266760_hq,Toi Ru Em Ngu,nhac_trinh,0.75,0.2,0.5746734591759763,,0.8655697703361511,7
+nhac_trinh:toiruemngu-tranthuha-2266760_hq,Toi Ru Em Ngu,nhac_trinh,1.0,0.0,0.6168402757285933,,0.8699840307235718,8
+nhac_trinh:trongnoidautinhco-trinhcongson_393kc,Trong Noi Dau Tinh Co,nhac_trinh,0.0,1.0,0.709258738623647,,0.8666353225708008,7
+nhac_trinh:trongnoidautinhco-trinhcongson_393kc,Trong Noi Dau Tinh Co,nhac_trinh,0.25,0.8,0.6983003620290598,,0.8796035647392273,5
+nhac_trinh:trongnoidautinhco-trinhcongson_393kc,Trong Noi Dau Tinh Co,nhac_trinh,0.5,0.8,0.6983003620290597,,0.8796036839485168,5
+nhac_trinh:trongnoidautinhco-trinhcongson_393kc,Trong Noi Dau Tinh Co,nhac_trinh,0.75,0.6,0.685545289579694,,0.8887116312980652,6
+nhac_trinh:trongnoidautinhco-trinhcongson_393kc,Trong Noi Dau Tinh Co,nhac_trinh,1.0,0.3,0.7533852659102332,,0.8943824768066406,7
+nhac_trinh:tuoidabuon-giangtrang_4j9za.,Tuoi Da Buon,nhac_trinh,0.0,1.0,0.5144213165806435,,0.8510810136795044,8
+nhac_trinh:tuoidabuon-giangtrang_4j9za.,Tuoi Da Buon,nhac_trinh,0.25,1.0,0.5144213165806436,,0.8510810136795044,8
+nhac_trinh:tuoidabuon-giangtrang_4j9za.,Tuoi Da Buon,nhac_trinh,0.5,1.0,0.5144213165806434,,0.8510810136795044,8
+nhac_trinh:tuoidabuon-giangtrang_4j9za.,Tuoi Da Buon,nhac_trinh,0.75,0.6,0.5924527618738171,,0.8733557462692261,7
+nhac_trinh:tuoidabuon-giangtrang_4j9za.,Tuoi Da Buon,nhac_trinh,1.0,0.3,0.7694969877004845,,0.8812243342399597,9
+nhac_trinh:tuoidabuon-hongnhung-648726.,Tuoi Da Buon,nhac_trinh,0.0,1.0,0.5801364187329001,,0.847599983215332,8
+nhac_trinh:tuoidabuon-hongnhung-648726.,Tuoi Da Buon,nhac_trinh,0.25,0.9,0.5697860478498787,,0.8504534959793091,8
+nhac_trinh:tuoidabuon-hongnhung-648726.,Tuoi Da Buon,nhac_trinh,0.5,0.8,0.577087068665482,,0.8526688814163208,8
+nhac_trinh:tuoidabuon-hongnhung-648726.,Tuoi Da Buon,nhac_trinh,0.75,0.4,0.7000386313805275,,0.8714607954025269,8
+nhac_trinh:tuoidabuon-hongnhung-648726.,Tuoi Da Buon,nhac_trinh,1.0,0.3,0.7460056029537059,,0.8751611709594727,9
+nhac_trinh:tuoidoimenhmong-hongnhung_3gnvv_hq,Tuoi Doi Menh Mong,nhac_trinh,0.0,1.0,0.46219571062170467,,0.8700664639472961,8
+nhac_trinh:tuoidoimenhmong-hongnhung_3gnvv_hq,Tuoi Doi Menh Mong,nhac_trinh,0.25,0.9,0.4656954976619144,,0.8724135160446167,7
+nhac_trinh:tuoidoimenhmong-hongnhung_3gnvv_hq,Tuoi Doi Menh Mong,nhac_trinh,0.5,0.9,0.4656954976619145,,0.8724135160446167,7
+nhac_trinh:tuoidoimenhmong-hongnhung_3gnvv_hq,Tuoi Doi Menh Mong,nhac_trinh,0.75,0.9,0.4656954976619145,,0.8724135160446167,7
+nhac_trinh:tuoidoimenhmong-hongnhung_3gnvv_hq,Tuoi Doi Menh Mong,nhac_trinh,1.0,0.3,0.7887952864404371,,0.8791908025741577,8
+nhac_trinh:tuongrangdaquen-xuanphu_3bwez.,Tuong Rang Da Quen,nhac_trinh,0.0,1.0,0.6902678277261113,,0.8512688875198364,7
+nhac_trinh:tuongrangdaquen-xuanphu_3bwez.,Tuong Rang Da Quen,nhac_trinh,0.25,0.8,0.6674947105495412,,0.8675082325935364,6
+nhac_trinh:tuongrangdaquen-xuanphu_3bwez.,Tuong Rang Da Quen,nhac_trinh,0.5,0.5,0.6836924136570113,,0.8820441961288452,7
+nhac_trinh:tuongrangdaquen-xuanphu_3bwez.,Tuong Rang Da Quen,nhac_trinh,0.75,0.5,0.7012429386482011,,0.8868477940559387,6
+nhac_trinh:tuongrangdaquen-xuanphu_3bwez.,Tuong Rang Da Quen,nhac_trinh,1.0,0.0,0.7443253782714004,,0.8963800668716431,8
+nhac_trinh:uotmi-lequyen-5410861.,Uot Mi,nhac_trinh,0.0,1.0,0.590792320416635,,0.8642001152038574,4
+nhac_trinh:uotmi-lequyen-5410861.,Uot Mi,nhac_trinh,0.25,1.0,0.590792320416635,,0.8642001152038574,4
+nhac_trinh:uotmi-lequyen-5410861.,Uot Mi,nhac_trinh,0.5,0.9,0.626960176617884,,0.86658775806427,3
+nhac_trinh:uotmi-lequyen-5410861.,Uot Mi,nhac_trinh,0.75,0.8,0.6346656351138344,,0.8683058619499207,3
+nhac_trinh:uotmi-lequyen-5410861.,Uot Mi,nhac_trinh,1.0,0.4,0.7734911448560194,,0.8753019571304321,4
+nhac_trinh:vetlantram-quangngoc-2450645.,Vet Lan Tram,nhac_trinh,0.0,1.0,0.6048503031342077,,0.8384526968002319,8
+nhac_trinh:vetlantram-quangngoc-2450645.,Vet Lan Tram,nhac_trinh,0.25,1.0,0.6048503031342077,,0.8384528160095215,8
+nhac_trinh:vetlantram-quangngoc-2450645.,Vet Lan Tram,nhac_trinh,0.5,1.0,0.6048503031342077,,0.8384528160095215,8
+nhac_trinh:vetlantram-quangngoc-2450645.,Vet Lan Tram,nhac_trinh,0.75,0.8,0.6523643597566892,,0.8439322710037231,8
+nhac_trinh:vetlantram-quangngoc-2450645.,Vet Lan Tram,nhac_trinh,1.0,0.2,0.8437960202484823,,0.8537158966064453,9
+nhac_trinh:xadaumattroi-trinhcongson_37jam_hq,Xa Dau Mat Troi,nhac_trinh,0.0,1.0,0.6610284362079452,,0.8832055926322937,5
+nhac_trinh:xadaumattroi-trinhcongson_37jam_hq,Xa Dau Mat Troi,nhac_trinh,0.25,0.9,0.6880643880853661,,0.8856880068778992,4
+nhac_trinh:xadaumattroi-trinhcongson_37jam_hq,Xa Dau Mat Troi,nhac_trinh,0.5,0.8,0.7043400017360566,,0.8890307545661926,4
+nhac_trinh:xadaumattroi-trinhcongson_37jam_hq,Xa Dau Mat Troi,nhac_trinh,0.75,0.7,0.7085964620758716,,0.8903219103813171,4
+nhac_trinh:xadaumattroi-trinhcongson_37jam_hq,Xa Dau Mat Troi,nhac_trinh,1.0,0.4,0.7429187469729245,,0.8945193290710449,5
+nhac_trinh:xintranonguoi-khanhly_3v69w_hq,Xin Tra No Nguoi,nhac_trinh,0.0,1.0,0.6999195079472892,,0.856968879699707,9
+nhac_trinh:xintranonguoi-khanhly_3v69w_hq,Xin Tra No Nguoi,nhac_trinh,0.25,0.9,0.7042693747615143,,0.861693263053894,8
+nhac_trinh:xintranonguoi-khanhly_3v69w_hq,Xin Tra No Nguoi,nhac_trinh,0.5,0.7,0.7388384056903418,,0.8711708784103394,8
+nhac_trinh:xintranonguoi-khanhly_3v69w_hq,Xin Tra No Nguoi,nhac_trinh,0.75,0.5,0.7111728034130987,,0.8764190673828125,7
+nhac_trinh:xintranonguoi-khanhly_3v69w_hq,Xin Tra No Nguoi,nhac_trinh,1.0,0.2,0.7445262736081977,,0.8792375326156616,7
+rap_viet:2phuthon-phaowack-6229151,Phut Hon,rap_viet,0.0,1.0,0.6918387903816333,,0.8141171336174011,10
+rap_viet:2phuthon-phaowack-6229151,Phut Hon,rap_viet,0.25,0.8,0.6849891403971281,,0.8196064233779907,9
+rap_viet:2phuthon-phaowack-6229151,Phut Hon,rap_viet,0.5,0.6,0.6897742956575921,,0.8269758224487305,10
+rap_viet:2phuthon-phaowack-6229151,Phut Hon,rap_viet,0.75,0.4,0.7309146975720818,,0.8346427083015442,10
+rap_viet:2phuthon-phaowack-6229151,Phut Hon,rap_viet,1.0,0.0,0.7999946828594493,,0.8510986566543579,9
+rap_viet:alaelafeatgduckyrickystarkarik-rapviet-6821319_hq,Ala Ela Feat Gducky Ricky Star Karik,rap_viet,0.0,1.0,0.689724417545716,,0.8116364479064941,3
+rap_viet:alaelafeatgduckyrickystarkarik-rapviet-6821319_hq,Ala Ela Feat Gducky Ricky Star Karik,rap_viet,0.25,0.9,0.6880638209467789,,0.8131940960884094,3
+rap_viet:alaelafeatgduckyrickystarkarik-rapviet-6821319_hq,Ala Ela Feat Gducky Ricky Star Karik,rap_viet,0.5,0.8,0.6917355056319147,,0.8166652917861938,4
+rap_viet:alaelafeatgduckyrickystarkarik-rapviet-6821319_hq,Ala Ela Feat Gducky Ricky Star Karik,rap_viet,0.75,0.7,0.7224464198045382,,0.822110652923584,5
+rap_viet:alaelafeatgduckyrickystarkarik-rapviet-6821319_hq,Ala Ela Feat Gducky Ricky Star Karik,rap_viet,1.0,0.4,0.7552353295747275,,0.8233405351638794,8
+rap_viet:anhkhongdoiqua-karikonlyc-2855777_hq,Anh Khong Doi Qua,rap_viet,0.0,1.0,0.6832647517132449,,0.8234956860542297,7
+rap_viet:anhkhongdoiqua-karikonlyc-2855777_hq,Anh Khong Doi Qua,rap_viet,0.25,0.9,0.6837585378280262,,0.8266820907592773,8
+rap_viet:anhkhongdoiqua-karikonlyc-2855777_hq,Anh Khong Doi Qua,rap_viet,0.5,0.7,0.7048886724285849,,0.8341485857963562,8
+rap_viet:anhkhongdoiqua-karikonlyc-2855777_hq,Anh Khong Doi Qua,rap_viet,0.75,0.6,0.7085741660867515,,0.8374190330505371,9
+rap_viet:anhkhongdoiqua-karikonlyc-2855777_hq,Anh Khong Doi Qua,rap_viet,1.0,0.4,0.7737670606592445,,0.841374397277832,10
+rap_viet:beautifulmonster-soobinbinz-8196082_hq,Beautiful Monster,rap_viet,0.0,1.0,0.7245632154540387,,0.8163638114929199,9
+rap_viet:beautifulmonster-soobinbinz-8196082_hq,Beautiful Monster,rap_viet,0.25,1.0,0.7245632154540388,,0.8163638114929199,9
+rap_viet:beautifulmonster-soobinbinz-8196082_hq,Beautiful Monster,rap_viet,0.5,0.9,0.7398634205925101,,0.8228317499160767,9
+rap_viet:beautifulmonster-soobinbinz-8196082_hq,Beautiful Monster,rap_viet,0.75,0.6,0.7595139873636413,,0.8356930613517761,9
+rap_viet:beautifulmonster-soobinbinz-8196082_hq,Beautiful Monster,rap_viet,1.0,0.2,0.7959750371776153,,0.8411812782287598,8
+rap_viet:bimatnho-brayhoangtonhelia-8772383_hq,Bi Mat Nho,rap_viet,0.0,1.0,0.7260620337683802,,0.8290746808052063,7
+rap_viet:bimatnho-brayhoangtonhelia-8772383_hq,Bi Mat Nho,rap_viet,0.25,0.8,0.7342591090222402,,0.835735023021698,7
+rap_viet:bimatnho-brayhoangtonhelia-8772383_hq,Bi Mat Nho,rap_viet,0.5,0.6,0.733415055911878,,0.8397245407104492,7
+rap_viet:bimatnho-brayhoangtonhelia-8772383_hq,Bi Mat Nho,rap_viet,0.75,0.5,0.7426338731284287,,0.84576016664505,8
+rap_viet:bimatnho-brayhoangtonhelia-8772383_hq,Bi Mat Nho,rap_viet,1.0,0.3,0.8253130479995093,,0.8492975234985352,9
+rap_viet:bluetequila-tao-6558843.,Blue Tequila,rap_viet,0.0,1.0,0.6568795387857811,,0.8260451555252075,9
+rap_viet:bluetequila-tao-6558843.,Blue Tequila,rap_viet,0.25,0.9,0.6582359879245606,,0.8294006586074829,10
+rap_viet:bluetequila-tao-6558843.,Blue Tequila,rap_viet,0.5,0.7,0.6675331090670129,,0.8364650011062622,10
+rap_viet:bluetequila-tao-6558843.,Blue Tequila,rap_viet,0.75,0.6,0.6705461697403745,,0.837445080280304,10
+rap_viet:bluetequila-tao-6558843.,Blue Tequila,rap_viet,1.0,0.2,0.8208203675021025,,0.8446720242500305,10
+rap_viet:callmetheliar-justateelkeddyviet-8662557_hq,Call Me The Liar,rap_viet,0.0,1.0,0.6929517264444773,,0.82145756483078,7
+rap_viet:callmetheliar-justateelkeddyviet-8662557_hq,Call Me The Liar,rap_viet,0.25,0.9,0.6863250341822211,,0.8247368931770325,8
+rap_viet:callmetheliar-justateelkeddyviet-8662557_hq,Call Me The Liar,rap_viet,0.5,0.7,0.7012350258444565,,0.835419774055481,8
+rap_viet:callmetheliar-justateelkeddyviet-8662557_hq,Call Me The Liar,rap_viet,0.75,0.4,0.7359769292484967,,0.8458987474441528,8
+rap_viet:callmetheliar-justateelkeddyviet-8662557_hq,Call Me The Liar,rap_viet,1.0,0.2,0.7857478615649658,,0.8493072390556335,10
+rap_viet:camnhanfeatseachains-rapviet-7113745_hq,Cam Nhan Feat Seachains,rap_viet,0.0,1.0,0.6753679652580237,,0.8450599908828735,6
+rap_viet:camnhanfeatseachains-rapviet-7113745_hq,Cam Nhan Feat Seachains,rap_viet,0.25,0.9,0.6798911733384783,,0.8496524691581726,5
+rap_viet:camnhanfeatseachains-rapviet-7113745_hq,Cam Nhan Feat Seachains,rap_viet,0.5,0.8,0.6842893498045222,,0.8523790240287781,5
+rap_viet:camnhanfeatseachains-rapviet-7113745_hq,Cam Nhan Feat Seachains,rap_viet,0.75,0.6,0.6980358579136133,,0.8583495020866394,4
+rap_viet:camnhanfeatseachains-rapviet-7113745_hq,Cam Nhan Feat Seachains,rap_viet,1.0,0.4,0.7803958585219342,,0.8646293878555298,6
+rap_viet:chimsau-mcktrungtran-7205660.,Chim Sau,rap_viet,0.0,1.0,0.7136265373676728,,0.8322809338569641,7
+rap_viet:chimsau-mcktrungtran-7205660.,Chim Sau,rap_viet,0.25,0.9,0.7190874518991979,,0.8375093340873718,7
+rap_viet:chimsau-mcktrungtran-7205660.,Chim Sau,rap_viet,0.5,0.7,0.7186594349392248,,0.8446274995803833,8
+rap_viet:chimsau-mcktrungtran-7205660.,Chim Sau,rap_viet,0.75,0.5,0.7136211587781145,,0.8488438725471497,8
+rap_viet:chimsau-mcktrungtran-7205660.,Chim Sau,rap_viet,1.0,0.3,0.819062880957961,,0.8560285568237305,9
+rap_viet:chimsevadautayfeatdechoatwowy-rapviet-6821320_hq,Chim Se Va Dau Tay Feat De Choat Wowy,rap_viet,0.0,1.0,0.6597448798129703,,0.8388387560844421,6
+rap_viet:chimsevadautayfeatdechoatwowy-rapviet-6821320_hq,Chim Se Va Dau Tay Feat De Choat Wowy,rap_viet,0.25,1.0,0.6597448798129703,,0.8388387560844421,6
+rap_viet:chimsevadautayfeatdechoatwowy-rapviet-6821320_hq,Chim Se Va Dau Tay Feat De Choat Wowy,rap_viet,0.5,0.8,0.6672798805049701,,0.8468540906906128,4
+rap_viet:chimsevadautayfeatdechoatwowy-rapviet-6821320_hq,Chim Se Va Dau Tay Feat De Choat Wowy,rap_viet,0.75,0.6,0.676990062749657,,0.851824164390564,2
+rap_viet:chimsevadautayfeatdechoatwowy-rapviet-6821320_hq,Chim Se Va Dau Tay Feat De Choat Wowy,rap_viet,1.0,0.4,0.7927322260930368,,0.854411244392395,5
+rap_viet:chonlaoxao-tungteatonyhuymie-6297369.,Chon Lao Xao,rap_viet,0.0,1.0,0.6567989759622377,,0.827276885509491,9
+rap_viet:chonlaoxao-tungteatonyhuymie-6297369.,Chon Lao Xao,rap_viet,0.25,0.8,0.6543110677105923,,0.8385897874832153,10
+rap_viet:chonlaoxao-tungteatonyhuymie-6297369.,Chon Lao Xao,rap_viet,0.5,0.7,0.6601840522261776,,0.8423134088516235,10
+rap_viet:chonlaoxao-tungteatonyhuymie-6297369.,Chon Lao Xao,rap_viet,0.75,0.5,0.6863449700611154,,0.8481929898262024,10
+rap_viet:chonlaoxao-tungteatonyhuymie-6297369.,Chon Lao Xao,rap_viet,1.0,0.2,0.7841885345234475,,0.8535515069961548,10
+rap_viet:cua-hieuthuhaimanbo-6408297,Cua,rap_viet,0.0,1.0,0.7078496638346397,,0.8274893760681152,9
+rap_viet:cua-hieuthuhaimanbo-6408297,Cua,rap_viet,0.25,0.8,0.7198785532906701,,0.8335829973220825,10
+rap_viet:cua-hieuthuhaimanbo-6408297,Cua,rap_viet,0.5,0.6,0.7222343685146002,,0.8464919328689575,9
+rap_viet:cua-hieuthuhaimanbo-6408297,Cua,rap_viet,0.75,0.4,0.7221208356612062,,0.8530011177062988,10
+rap_viet:cua-hieuthuhaimanbo-6408297,Cua,rap_viet,1.0,0.3,0.8025861828257737,,0.8625683784484863,10
+rap_viet:cuoivomientay-huynhjamespjnboys-8268356_hq,Cuoi Vo Mien Tay,rap_viet,0.0,1.0,0.6832134034856263,,0.8433175086975098,7
+rap_viet:cuoivomientay-huynhjamespjnboys-8268356_hq,Cuoi Vo Mien Tay,rap_viet,0.25,0.8,0.691664779830235,,0.8502923846244812,8
+rap_viet:cuoivomientay-huynhjamespjnboys-8268356_hq,Cuoi Vo Mien Tay,rap_viet,0.5,0.8,0.691664779830235,,0.8502923846244812,8
+rap_viet:cuoivomientay-huynhjamespjnboys-8268356_hq,Cuoi Vo Mien Tay,rap_viet,0.75,0.7,0.6932825801374283,,0.8521414995193481,8
+rap_viet:cuoivomientay-huynhjamespjnboys-8268356_hq,Cuoi Vo Mien Tay,rap_viet,1.0,0.5,0.7904182691242687,,0.8551219701766968,9
+rap_viet:danbienma-huynhjamespjnboys-6294820_hq,Dan Bien Ma,rap_viet,0.0,1.0,0.6891840904819976,,0.8195762634277344,7
+rap_viet:danbienma-huynhjamespjnboys-6294820_hq,Dan Bien Ma,rap_viet,0.25,0.9,0.69171967245848,,0.8255861401557922,8
+rap_viet:danbienma-huynhjamespjnboys-6294820_hq,Dan Bien Ma,rap_viet,0.5,0.7,0.6991778013255474,,0.8320916891098022,9
+rap_viet:danbienma-huynhjamespjnboys-6294820_hq,Dan Bien Ma,rap_viet,0.75,0.6,0.6983545599438722,,0.8340761065483093,9
+rap_viet:danbienma-huynhjamespjnboys-6294820_hq,Dan Bien Ma,rap_viet,1.0,0.3,0.7685715685510912,,0.836835503578186,9
+rap_viet:danchoixomfeatrptmckjustatee-rapviet-6821316_hq,Dan Choi Xom Feat Rpt Mck Justatee,rap_viet,0.0,1.0,0.6735959977987502,,0.8261135220527649,1
+rap_viet:danchoixomfeatrptmckjustatee-rapviet-6821316_hq,Dan Choi Xom Feat Rpt Mck Justatee,rap_viet,0.25,0.9,0.6752466899273613,,0.8297155499458313,1
+rap_viet:danchoixomfeatrptmckjustatee-rapviet-6821316_hq,Dan Choi Xom Feat Rpt Mck Justatee,rap_viet,0.5,0.8,0.6800105503524416,,0.8352680206298828,2
+rap_viet:danchoixomfeatrptmckjustatee-rapviet-6821316_hq,Dan Choi Xom Feat Rpt Mck Justatee,rap_viet,0.75,0.7,0.6901804598331899,,0.8374297022819519,3
+rap_viet:danchoixomfeatrptmckjustatee-rapviet-6821316_hq,Dan Choi Xom Feat Rpt Mck Justatee,rap_viet,1.0,0.4,0.7469551704240227,,0.839494526386261,6
+rap_viet:daylarapvietfeatwowykariksuboibinzrhymasticjustatee-rapviet-6727141_hq,Day La Rap Viet Feat Wowy Karik Suboi Binz Rhymastic Justatee,rap_viet,0.0,1.0,0.6742480665105152,,0.8222560882568359,4
+rap_viet:daylarapvietfeatwowykariksuboibinzrhymasticjustatee-rapviet-6727141_hq,Day La Rap Viet Feat Wowy Karik Suboi Binz Rhymastic Justatee,rap_viet,0.25,0.9,0.6786065701025471,,0.825823187828064,3
+rap_viet:daylarapvietfeatwowykariksuboibinzrhymasticjustatee-rapviet-6727141_hq,Day La Rap Viet Feat Wowy Karik Suboi Binz Rhymastic Justatee,rap_viet,0.5,0.8,0.6782145312176366,,0.829210102558136,2
+rap_viet:daylarapvietfeatwowykariksuboibinzrhymasticjustatee-rapviet-6727141_hq,Day La Rap Viet Feat Wowy Karik Suboi Binz Rhymastic Justatee,rap_viet,0.75,0.6,0.7002337554221418,,0.8352810740470886,2
+rap_viet:daylarapvietfeatwowykariksuboibinzrhymasticjustatee-rapviet-6727141_hq,Day La Rap Viet Feat Wowy Karik Suboi Binz Rhymastic Justatee,rap_viet,1.0,0.4,0.7676265789581922,,0.8384974598884583,5
+rap_viet:dearfeatlehieu-gonzo-8756739_hq,Dear Feat Le Hieu,rap_viet,0.0,1.0,0.6566979742408459,,0.8262628316879272,7
+rap_viet:dearfeatlehieu-gonzo-8756739_hq,Dear Feat Le Hieu,rap_viet,0.25,1.0,0.6566979742408459,,0.8262628316879272,7
+rap_viet:dearfeatlehieu-gonzo-8756739_hq,Dear Feat Le Hieu,rap_viet,0.5,0.9,0.6603553693951015,,0.8297996520996094,6
+rap_viet:dearfeatlehieu-gonzo-8756739_hq,Dear Feat Le Hieu,rap_viet,0.75,0.5,0.6863122061528044,,0.8408740758895874,5
+rap_viet:dearfeatlehieu-gonzo-8756739_hq,Dear Feat Le Hieu,rap_viet,1.0,0.2,0.8082574786670521,,0.8457969427108765,6
+rap_viet:dencuoicunglaicodon-anhtukoo-6300153.,Den Cuoi Cung Lai Co Don,rap_viet,0.0,1.0,0.6669477378347503,,0.8543931245803833,10
+rap_viet:dencuoicunglaicodon-anhtukoo-6300153.,Den Cuoi Cung Lai Co Don,rap_viet,0.25,1.0,0.6669477378347503,,0.8543931245803833,10
+rap_viet:dencuoicunglaicodon-anhtukoo-6300153.,Den Cuoi Cung Lai Co Don,rap_viet,0.5,0.8,0.6772110986871122,,0.8587931394577026,10
+rap_viet:dencuoicunglaicodon-anhtukoo-6300153.,Den Cuoi Cung Lai Co Don,rap_viet,0.75,0.7,0.7029518323887108,,0.8621446490287781,10
+rap_viet:dencuoicunglaicodon-anhtukoo-6300153.,Den Cuoi Cung Lai Co Don,rap_viet,1.0,0.4,0.7952053438565242,,0.8688309788703918,10
+rap_viet:doforlove-ameebray-6221980.,Do For Love,rap_viet,0.0,1.0,0.7604936838590391,,0.8209799528121948,10
+rap_viet:doforlove-ameebray-6221980.,Do For Love,rap_viet,0.25,0.9,0.7635344566847745,,0.8271034955978394,10
+rap_viet:doforlove-ameebray-6221980.,Do For Love,rap_viet,0.5,0.9,0.7635344566847746,,0.8271034955978394,10
+rap_viet:doforlove-ameebray-6221980.,Do For Love,rap_viet,0.75,0.6,0.7810922281937516,,0.8404151797294617,10
+rap_viet:doforlove-ameebray-6221980.,Do For Love,rap_viet,1.0,0.2,0.8624310093242366,,0.8513191938400269,10
+rap_viet:dontbreakmyheart-binz-7146255_hq,Dont Break My Heart,rap_viet,0.0,1.0,0.7336171687334879,,0.8279255032539368,8
+rap_viet:dontbreakmyheart-binz-7146255_hq,Dont Break My Heart,rap_viet,0.25,1.0,0.7336171687334881,,0.8279255032539368,8
+rap_viet:dontbreakmyheart-binz-7146255_hq,Dont Break My Heart,rap_viet,0.5,0.8,0.7503375953722695,,0.8434345126152039,8
+rap_viet:dontbreakmyheart-binz-7146255_hq,Dont Break My Heart,rap_viet,0.75,0.7,0.7505111458000322,,0.8460830450057983,8
+rap_viet:dontbreakmyheart-binz-7146255_hq,Dont Break My Heart,rap_viet,1.0,0.4,0.7395902732367259,,0.8497724533081055,6
+rap_viet:dutraisetham-mikevietnamchiennhatlang-7828808_hq,Du Trai Se Tham,rap_viet,0.0,1.0,0.6623192849805043,,0.8207252621650696,9
+rap_viet:dutraisetham-mikevietnamchiennhatlang-7828808_hq,Du Trai Se Tham,rap_viet,0.25,0.8,0.6816738463825369,,0.8280832171440125,8
+rap_viet:dutraisetham-mikevietnamchiennhatlang-7828808_hq,Du Trai Se Tham,rap_viet,0.5,0.6,0.6926239632239664,,0.8355199694633484,8
+rap_viet:dutraisetham-mikevietnamchiennhatlang-7828808_hq,Du Trai Se Tham,rap_viet,0.75,0.4,0.6967032623352574,,0.8405795097351074,9
+rap_viet:dutraisetham-mikevietnamchiennhatlang-7828808_hq,Du Trai Se Tham,rap_viet,1.0,0.1,0.8081275011362385,,0.8488420248031616,9
+rap_viet:dynamicduo-hieuthuhaihurrykng-7136501_hq,Dynamic Duo,rap_viet,0.0,1.0,0.7042661417912319,,0.8257566690444946,8
+rap_viet:dynamicduo-hieuthuhaihurrykng-7136501_hq,Dynamic Duo,rap_viet,0.25,0.8,0.6986734719641735,,0.8298657536506653,9
+rap_viet:dynamicduo-hieuthuhaihurrykng-7136501_hq,Dynamic Duo,rap_viet,0.5,0.6,0.7089235150357136,,0.841883659362793,9
+rap_viet:dynamicduo-hieuthuhaihurrykng-7136501_hq,Dynamic Duo,rap_viet,0.75,0.4,0.7322619085817351,,0.8456818461418152,10
+rap_viet:dynamicduo-hieuthuhaihurrykng-7136501_hq,Dynamic Duo,rap_viet,1.0,0.3,0.7815069392533676,,0.8473846316337585,9
+rap_viet:e-karikwindyquyen-2556752_hq,E,rap_viet,0.0,1.0,0.6938768473073793,,0.8215612173080444,9
+rap_viet:e-karikwindyquyen-2556752_hq,E,rap_viet,0.25,0.9,0.6869306553076644,,0.8249171376228333,9
+rap_viet:e-karikwindyquyen-2556752_hq,E,rap_viet,0.5,0.7,0.705807985541206,,0.8365808725357056,9
+rap_viet:e-karikwindyquyen-2556752_hq,E,rap_viet,0.75,0.4,0.7192662528419314,,0.8416428565979004,8
+rap_viet:e-karikwindyquyen-2556752_hq,E,rap_viet,1.0,0.1,0.8390919453101218,,0.8519598841667175,10
+rap_viet:exshateme-braymasewamee-5878683.,Exs Hate Me,rap_viet,0.0,1.0,0.7009071104207505,,0.822945773601532,8
+rap_viet:exshateme-braymasewamee-5878683.,Exs Hate Me,rap_viet,0.25,0.9,0.6942926154690521,,0.825742244720459,8
+rap_viet:exshateme-braymasewamee-5878683.,Exs Hate Me,rap_viet,0.5,0.8,0.7119463012673889,,0.830618679523468,8
+rap_viet:exshateme-braymasewamee-5878683.,Exs Hate Me,rap_viet,0.75,0.7,0.7210866939005744,,0.8342941403388977,9
+rap_viet:exshateme-braymasewamee-5878683.,Exs Hate Me,rap_viet,1.0,0.2,0.8574189363455411,,0.8401540517807007,10
+rap_viet:fallingonyoufeatvsoul-rapviet-7113744_hq,Falling On You Feat Vsoul,rap_viet,0.0,1.0,0.6674391975118413,,0.8283697366714478,6
+rap_viet:fallingonyoufeatvsoul-rapviet-7113744_hq,Falling On You Feat Vsoul,rap_viet,0.25,0.9,0.667747282410936,,0.8366544842720032,5
+rap_viet:fallingonyoufeatvsoul-rapviet-7113744_hq,Falling On You Feat Vsoul,rap_viet,0.5,0.8,0.6749613450640278,,0.8406041264533997,4
+rap_viet:fallingonyoufeatvsoul-rapviet-7113744_hq,Falling On You Feat Vsoul,rap_viet,0.75,0.5,0.6863478019003981,,0.8494061231613159,4
+rap_viet:fallingonyoufeatvsoul-rapviet-7113744_hq,Falling On You Feat Vsoul,rap_viet,1.0,0.2,0.715769641370469,,0.8518720865249634,4
+rap_viet:foreveralone-justatee-8664158_hq,Forever Alone,rap_viet,0.0,1.0,0.7533893099665759,,0.8056885600090027,9
+rap_viet:foreveralone-justatee-8664158_hq,Forever Alone,rap_viet,0.25,1.0,0.7533893099665759,,0.8056885600090027,9
+rap_viet:foreveralone-justatee-8664158_hq,Forever Alone,rap_viet,0.5,0.8,0.7727882125054991,,0.8207805752754211,10
+rap_viet:foreveralone-justatee-8664158_hq,Forever Alone,rap_viet,0.75,0.4,0.8148645731453293,,0.8418534398078918,10
+rap_viet:foreveralone-justatee-8664158_hq,Forever Alone,rap_viet,1.0,0.1,0.8236759904225526,,0.8528362512588501,10
+rap_viet:ghequa-taynguyensoundtofupc-7031399.,Ghe Qua,rap_viet,0.0,1.0,0.6588672276380718,,0.828687846660614,10
+rap_viet:ghequa-taynguyensoundtofupc-7031399.,Ghe Qua,rap_viet,0.25,1.0,0.6588672276380717,,0.8286877870559692,10
+rap_viet:ghequa-taynguyensoundtofupc-7031399.,Ghe Qua,rap_viet,0.5,0.8,0.6599252244203327,,0.8320258259773254,10
+rap_viet:ghequa-taynguyensoundtofupc-7031399.,Ghe Qua,rap_viet,0.75,0.7,0.6636005037277725,,0.8362470865249634,10
+rap_viet:ghequa-taynguyensoundtofupc-7031399.,Ghe Qua,rap_viet,1.0,0.1,0.8256268728349356,,0.8447108268737793,9
+rap_viet:giauvibansangvivofeatrptmck-rapviet-6792005_hq,Giau Vi Ban Sang Vi Vo Feat Rpt Mck,rap_viet,0.0,1.0,0.6733640788688102,,0.8515418767929077,1
+rap_viet:giauvibansangvivofeatrptmck-rapviet-6792005_hq,Giau Vi Ban Sang Vi Vo Feat Rpt Mck,rap_viet,0.25,1.0,0.6733640788688102,,0.8515418767929077,1
+rap_viet:giauvibansangvivofeatrptmck-rapviet-6792005_hq,Giau Vi Ban Sang Vi Vo Feat Rpt Mck,rap_viet,0.5,0.8,0.6857894888771204,,0.8590799570083618,2
+rap_viet:giauvibansangvivofeatrptmck-rapviet-6792005_hq,Giau Vi Ban Sang Vi Vo Feat Rpt Mck,rap_viet,0.75,0.7,0.6911355334168212,,0.8610981702804565,2
+rap_viet:giauvibansangvivofeatrptmck-rapviet-6792005_hq,Giau Vi Ban Sang Vi Vo Feat Rpt Mck,rap_viet,1.0,0.5,0.7058357870639939,,0.8615158200263977,4
+rap_viet:hienngangngangdaufeatbrt-rapviet-7113740_hq,Hien Ngang Ngang Dau Feat Brt,rap_viet,0.0,1.0,0.6711386121422908,,0.8446161150932312,2
+rap_viet:hienngangngangdaufeatbrt-rapviet-7113740_hq,Hien Ngang Ngang Dau Feat Brt,rap_viet,0.25,1.0,0.6711386121422906,,0.8446161150932312,2
+rap_viet:hienngangngangdaufeatbrt-rapviet-7113740_hq,Hien Ngang Ngang Dau Feat Brt,rap_viet,0.5,0.9,0.6738785620643348,,0.850206732749939,2
+rap_viet:hienngangngangdaufeatbrt-rapviet-7113740_hq,Hien Ngang Ngang Dau Feat Brt,rap_viet,0.75,0.7,0.687735985676663,,0.8542850613594055,3
+rap_viet:hienngangngangdaufeatbrt-rapviet-7113740_hq,Hien Ngang Ngang Dau Feat Brt,rap_viet,1.0,0.5,0.7460484897145199,,0.857434093952179,5
+rap_viet:kecapgapbagia-hoangthuylinh-6127809.,Ke Cap Gap Ba Gia,rap_viet,0.0,1.0,0.6728515188243374,,0.8247745633125305,10
+rap_viet:kecapgapbagia-hoangthuylinh-6127809.,Ke Cap Gap Ba Gia,rap_viet,0.25,0.9,0.6728884697494848,,0.8266136050224304,10
+rap_viet:kecapgapbagia-hoangthuylinh-6127809.,Ke Cap Gap Ba Gia,rap_viet,0.5,0.8,0.6758636861184055,,0.8307195901870728,9
+rap_viet:kecapgapbagia-hoangthuylinh-6127809.,Ke Cap Gap Ba Gia,rap_viet,0.75,0.5,0.7009603063002154,,0.8356801867485046,9
+rap_viet:kecapgapbagia-hoangthuylinh-6127809.,Ke Cap Gap Ba Gia,rap_viet,1.0,0.0,0.8595940158090941,,0.848741352558136,9
+rap_viet:khongphaitainofeatmaingo-rapviet-7113741_hq,Khong Phai Tai No Feat Mai Ngo,rap_viet,0.0,1.0,0.6803860998291794,,0.8527246713638306,6
+rap_viet:khongphaitainofeatmaingo-rapviet-7113741_hq,Khong Phai Tai No Feat Mai Ngo,rap_viet,0.25,1.0,0.6803860998291794,,0.8527246713638306,6
+rap_viet:khongphaitainofeatmaingo-rapviet-7113741_hq,Khong Phai Tai No Feat Mai Ngo,rap_viet,0.5,0.9,0.6852220998614921,,0.8549793362617493,7
+rap_viet:khongphaitainofeatmaingo-rapviet-7113741_hq,Khong Phai Tai No Feat Mai Ngo,rap_viet,0.75,0.7,0.7101971167022543,,0.8584113121032715,6
+rap_viet:khongphaitainofeatmaingo-rapviet-7113741_hq,Khong Phai Tai No Feat Mai Ngo,rap_viet,1.0,0.3,0.8110451279187836,,0.8632618188858032,5
+rap_viet:kiabongdangai-phao-8544353_hq,Kia Bong Dang Ai,rap_viet,0.0,1.0,0.6658551654439075,,0.8341985940933228,9
+rap_viet:kiabongdangai-phao-8544353_hq,Kia Bong Dang Ai,rap_viet,0.25,1.0,0.6658551654439074,,0.8341984748840332,9
+rap_viet:kiabongdangai-phao-8544353_hq,Kia Bong Dang Ai,rap_viet,0.5,0.9,0.6687422997583914,,0.8360558748245239,10
+rap_viet:kiabongdangai-phao-8544353_hq,Kia Bong Dang Ai,rap_viet,0.75,0.7,0.6699925714987053,,0.8398063778877258,10
+rap_viet:kiabongdangai-phao-8544353_hq,Kia Bong Dang Ai,rap_viet,1.0,0.2,0.8593492971365495,,0.8482996821403503,9
+rap_viet:lamgiphaihot-justateedenhoangthuylinh-6198647.,Lam Gi Phai Hot,rap_viet,0.0,1.0,0.7043898897138713,,0.8334293365478516,8
+rap_viet:lamgiphaihot-justateedenhoangthuylinh-6198647.,Lam Gi Phai Hot,rap_viet,0.25,0.8,0.6903126403085806,,0.8417622447013855,9
+rap_viet:lamgiphaihot-justateedenhoangthuylinh-6198647.,Lam Gi Phai Hot,rap_viet,0.5,0.7,0.7071686033732795,,0.845339298248291,9
+rap_viet:lamgiphaihot-justateedenhoangthuylinh-6198647.,Lam Gi Phai Hot,rap_viet,0.75,0.6,0.7102340494452346,,0.8479002118110657,9
+rap_viet:lamgiphaihot-justateedenhoangthuylinh-6198647.,Lam Gi Phai Hot,rap_viet,1.0,0.2,0.8034074874268661,,0.8543554544448853,10
+rap_viet:luonyeudoi-dencheng-8688091.,Luon Yeu Doi,rap_viet,0.0,1.0,0.6580018097105571,,0.8331079483032227,7
+rap_viet:luonyeudoi-dencheng-8688091.,Luon Yeu Doi,rap_viet,0.25,1.0,0.6580018097105572,,0.8331079483032227,7
+rap_viet:luonyeudoi-dencheng-8688091.,Luon Yeu Doi,rap_viet,0.5,0.6,0.6826035750063553,,0.8519762754440308,9
+rap_viet:luonyeudoi-dencheng-8688091.,Luon Yeu Doi,rap_viet,0.75,0.4,0.7090568756404626,,0.8569085001945496,9
+rap_viet:luonyeudoi-dencheng-8688091.,Luon Yeu Doi,rap_viet,1.0,0.1,0.8397776386050405,,0.8699966669082642,9
+rap_viet:matxanh-gilltlinhkewtiie-8397729.,Mat Xanh,rap_viet,0.0,1.0,0.7175374598899377,,0.8262505531311035,7
+rap_viet:matxanh-gilltlinhkewtiie-8397729.,Mat Xanh,rap_viet,0.25,1.0,0.7175374598899377,,0.8262505531311035,7
+rap_viet:matxanh-gilltlinhkewtiie-8397729.,Mat Xanh,rap_viet,0.5,1.0,0.7175374598899376,,0.8262505531311035,7
+rap_viet:matxanh-gilltlinhkewtiie-8397729.,Mat Xanh,rap_viet,0.75,0.6,0.7496866342656059,,0.8356114625930786,8
+rap_viet:matxanh-gilltlinhkewtiie-8397729.,Mat Xanh,rap_viet,1.0,0.2,0.8342761936606496,,0.8453192710876465,9
+rap_viet:moment-lilwuynbeavietnam-7146809_hq,Moment,rap_viet,0.0,1.0,0.7443667991228035,,0.826778769493103,9
+rap_viet:moment-lilwuynbeavietnam-7146809_hq,Moment,rap_viet,0.25,0.9,0.7421246752657893,,0.8297846913337708,9
+rap_viet:moment-lilwuynbeavietnam-7146809_hq,Moment,rap_viet,0.5,0.8,0.7418003869348041,,0.8331278562545776,8
+rap_viet:moment-lilwuynbeavietnam-7146809_hq,Moment,rap_viet,0.75,0.8,0.7262104832222167,,0.8334907293319702,7
+rap_viet:moment-lilwuynbeavietnam-7146809_hq,Moment,rap_viet,1.0,0.1,0.7833246906819212,,0.8468025922775269,10
+rap_viet:motngaybinhthuong-tteam-6557073_hq,Mot Ngay Binh Thuong,rap_viet,0.0,1.0,0.6627729117950217,,0.8314693570137024,10
+rap_viet:motngaybinhthuong-tteam-6557073_hq,Mot Ngay Binh Thuong,rap_viet,0.25,0.9,0.6633787228859572,,0.8361473083496094,10
+rap_viet:motngaybinhthuong-tteam-6557073_hq,Mot Ngay Binh Thuong,rap_viet,0.5,0.7,0.6735011738819016,,0.8442436456680298,10
+rap_viet:motngaybinhthuong-tteam-6557073_hq,Mot Ngay Binh Thuong,rap_viet,0.75,0.6,0.6868937144482954,,0.8481943011283875,10
+rap_viet:motngaybinhthuong-tteam-6557073_hq,Mot Ngay Binh Thuong,rap_viet,1.0,0.1,0.7926649857523678,,0.859405517578125,9
+rap_viet:namtramlemotngandong-seachains-7135204_hq,Nam Tram Le Mot Ngan Dong,rap_viet,0.0,1.0,0.695301287234672,,0.83916836977005,6
+rap_viet:namtramlemotngandong-seachains-7135204_hq,Nam Tram Le Mot Ngan Dong,rap_viet,0.25,1.0,0.695301287234672,,0.83916836977005,6
+rap_viet:namtramlemotngandong-seachains-7135204_hq,Nam Tram Le Mot Ngan Dong,rap_viet,0.5,0.7,0.700060203509592,,0.8510085344314575,7
+rap_viet:namtramlemotngandong-seachains-7135204_hq,Nam Tram Le Mot Ngan Dong,rap_viet,0.75,0.6,0.7021214282898709,,0.8512243032455444,7
+rap_viet:namtramlemotngandong-seachains-7135204_hq,Nam Tram Le Mot Ngan Dong,rap_viet,1.0,0.4,0.7870670222796692,,0.8584455251693726,9
+rap_viet:ngaykhacla-dendjgiangphamtripled-5393909.,Ngay Khac La,rap_viet,0.0,1.0,0.6496671454691262,,0.8227444887161255,10
+rap_viet:ngaykhacla-dendjgiangphamtripled-5393909.,Ngay Khac La,rap_viet,0.25,0.9,0.6530221178767059,,0.8284584283828735,10
+rap_viet:ngaykhacla-dendjgiangphamtripled-5393909.,Ngay Khac La,rap_viet,0.5,0.8,0.6603899015162307,,0.830912709236145,10
+rap_viet:ngaykhacla-dendjgiangphamtripled-5393909.,Ngay Khac La,rap_viet,0.75,0.7,0.6743518273599803,,0.8334601521492004,10
+rap_viet:ngaykhacla-dendjgiangphamtripled-5393909.,Ngay Khac La,rap_viet,1.0,0.2,0.7557171533384176,,0.8400945663452148,10
+rap_viet:nghenhutinhyeu-hieuthuhai-7045493_hq,Nghe Nhu Tinh Yeu,rap_viet,0.0,1.0,0.7218294866505264,,0.8351324200630188,8
+rap_viet:nghenhutinhyeu-hieuthuhai-7045493_hq,Nghe Nhu Tinh Yeu,rap_viet,0.25,0.9,0.7210676945472163,,0.8425104022026062,8
+rap_viet:nghenhutinhyeu-hieuthuhai-7045493_hq,Nghe Nhu Tinh Yeu,rap_viet,0.5,0.7,0.7335918639503052,,0.8534844517707825,8
+rap_viet:nghenhutinhyeu-hieuthuhai-7045493_hq,Nghe Nhu Tinh Yeu,rap_viet,0.75,0.6,0.7377873736195562,,0.8551613092422485,8
+rap_viet:nghenhutinhyeu-hieuthuhai-7045493_hq,Nghe Nhu Tinh Yeu,rap_viet,1.0,0.3,0.8420591028332127,,0.8654122352600098,10
+rap_viet:ngumotminh-hieuthuhainegavkewtiie-8267763.,Ngu Mot Minh,rap_viet,0.0,1.0,0.7458210768087795,,0.8328658938407898,10
+rap_viet:ngumotminh-hieuthuhainegavkewtiie-8267763.,Ngu Mot Minh,rap_viet,0.25,1.0,0.7458210768087797,,0.8328658938407898,10
+rap_viet:ngumotminh-hieuthuhainegavkewtiie-8267763.,Ngu Mot Minh,rap_viet,0.5,0.6,0.7209101495922099,,0.8450183868408203,10
+rap_viet:ngumotminh-hieuthuhainegavkewtiie-8267763.,Ngu Mot Minh,rap_viet,0.75,0.5,0.7342580873998412,,0.8496600985527039,10
+rap_viet:ngumotminh-hieuthuhainegavkewtiie-8267763.,Ngu Mot Minh,rap_viet,1.0,0.3,0.8023843191634492,,0.8571463823318481,10
+rap_viet:nho-younguno_8e6n,Nho,rap_viet,0.0,1.0,0.7181099792995108,,0.8416593670845032,10
+rap_viet:nho-younguno_8e6n,Nho,rap_viet,0.25,0.9,0.722299942476062,,0.8423148989677429,9
+rap_viet:nho-younguno_8e6n,Nho,rap_viet,0.5,0.8,0.7309327786992409,,0.845596194267273,10
+rap_viet:nho-younguno_8e6n,Nho,rap_viet,0.75,0.6,0.7589329910197165,,0.8499801754951477,10
+rap_viet:nho-younguno_8e6n,Nho,rap_viet,1.0,0.2,0.8338422956745101,,0.8573449850082397,10
+rap_viet:phiasauem-kaytranbinz-4073724_hq,Phia Sau Em,rap_viet,0.0,1.0,0.6959721110755359,,0.8407649993896484,7
+rap_viet:phiasauem-kaytranbinz-4073724_hq,Phia Sau Em,rap_viet,0.25,0.9,0.6907450870297223,,0.8413244485855103,8
+rap_viet:phiasauem-kaytranbinz-4073724_hq,Phia Sau Em,rap_viet,0.5,0.7,0.6994911218490832,,0.848549485206604,7
+rap_viet:phiasauem-kaytranbinz-4073724_hq,Phia Sau Em,rap_viet,0.75,0.6,0.7100365471304783,,0.8509647250175476,6
+rap_viet:phiasauem-kaytranbinz-4073724_hq,Phia Sau Em,rap_viet,1.0,0.2,0.8261830492332454,,0.855276882648468,7
+rap_viet:saocungduocguitarversion-binz-5411337_hq,Sao Cung Duoc Guitar Version,rap_viet,0.0,1.0,0.6725371612050549,,0.8274025917053223,9
+rap_viet:saocungduocguitarversion-binz-5411337_hq,Sao Cung Duoc Guitar Version,rap_viet,0.25,0.9,0.6707327434368124,,0.8281435966491699,9
+rap_viet:saocungduocguitarversion-binz-5411337_hq,Sao Cung Duoc Guitar Version,rap_viet,0.5,0.9,0.6707327434368126,,0.8281434774398804,9
+rap_viet:saocungduocguitarversion-binz-5411337_hq,Sao Cung Duoc Guitar Version,rap_viet,0.75,0.6,0.7104217437043563,,0.837191104888916,9
+rap_viet:saocungduocguitarversion-binz-5411337_hq,Sao Cung Duoc Guitar Version,rap_viet,1.0,0.4,0.8265100438794936,,0.842044472694397,9
+rap_viet:sap-phaotez-7130206.,Sap,rap_viet,0.0,1.0,0.7511065601764125,,0.8270160555839539,9
+rap_viet:sap-phaotez-7130206.,Sap,rap_viet,0.25,1.0,0.7511065601764124,,0.8270160555839539,9
+rap_viet:sap-phaotez-7130206.,Sap,rap_viet,0.5,0.8,0.7656328010336934,,0.8345335721969604,10
+rap_viet:sap-phaotez-7130206.,Sap,rap_viet,0.75,0.6,0.7778649415617634,,0.8388441205024719,9
+rap_viet:sap-phaotez-7130206.,Sap,rap_viet,1.0,0.1,0.7326197224261748,,0.844504177570343,9
+rap_viet:simplelove-obitoseachainsdavis-6128117.,Simple Love,rap_viet,0.0,1.0,0.758754252630071,,0.8353264927864075,8
+rap_viet:simplelove-obitoseachainsdavis-6128117.,Simple Love,rap_viet,0.25,0.8,0.7720058192280618,,0.8390302658081055,7
+rap_viet:simplelove-obitoseachainsdavis-6128117.,Simple Love,rap_viet,0.5,0.7,0.7592271217062517,,0.8408523797988892,7
+rap_viet:simplelove-obitoseachainsdavis-6128117.,Simple Love,rap_viet,0.75,0.6,0.7585673103602589,,0.8412291407585144,7
+rap_viet:simplelove-obitoseachainsdavis-6128117.,Simple Love,rap_viet,1.0,0.6,0.787183787505738,,0.8417558670043945,7
+rap_viet:sofar-binz-5521790.,So Far,rap_viet,0.0,1.0,0.6857385547284942,,0.8411977887153625,9
+rap_viet:sofar-binz-5521790.,So Far,rap_viet,0.25,0.9,0.6971059362354787,,0.845982551574707,8
+rap_viet:sofar-binz-5521790.,So Far,rap_viet,0.5,0.8,0.6931878271313565,,0.8498988151550293,8
+rap_viet:sofar-binz-5521790.,So Far,rap_viet,0.75,0.7,0.7114535799318804,,0.8536979556083679,8
+rap_viet:sofar-binz-5521790.,So Far,rap_viet,1.0,0.3,0.7927446936438262,,0.8554046750068665,9
+rap_viet:sojulove-obito-7135984_hq,Soju Love,rap_viet,0.0,1.0,0.7187217759547069,,0.8170011639595032,7
+rap_viet:sojulove-obito-7135984_hq,Soju Love,rap_viet,0.25,0.9,0.7192182330723177,,0.8183704614639282,6
+rap_viet:sojulove-obito-7135984_hq,Soju Love,rap_viet,0.5,0.7,0.7300771653476903,,0.8281874656677246,7
+rap_viet:sojulove-obito-7135984_hq,Soju Love,rap_viet,0.75,0.6,0.7649618006376429,,0.8344319462776184,8
+rap_viet:sojulove-obito-7135984_hq,Soju Love,rap_viet,1.0,0.2,0.7771969839083883,,0.8380151987075806,7
+rap_viet:summertime-jokersrule_jtr6,Summer Time,rap_viet,0.0,1.0,0.731682490323146,,0.796005368232727,9
+rap_viet:summertime-jokersrule_jtr6,Summer Time,rap_viet,0.25,1.0,0.7316824903231461,,0.7960053086280823,9
+rap_viet:summertime-jokersrule_jtr6,Summer Time,rap_viet,0.5,0.9,0.7451678282887245,,0.8016562461853027,10
+rap_viet:summertime-jokersrule_jtr6,Summer Time,rap_viet,0.75,0.7,0.7655559193846468,,0.8075447082519531,10
+rap_viet:summertime-jokersrule_jtr6,Summer Time,rap_viet,1.0,0.0,0.8017407251380236,,0.820234477519989,10
+rap_viet:tadunglai-minhphucpkmtkvuongtran-4262990,Ta Dung Lai,rap_viet,0.0,1.0,0.663827609560987,,0.8417151570320129,9
+rap_viet:tadunglai-minhphucpkmtkvuongtran-4262990,Ta Dung Lai,rap_viet,0.25,0.9,0.6746452502424677,,0.8480361700057983,9
+rap_viet:tadunglai-minhphucpkmtkvuongtran-4262990,Ta Dung Lai,rap_viet,0.5,0.7,0.6689849787386656,,0.8531125783920288,10
+rap_viet:tadunglai-minhphucpkmtkvuongtran-4262990,Ta Dung Lai,rap_viet,0.75,0.7,0.6780227647523961,,0.8551667928695679,10
+rap_viet:tadunglai-minhphucpkmtkvuongtran-4262990,Ta Dung Lai,rap_viet,1.0,0.1,0.8108617357028488,,0.8634387850761414,10
+rap_viet:taisaokhongnoi-huynhjamespjnboys-6306841.,Tai Sao Khong Noi,rap_viet,0.0,1.0,0.6894921173494424,,0.8280361890792847,8
+rap_viet:taisaokhongnoi-huynhjamespjnboys-6306841.,Tai Sao Khong Noi,rap_viet,0.25,0.9,0.6920359973866554,,0.8317750692367554,9
+rap_viet:taisaokhongnoi-huynhjamespjnboys-6306841.,Tai Sao Khong Noi,rap_viet,0.5,0.7,0.6924757923673818,,0.8378933668136597,9
+rap_viet:taisaokhongnoi-huynhjamespjnboys-6306841.,Tai Sao Khong Noi,rap_viet,0.75,0.6,0.6992943290754808,,0.8415296673774719,9
+rap_viet:taisaokhongnoi-huynhjamespjnboys-6306841.,Tai Sao Khong Noi,rap_viet,1.0,0.5,0.7323740227374151,,0.8429005742073059,9
+rap_viet:tanra-sol7koo-7196791.,Tan Ra,rap_viet,0.0,1.0,0.7168698500703704,,0.8092024922370911,9
+rap_viet:tanra-sol7koo-7196791.,Tan Ra,rap_viet,0.25,0.7,0.7004032472938312,,0.8191983103752136,10
+rap_viet:tanra-sol7koo-7196791.,Tan Ra,rap_viet,0.5,0.6,0.7040015034273779,,0.8204684257507324,10
+rap_viet:tanra-sol7koo-7196791.,Tan Ra,rap_viet,0.75,0.2,0.7122970159667766,,0.8324306607246399,10
+rap_viet:tanra-sol7koo-7196791.,Tan Ra,rap_viet,1.0,0.0,0.8029136297004436,,0.8370922207832336,9
+rap_viet:tauthichmi-lilpig_34tmx_hq,Tau Thich Mi,rap_viet,0.0,1.0,0.6497737226333238,,0.8141964077949524,7
+rap_viet:tauthichmi-lilpig_34tmx_hq,Tau Thich Mi,rap_viet,0.25,0.9,0.6552084697954961,,0.81678307056427,8
+rap_viet:tauthichmi-lilpig_34tmx_hq,Tau Thich Mi,rap_viet,0.5,0.7,0.6740393695598749,,0.8219350576400757,9
+rap_viet:tauthichmi-lilpig_34tmx_hq,Tau Thich Mi,rap_viet,0.75,0.3,0.7076925877378115,,0.8326490521430969,10
+rap_viet:tauthichmi-lilpig_34tmx_hq,Tau Thich Mi,rap_viet,1.0,0.2,0.8017548278235327,,0.839499294757843,10
+rap_viet:tentengirlsfeattlinhsuboi-rapviet-6821317_hq,Ten Ten Girls Feat Tlinh Suboi,rap_viet,0.0,1.0,0.6679598125589027,,0.8408854603767395,1
+rap_viet:tentengirlsfeattlinhsuboi-rapviet-6821317_hq,Ten Ten Girls Feat Tlinh Suboi,rap_viet,0.25,0.9,0.6665756858562304,,0.8418933749198914,1
+rap_viet:tentengirlsfeattlinhsuboi-rapviet-6821317_hq,Ten Ten Girls Feat Tlinh Suboi,rap_viet,0.5,0.9,0.6677163879718021,,0.8435640335083008,1
+rap_viet:tentengirlsfeattlinhsuboi-rapviet-6821317_hq,Ten Ten Girls Feat Tlinh Suboi,rap_viet,0.75,0.9,0.6677163879718021,,0.8435640335083008,1
+rap_viet:tentengirlsfeattlinhsuboi-rapviet-6821317_hq,Ten Ten Girls Feat Tlinh Suboi,rap_viet,1.0,0.5,0.7491865578545144,,0.8499464988708496,5
+rap_viet:tetnayconkhongve-yunjbooron-4326490_hq,Tet Nay Con Khong Ve,rap_viet,0.0,1.0,0.6815294179991184,,0.8445843458175659,9
+rap_viet:tetnayconkhongve-yunjbooron-4326490_hq,Tet Nay Con Khong Ve,rap_viet,0.25,1.0,0.6815294179991183,,0.8445843458175659,9
+rap_viet:tetnayconkhongve-yunjbooron-4326490_hq,Tet Nay Con Khong Ve,rap_viet,0.5,0.9,0.6840867152782634,,0.8456137776374817,9
+rap_viet:tetnayconkhongve-yunjbooron-4326490_hq,Tet Nay Con Khong Ve,rap_viet,0.75,0.7,0.6815795602060865,,0.8527930974960327,10
+rap_viet:tetnayconkhongve-yunjbooron-4326490_hq,Tet Nay Con Khong Ve,rap_viet,1.0,0.6,0.7264399050786581,,0.8531460762023926,10
+rap_viet:tetquehuong-tompj3cdunbakata-2950630_hq,Tet Que Huong,rap_viet,0.0,1.0,0.6591989149404408,,0.8445649147033691,10
+rap_viet:tetquehuong-tompj3cdunbakata-2950630_hq,Tet Que Huong,rap_viet,0.25,1.0,0.6591989149404408,,0.8445649147033691,10
+rap_viet:tetquehuong-tompj3cdunbakata-2950630_hq,Tet Que Huong,rap_viet,0.5,0.9,0.6645738361903742,,0.8477699160575867,10
+rap_viet:tetquehuong-tompj3cdunbakata-2950630_hq,Tet Que Huong,rap_viet,0.75,0.7,0.6816347157561473,,0.8529477119445801,10
+rap_viet:tetquehuong-tompj3cdunbakata-2950630_hq,Tet Que Huong,rap_viet,1.0,0.4,0.7478391253584764,,0.8590574264526367,10
+rap_viet:tettrongtamhon-mr.tbuianhtuan-2427864.,Tet Trong Tam Hon,rap_viet,0.0,1.0,0.7035637704584304,,0.8376245498657227,10
+rap_viet:tettrongtamhon-mr.tbuianhtuan-2427864.,Tet Trong Tam Hon,rap_viet,0.25,0.9,0.6988004372187882,,0.843174159526825,10
+rap_viet:tettrongtamhon-mr.tbuianhtuan-2427864.,Tet Trong Tam Hon,rap_viet,0.5,0.8,0.7031874658459633,,0.8474082946777344,10
+rap_viet:tettrongtamhon-mr.tbuianhtuan-2427864.,Tet Trong Tam Hon,rap_viet,0.75,0.6,0.7339914669722764,,0.8538632392883301,10
+rap_viet:tettrongtamhon-mr.tbuianhtuan-2427864.,Tet Trong Tam Hon,rap_viet,1.0,0.4,0.7676943529524914,,0.858096718788147,10
+rap_viet:tetxa-kaisoulyunjboo-3782005_hq,Tet Xa,rap_viet,0.0,1.0,0.6940128059947768,,0.8325737118721008,9
+rap_viet:tetxa-kaisoulyunjboo-3782005_hq,Tet Xa,rap_viet,0.25,0.8,0.6850977353251568,,0.8397786021232605,9
+rap_viet:tetxa-kaisoulyunjboo-3782005_hq,Tet Xa,rap_viet,0.5,0.7,0.6931985058741018,,0.8433704376220703,9
+rap_viet:tetxa-kaisoulyunjboo-3782005_hq,Tet Xa,rap_viet,0.75,0.6,0.7072022253413353,,0.8454836010932922,9
+rap_viet:tetxa-kaisoulyunjboo-3782005_hq,Tet Xa,rap_viet,1.0,0.3,0.8068435186905071,,0.8504823446273804,8
+rap_viet:thanhxuan-dalab-5773854.,Thanh Xuan,rap_viet,0.0,1.0,0.6496845118999585,,0.8330588340759277,10
+rap_viet:thanhxuan-dalab-5773854.,Thanh Xuan,rap_viet,0.25,1.0,0.6496845118999586,,0.8330588340759277,10
+rap_viet:thanhxuan-dalab-5773854.,Thanh Xuan,rap_viet,0.5,0.9,0.6560615133231249,,0.836595356464386,10
+rap_viet:thanhxuan-dalab-5773854.,Thanh Xuan,rap_viet,0.75,0.6,0.6954800693107279,,0.8439198732376099,10
+rap_viet:thanhxuan-dalab-5773854.,Thanh Xuan,rap_viet,1.0,0.0,0.8954776042423361,,0.8525397181510925,10
+rap_viet:thichhaylayeuconchuabiet-lonarickystar-7159273.,Thich Hay La Yeu Con Chua Biet,rap_viet,0.0,1.0,0.6980253129518771,,0.8325340151786804,8
+rap_viet:thichhaylayeuconchuabiet-lonarickystar-7159273.,Thich Hay La Yeu Con Chua Biet,rap_viet,0.25,0.9,0.7101867795926011,,0.8343443870544434,9
+rap_viet:thichhaylayeuconchuabiet-lonarickystar-7159273.,Thich Hay La Yeu Con Chua Biet,rap_viet,0.5,0.8,0.7001285950389714,,0.8392060399055481,10
+rap_viet:thichhaylayeuconchuabiet-lonarickystar-7159273.,Thich Hay La Yeu Con Chua Biet,rap_viet,0.75,0.5,0.7204748545629756,,0.8451727032661438,10
+rap_viet:thichhaylayeuconchuabiet-lonarickystar-7159273.,Thich Hay La Yeu Con Chua Biet,rap_viet,1.0,0.2,0.8027402745129169,,0.8503173589706421,9
+rap_viet:thoiquen-bray-8521282_hq,Thoi Quen,rap_viet,0.0,1.0,0.6838247936991851,,0.8274041414260864,8
+rap_viet:thoiquen-bray-8521282_hq,Thoi Quen,rap_viet,0.25,0.9,0.6784572361415117,,0.8307164907455444,9
+rap_viet:thoiquen-bray-8521282_hq,Thoi Quen,rap_viet,0.5,0.7,0.6844019736111979,,0.8340207934379578,9
+rap_viet:thoiquen-bray-8521282_hq,Thoi Quen,rap_viet,0.75,0.4,0.7015605415991135,,0.841293215751648,10
+rap_viet:thoiquen-bray-8521282_hq,Thoi Quen,rap_viet,1.0,0.3,0.8168557633916943,,0.8484612703323364,10
+rap_viet:thucuoi-mr.tyanbihangbingboong-2427878_hq,Thu Cuoi,rap_viet,0.0,1.0,0.654869218479229,,0.840976357460022,9
+rap_viet:thucuoi-mr.tyanbihangbingboong-2427878_hq,Thu Cuoi,rap_viet,0.25,0.9,0.6632337113454108,,0.8452388644218445,10
+rap_viet:thucuoi-mr.tyanbihangbingboong-2427878_hq,Thu Cuoi,rap_viet,0.5,0.8,0.6736282488237636,,0.8474906086921692,10
+rap_viet:thucuoi-mr.tyanbihangbingboong-2427878_hq,Thu Cuoi,rap_viet,0.75,0.6,0.6880737548365807,,0.8532630801200867,10
+rap_viet:thucuoi-mr.tyanbihangbingboong-2427878_hq,Thu Cuoi,rap_viet,1.0,0.2,0.787736383861299,,0.8687112927436829,9
+rap_viet:tunglatatca-karik-4582366.,Tung La Tat Ca,rap_viet,0.0,1.0,0.6700642962221348,,0.8416010737419128,8
+rap_viet:tunglatatca-karik-4582366.,Tung La Tat Ca,rap_viet,0.25,0.9,0.6778058175858851,,0.8444334864616394,8
+rap_viet:tunglatatca-karik-4582366.,Tung La Tat Ca,rap_viet,0.5,0.8,0.6910685459527184,,0.8465476036071777,8
+rap_viet:tunglatatca-karik-4582366.,Tung La Tat Ca,rap_viet,0.75,0.6,0.7252053195120672,,0.8522143363952637,9
+rap_viet:tunglatatca-karik-4582366.,Tung La Tat Ca,rap_viet,1.0,0.2,0.824095766126153,,0.8612268567085266,9
+rap_viet:tuyetyeuthuong-younguno_382yx_hq,Tuyet Yeu Thuong,rap_viet,0.0,1.0,0.678195405211135,,0.8494526743888855,10
+rap_viet:tuyetyeuthuong-younguno_382yx_hq,Tuyet Yeu Thuong,rap_viet,0.25,0.9,0.6829506724867062,,0.8558349609375,10
+rap_viet:tuyetyeuthuong-younguno_382yx_hq,Tuyet Yeu Thuong,rap_viet,0.5,0.8,0.6882706751336376,,0.8574205636978149,10
+rap_viet:tuyetyeuthuong-younguno_382yx_hq,Tuyet Yeu Thuong,rap_viet,0.75,0.6,0.7599338903886296,,0.867169976234436,10
+rap_viet:tuyetyeuthuong-younguno_382yx_hq,Tuyet Yeu Thuong,rap_viet,1.0,0.1,0.8449598684916997,,0.8776130676269531,7
+rap_viet:vavaogiaidieunayfeatrptmck-rapviet-6804702_hq,Va Vao Giai Dieu Nay Feat Rpt Mck,rap_viet,0.0,1.0,0.6792718603337697,,0.8411086797714233,2
+rap_viet:vavaogiaidieunayfeatrptmck-rapviet-6804702_hq,Va Vao Giai Dieu Nay Feat Rpt Mck,rap_viet,0.25,0.9,0.6750809086476304,,0.8440796136856079,1
+rap_viet:vavaogiaidieunayfeatrptmck-rapviet-6804702_hq,Va Vao Giai Dieu Nay Feat Rpt Mck,rap_viet,0.5,0.8,0.6763197653052451,,0.8481470942497253,1
+rap_viet:vavaogiaidieunayfeatrptmck-rapviet-6804702_hq,Va Vao Giai Dieu Nay Feat Rpt Mck,rap_viet,0.75,0.8,0.6763197653052451,,0.8481470942497253,1
+rap_viet:vavaogiaidieunayfeatrptmck-rapviet-6804702_hq,Va Vao Giai Dieu Nay Feat Rpt Mck,rap_viet,1.0,0.6,0.7155849069301199,,0.8527395129203796,3
+rap_viet:vongsuynghifeatmaiamnhac-rapviet-7113742_hq,Vong Suy Nghi Feat Mai Am Nhac,rap_viet,0.0,1.0,0.6710940273599755,,0.8489785194396973,1
+rap_viet:vongsuynghifeatmaiamnhac-rapviet-7113742_hq,Vong Suy Nghi Feat Mai Am Nhac,rap_viet,0.25,1.0,0.6710940273599754,,0.8489784002304077,1
+rap_viet:vongsuynghifeatmaiamnhac-rapviet-7113742_hq,Vong Suy Nghi Feat Mai Am Nhac,rap_viet,0.5,0.9,0.6778409474854339,,0.8516339063644409,1
+rap_viet:vongsuynghifeatmaiamnhac-rapviet-7113742_hq,Vong Suy Nghi Feat Mai Am Nhac,rap_viet,0.75,0.8,0.6848879842770573,,0.8548563122749329,2
+rap_viet:vongsuynghifeatmaiamnhac-rapviet-7113742_hq,Vong Suy Nghi Feat Mai Am Nhac,rap_viet,1.0,0.6,0.7785540747921631,,0.8578214645385742,4
+rap_viet:whatloveisfeatrptgonzothanhdrawbinz-rapviet-6821318_hq,What Love Is Feat Rpt Gonzo Thanh Draw Binz,rap_viet,0.0,1.0,0.6914890376657097,,0.8227111101150513,4
+rap_viet:whatloveisfeatrptgonzothanhdrawbinz-rapviet-6821318_hq,What Love Is Feat Rpt Gonzo Thanh Draw Binz,rap_viet,0.25,0.9,0.6823993922028377,,0.8271665573120117,3
+rap_viet:whatloveisfeatrptgonzothanhdrawbinz-rapviet-6821318_hq,What Love Is Feat Rpt Gonzo Thanh Draw Binz,rap_viet,0.5,0.8,0.6871344241898885,,0.8307875394821167,3
+rap_viet:whatloveisfeatrptgonzothanhdrawbinz-rapviet-6821318_hq,What Love Is Feat Rpt Gonzo Thanh Draw Binz,rap_viet,0.75,0.4,0.705384930586675,,0.841553807258606,3
+rap_viet:whatloveisfeatrptgonzothanhdrawbinz-rapviet-6821318_hq,What Love Is Feat Rpt Gonzo Thanh Draw Binz,rap_viet,1.0,0.4,0.7123698335074938,,0.8419021368026733,3
+rap_viet:xinanhdung-justateelkemily-8662443_hq,Xin Anh Dung,rap_viet,0.0,1.0,0.6664842828415355,,0.8369086980819702,10
+rap_viet:xinanhdung-justateelkemily-8662443_hq,Xin Anh Dung,rap_viet,0.25,0.9,0.6643386633151274,,0.8388032913208008,10
+rap_viet:xinanhdung-justateelkemily-8662443_hq,Xin Anh Dung,rap_viet,0.5,0.8,0.6837625367580181,,0.8442510366439819,10
+rap_viet:xinanhdung-justateelkemily-8662443_hq,Xin Anh Dung,rap_viet,0.75,0.6,0.7507786801304998,,0.856797993183136,10
+rap_viet:xinanhdung-justateelkemily-8662443_hq,Xin Anh Dung,rap_viet,1.0,0.3,0.8379617071440875,,0.8627523183822632,10
+rap_viet:xtcremix-tlinhgroovielathangmckrpt-7004626.,XTC Remix,rap_viet,0.0,1.0,0.7219707193025493,,0.8183611631393433,9
+rap_viet:xtcremix-tlinhgroovielathangmckrpt-7004626.,XTC Remix,rap_viet,0.25,0.9,0.725581369351515,,0.8229351043701172,8
+rap_viet:xtcremix-tlinhgroovielathangmckrpt-7004626.,XTC Remix,rap_viet,0.5,0.7,0.7334313962424839,,0.8294025659561157,7
+rap_viet:xtcremix-tlinhgroovielathangmckrpt-7004626.,XTC Remix,rap_viet,0.75,0.3,0.7287089997668382,,0.8425159454345703,5
+rap_viet:xtcremix-tlinhgroovielathangmckrpt-7004626.,XTC Remix,rap_viet,1.0,0.1,0.7383959912251893,,0.8463739156723022,7
+rap_viet:xuanbenem-lk_3dxvt.,Xuan Ben Em,rap_viet,0.0,1.0,0.6742549709118132,,0.8397775888442993,10
+rap_viet:xuanbenem-lk_3dxvt.,Xuan Ben Em,rap_viet,0.25,0.9,0.6800883997138498,,0.8455573320388794,10
+rap_viet:xuanbenem-lk_3dxvt.,Xuan Ben Em,rap_viet,0.5,0.7,0.7449070665661383,,0.8532573580741882,10
+rap_viet:xuanbenem-lk_3dxvt.,Xuan Ben Em,rap_viet,0.75,0.5,0.7911210877101015,,0.8580275774002075,10
+rap_viet:xuanbenem-lk_3dxvt.,Xuan Ben Em,rap_viet,1.0,0.2,0.7985072677797731,,0.8611377477645874,10
+rap_viet:yeuanhdimeanhbanbanhmi-phucdu-8698703.,Yeu Anh Di Me Anh Ban Banh Mi,rap_viet,0.0,1.0,0.6674738781366899,,0.8215076327323914,9
+rap_viet:yeuanhdimeanhbanbanhmi-phucdu-8698703.,Yeu Anh Di Me Anh Ban Banh Mi,rap_viet,0.25,1.0,0.6674738781366899,,0.8215077519416809,9
+rap_viet:yeuanhdimeanhbanbanhmi-phucdu-8698703.,Yeu Anh Di Me Anh Ban Banh Mi,rap_viet,0.5,0.7,0.6953197378897703,,0.8319405317306519,9
+rap_viet:yeuanhdimeanhbanbanhmi-phucdu-8698703.,Yeu Anh Di Me Anh Ban Banh Mi,rap_viet,0.75,0.4,0.7148405003523427,,0.8365837931632996,9
+rap_viet:yeuanhdimeanhbanbanhmi-phucdu-8698703.,Yeu Anh Di Me Anh Ban Banh Mi,rap_viet,1.0,0.1,0.827648239650557,,0.8441704511642456,9
+rap_viet:yeulamchi-insolentfaycm1x-6021992,Yeu Lam Chi,rap_viet,0.0,1.0,0.6760684486941604,,0.834084153175354,8
+rap_viet:yeulamchi-insolentfaycm1x-6021992,Yeu Lam Chi,rap_viet,0.25,0.9,0.6709311154559674,,0.8360298275947571,8
+rap_viet:yeulamchi-insolentfaycm1x-6021992,Yeu Lam Chi,rap_viet,0.5,0.8,0.6852942996798165,,0.8401741981506348,9
+rap_viet:yeulamchi-insolentfaycm1x-6021992,Yeu Lam Chi,rap_viet,0.75,0.7,0.7150839849299909,,0.8451350927352905,9
+rap_viet:yeulamchi-insolentfaycm1x-6021992,Yeu Lam Chi,rap_viet,1.0,0.1,0.8475486811487479,,0.8512336611747742,9
+rock_viet:04.ngayhomqua.,Ngay Hom Qua,rock_viet,0.0,1.0,0.6978459878405684,,0.8294734954833984,8
+rock_viet:04.ngayhomqua.,Ngay Hom Qua,rock_viet,0.25,1.0,0.6978459878405684,,0.8294734954833984,8
+rock_viet:04.ngayhomqua.,Ngay Hom Qua,rock_viet,0.5,0.8,0.7242758543647265,,0.8352606892585754,7
+rock_viet:04.ngayhomqua.,Ngay Hom Qua,rock_viet,0.75,0.5,0.7658191869346715,,0.8479775190353394,9
+rock_viet:04.ngayhomqua.,Ngay Hom Qua,rock_viet,1.0,0.1,0.7600754595084324,,0.8552111387252808,7
+rock_viet:06.giotdang.,Giot Dang,rock_viet,0.0,1.0,0.6975589743984305,,0.8372381925582886,7
+rock_viet:06.giotdang.,Giot Dang,rock_viet,0.25,0.9,0.7204843373829729,,0.8413200378417969,8
+rock_viet:06.giotdang.,Giot Dang,rock_viet,0.5,0.6,0.7354122968775809,,0.8661815524101257,10
+rock_viet:06.giotdang.,Giot Dang,rock_viet,0.75,0.2,0.7963085461093431,,0.8821226358413696,10
+rock_viet:06.giotdang.,Giot Dang,rock_viet,1.0,0.1,0.8447726280187102,,0.8859821557998657,7
+rock_viet:08.nguoidanbahoada.,Nguoi Dan Ba Hoa Da,rock_viet,0.0,1.0,0.7067338836727226,,0.8437381982803345,8
+rock_viet:08.nguoidanbahoada.,Nguoi Dan Ba Hoa Da,rock_viet,0.25,0.9,0.7095541977304559,,0.8451265096664429,8
+rock_viet:08.nguoidanbahoada.,Nguoi Dan Ba Hoa Da,rock_viet,0.5,0.8,0.7231503143154978,,0.8479787111282349,8
+rock_viet:08.nguoidanbahoada.,Nguoi Dan Ba Hoa Da,rock_viet,0.75,0.5,0.7664034602660984,,0.8583757281303406,8
+rock_viet:08.nguoidanbahoada.,Nguoi Dan Ba Hoa Da,rock_viet,1.0,0.1,0.825138667645119,,0.8678532838821411,7
+rock_viet:11-trove.,Tro Ve,rock_viet,0.0,1.0,0.7249910950078429,,0.8305238485336304,9
+rock_viet:11-trove.,Tro Ve,rock_viet,0.25,0.9,0.7483467046026343,,0.8339223861694336,9
+rock_viet:11-trove.,Tro Ve,rock_viet,0.5,0.6,0.7815569870334007,,0.846145510673523,6
+rock_viet:11-trove.,Tro Ve,rock_viet,0.75,0.6,0.7758504580794496,,0.8487086296081543,5
+rock_viet:11-trove.,Tro Ve,rock_viet,1.0,0.3,0.8102619583555806,,0.8511992692947388,6
+rock_viet:12-doibantay.,Doi Ban Tay,rock_viet,0.0,1.0,0.6904391794020572,,0.841973602771759,7
+rock_viet:12-doibantay.,Doi Ban Tay,rock_viet,0.25,0.9,0.7050773449908583,,0.8462604284286499,8
+rock_viet:12-doibantay.,Doi Ban Tay,rock_viet,0.5,0.7,0.7305691524212796,,0.8535075187683105,9
+rock_viet:12-doibantay.,Doi Ban Tay,rock_viet,0.75,0.5,0.7628059322398207,,0.8592330813407898,10
+rock_viet:12-doibantay.,Doi Ban Tay,rock_viet,1.0,0.2,0.8394041905663814,,0.8668607473373413,7
+rock_viet:aiaiaireimagine-meowlac-8283593.,Ai Ai Ai Reimagine,rock_viet,0.0,1.0,0.7247857074425258,,0.8164108991622925,9
+rock_viet:aiaiaireimagine-meowlac-8283593.,Ai Ai Ai Reimagine,rock_viet,0.25,0.9,0.723075563118803,,0.8175191879272461,9
+rock_viet:aiaiaireimagine-meowlac-8283593.,Ai Ai Ai Reimagine,rock_viet,0.5,0.8,0.7316919110783405,,0.8264633417129517,10
+rock_viet:aiaiaireimagine-meowlac-8283593.,Ai Ai Ai Reimagine,rock_viet,0.75,0.5,0.7582679485811477,,0.8329797983169556,9
+rock_viet:aiaiaireimagine-meowlac-8283593.,Ai Ai Ai Reimagine,rock_viet,1.0,0.2,0.8105626494522249,,0.8387733697891235,8
+rock_viet:anhseomemhetmuahoaroi-chutichkim-6011770.,Anh Se Om Em Het Mua Hoa Roi,rock_viet,0.0,1.0,0.7002678469830831,,0.8277850151062012,8
+rock_viet:anhseomemhetmuahoaroi-chutichkim-6011770.,Anh Se Om Em Het Mua Hoa Roi,rock_viet,0.25,1.0,0.7002678469830831,,0.8277850151062012,8
+rock_viet:anhseomemhetmuahoaroi-chutichkim-6011770.,Anh Se Om Em Het Mua Hoa Roi,rock_viet,0.5,0.9,0.7028516450846471,,0.8314792513847351,9
+rock_viet:anhseomemhetmuahoaroi-chutichkim-6011770.,Anh Se Om Em Het Mua Hoa Roi,rock_viet,0.75,0.6,0.7331801870897233,,0.8398103713989258,10
+rock_viet:anhseomemhetmuahoaroi-chutichkim-6011770.,Anh Se Om Em Het Mua Hoa Roi,rock_viet,1.0,0.1,0.8694444047390296,,0.8511251211166382,10
+rock_viet:aogiac-smallfire_p3x7,Ao Giac,rock_viet,0.0,1.0,0.674943882225341,,0.813377857208252,6
+rock_viet:aogiac-smallfire_p3x7,Ao Giac,rock_viet,0.25,0.9,0.6849654478549624,,0.8158698081970215,6
+rock_viet:aogiac-smallfire_p3x7,Ao Giac,rock_viet,0.5,0.7,0.7069931061119583,,0.8224369883537292,8
+rock_viet:aogiac-smallfire_p3x7,Ao Giac,rock_viet,0.75,0.2,0.7579098495950244,,0.8344060182571411,9
+rock_viet:aogiac-smallfire_p3x7,Ao Giac,rock_viet,1.0,0.2,0.8205923202253909,,0.836061954498291,9
+rock_viet:canyoureadmymind-coastalconnectionrockviet-7127059_hq,Can You Read My Mind,rock_viet,0.0,1.0,0.7780352364731608,,0.8070058822631836,10
+rock_viet:canyoureadmymind-coastalconnectionrockviet-7127059_hq,Can You Read My Mind,rock_viet,0.25,0.9,0.7790062289590829,,0.8111826181411743,10
+rock_viet:canyoureadmymind-coastalconnectionrockviet-7127059_hq,Can You Read My Mind,rock_viet,0.5,0.8,0.7673304838899923,,0.8131216764450073,10
+rock_viet:canyoureadmymind-coastalconnectionrockviet-7127059_hq,Can You Read My Mind,rock_viet,0.75,0.7,0.7931460915099873,,0.8160845637321472,10
+rock_viet:canyoureadmymind-coastalconnectionrockviet-7127059_hq,Can You Read My Mind,rock_viet,1.0,0.0,0.7786245125679866,,0.8345985412597656,8
+rock_viet:caydansinhvien-brock-2430265_hq,Cay Dan Sinh Vien,rock_viet,0.0,1.0,0.7089442627624769,,0.834527313709259,8
+rock_viet:caydansinhvien-brock-2430265_hq,Cay Dan Sinh Vien,rock_viet,0.25,0.9,0.7031393033695889,,0.8403671979904175,7
+rock_viet:caydansinhvien-brock-2430265_hq,Cay Dan Sinh Vien,rock_viet,0.5,0.8,0.696665839516219,,0.8427364230155945,7
+rock_viet:caydansinhvien-brock-2430265_hq,Cay Dan Sinh Vien,rock_viet,0.75,0.6,0.7271160048201659,,0.8474702835083008,6
+rock_viet:caydansinhvien-brock-2430265_hq,Cay Dan Sinh Vien,rock_viet,1.0,0.3,0.8024782575833107,,0.8498056530952454,8
+rock_viet:chaobuoisang-cheffin-7129426.,Chao Buoi Sang,rock_viet,0.0,1.0,0.7003583528056442,,0.848186194896698,8
+rock_viet:chaobuoisang-cheffin-7129426.,Chao Buoi Sang,rock_viet,0.25,0.8,0.7234320156083331,,0.8564413189888,9
+rock_viet:chaobuoisang-cheffin-7129426.,Chao Buoi Sang,rock_viet,0.5,0.7,0.7286707780805892,,0.8602653741836548,9
+rock_viet:chaobuoisang-cheffin-7129426.,Chao Buoi Sang,rock_viet,0.75,0.6,0.7345144496349061,,0.8638310432434082,9
+rock_viet:chaobuoisang-cheffin-7129426.,Chao Buoi Sang,rock_viet,1.0,0.1,0.8460941863117938,,0.8772422075271606,8
+rock_viet:chiecxevan-meowlac-7129425.,Chiec Xe Van,rock_viet,0.0,1.0,0.7526174696241731,,0.8558589220046997,9
+rock_viet:chiecxevan-meowlac-7129425.,Chiec Xe Van,rock_viet,0.25,1.0,0.752617469624173,,0.8558589220046997,9
+rock_viet:chiecxevan-meowlac-7129425.,Chiec Xe Van,rock_viet,0.5,0.9,0.7571265911315584,,0.8574259877204895,9
+rock_viet:chiecxevan-meowlac-7129425.,Chiec Xe Van,rock_viet,0.75,0.7,0.7624368004930974,,0.862393856048584,9
+rock_viet:chiecxevan-meowlac-7129425.,Chiec Xe Van,rock_viet,1.0,0.4,0.8497257960521214,,0.8659284710884094,10
+rock_viet:chuonchuon-chucalorockviet-7127058_hq,Chuon Chuon,rock_viet,0.0,1.0,0.756481636773256,,0.8368285894393921,10
+rock_viet:chuonchuon-chucalorockviet-7127058_hq,Chuon Chuon,rock_viet,0.25,0.9,0.756430946133613,,0.8404518365859985,10
+rock_viet:chuonchuon-chucalorockviet-7127058_hq,Chuon Chuon,rock_viet,0.5,0.8,0.757507857456442,,0.8445666432380676,10
+rock_viet:chuonchuon-chucalorockviet-7127058_hq,Chuon Chuon,rock_viet,0.75,0.5,0.7886726497798926,,0.8572970628738403,10
+rock_viet:chuonchuon-chucalorockviet-7127058_hq,Chuon Chuon,rock_viet,1.0,0.1,0.8148626525513644,,0.8668683171272278,8
+rock_viet:chuyenxe-giaygap-7130247.,Chuyen Xe,rock_viet,0.0,1.0,0.7125962512774187,,0.8322068452835083,8
+rock_viet:chuyenxe-giaygap-7130247.,Chuyen Xe,rock_viet,0.25,1.0,0.7125962512774188,,0.8322068452835083,8
+rock_viet:chuyenxe-giaygap-7130247.,Chuyen Xe,rock_viet,0.5,1.0,0.7125962512774187,,0.8322068452835083,8
+rock_viet:chuyenxe-giaygap-7130247.,Chuyen Xe,rock_viet,0.75,0.5,0.754678318791422,,0.8482192754745483,10
+rock_viet:chuyenxe-giaygap-7130247.,Chuyen Xe,rock_viet,1.0,0.1,0.8213189888291537,,0.8571435213088989,10
+rock_viet:coembendoi-mtvband-7896061.,Co Em Ben Doi,rock_viet,0.0,1.0,0.6938503942337599,,0.8516023755073547,6
+rock_viet:coembendoi-mtvband-7896061.,Co Em Ben Doi,rock_viet,0.25,0.8,0.709623386463558,,0.8559911847114563,6
+rock_viet:coembendoi-mtvband-7896061.,Co Em Ben Doi,rock_viet,0.5,0.7,0.7151642035315747,,0.8641474843025208,6
+rock_viet:coembendoi-mtvband-7896061.,Co Em Ben Doi,rock_viet,0.75,0.5,0.7301793295018438,,0.8681670427322388,7
+rock_viet:coembendoi-mtvband-7896061.,Co Em Ben Doi,rock_viet,1.0,0.4,0.7523317197805299,,0.869725227355957,7
+rock_viet:coemdoibongvui-chillies-6217930.,Co Em Doi Bong Vui,rock_viet,0.0,1.0,0.6953133395942118,,0.8455255627632141,6
+rock_viet:coemdoibongvui-chillies-6217930.,Co Em Doi Bong Vui,rock_viet,0.25,1.0,0.6953133395942117,,0.8455256223678589,6
+rock_viet:coemdoibongvui-chillies-6217930.,Co Em Doi Bong Vui,rock_viet,0.5,0.9,0.7085835899277929,,0.8507981300354004,5
+rock_viet:coemdoibongvui-chillies-6217930.,Co Em Doi Bong Vui,rock_viet,0.75,0.8,0.7169887621709231,,0.8533646464347839,5
+rock_viet:coemdoibongvui-chillies-6217930.,Co Em Doi Bong Vui,rock_viet,1.0,0.7,0.7809266761154063,,0.8554894328117371,5
+rock_viet:conduongkhongten--6843584,Con Duong Khong Ten,rock_viet,0.0,1.0,0.6845379722969732,,0.8374444842338562,9
+rock_viet:conduongkhongten--6843584,Con Duong Khong Ten,rock_viet,0.25,0.8,0.7124528268557863,,0.8474788665771484,9
+rock_viet:conduongkhongten--6843584,Con Duong Khong Ten,rock_viet,0.5,0.7,0.7317825462148051,,0.8530566096305847,9
+rock_viet:conduongkhongten--6843584,Con Duong Khong Ten,rock_viet,0.75,0.5,0.7376368705452129,,0.8589141964912415,8
+rock_viet:conduongkhongten--6843584,Con Duong Khong Ten,rock_viet,1.0,0.1,0.7992483178580739,,0.8656419515609741,8
+rock_viet:connguoi-bumblebee-7135119.,Con Nguoi,rock_viet,0.0,1.0,0.7103756671371556,,0.8307909965515137,9
+rock_viet:connguoi-bumblebee-7135119.,Con Nguoi,rock_viet,0.25,0.8,0.7162879548145124,,0.839454174041748,9
+rock_viet:connguoi-bumblebee-7135119.,Con Nguoi,rock_viet,0.5,0.7,0.7129748947195035,,0.8416509628295898,8
+rock_viet:connguoi-bumblebee-7135119.,Con Nguoi,rock_viet,0.75,0.4,0.7556587960161857,,0.8530624508857727,9
+rock_viet:connguoi-bumblebee-7135119.,Con Nguoi,rock_viet,1.0,0.1,0.8460558934436564,,0.8605644106864929,10
+rock_viet:cuoingay-theflob-7182391.,Cuoi Ngay,rock_viet,0.0,1.0,0.7161651289661459,,0.8262599110603333,8
+rock_viet:cuoingay-theflob-7182391.,Cuoi Ngay,rock_viet,0.25,0.9,0.7105832982075515,,0.8300073742866516,8
+rock_viet:cuoingay-theflob-7182391.,Cuoi Ngay,rock_viet,0.5,0.8,0.7199494523831912,,0.831329345703125,9
+rock_viet:cuoingay-theflob-7182391.,Cuoi Ngay,rock_viet,0.75,0.4,0.7335766325281465,,0.8470188975334167,9
+rock_viet:cuoingay-theflob-7182391.,Cuoi Ngay,rock_viet,1.0,0.2,0.814839939023625,,0.8530229330062866,10
+rock_viet:dalat-thoai004-6127959.,Dalat,rock_viet,0.0,1.0,0.7285274112834931,,0.8335627317428589,10
+rock_viet:dalat-thoai004-6127959.,Dalat,rock_viet,0.25,0.9,0.7288689517534273,,0.838916003704071,9
+rock_viet:dalat-thoai004-6127959.,Dalat,rock_viet,0.5,0.7,0.7310293758882036,,0.8484686613082886,9
+rock_viet:dalat-thoai004-6127959.,Dalat,rock_viet,0.75,0.4,0.7818229230545416,,0.8606643676757812,8
+rock_viet:dalat-thoai004-6127959.,Dalat,rock_viet,1.0,0.2,0.8415642045465604,,0.8691152334213257,7
+rock_viet:deemroixa-pbliveband-6837022.,De Em Roi Xa,rock_viet,0.0,1.0,0.7150082134190572,,0.822210967540741,10
+rock_viet:deemroixa-pbliveband-6837022.,De Em Roi Xa,rock_viet,0.25,0.9,0.7121556779624052,,0.82294100522995,10
+rock_viet:deemroixa-pbliveband-6837022.,De Em Roi Xa,rock_viet,0.5,0.8,0.7084214555858113,,0.8262382745742798,10
+rock_viet:deemroixa-pbliveband-6837022.,De Em Roi Xa,rock_viet,0.75,0.5,0.7626622560803434,,0.8398920297622681,9
+rock_viet:deemroixa-pbliveband-6837022.,De Em Roi Xa,rock_viet,1.0,0.2,0.8496823364815244,,0.8478013277053833,8
+rock_viet:dungnoitoidien-pbliveband-6872271.,Dung Noi Toi Dien,rock_viet,0.0,1.0,0.702803851459418,,0.8262039422988892,9
+rock_viet:dungnoitoidien-pbliveband-6872271.,Dung Noi Toi Dien,rock_viet,0.25,0.9,0.702926213322151,,0.8332620859146118,9
+rock_viet:dungnoitoidien-pbliveband-6872271.,Dung Noi Toi Dien,rock_viet,0.5,0.7,0.6954221049906215,,0.8381277322769165,8
+rock_viet:dungnoitoidien-pbliveband-6872271.,Dung Noi Toi Dien,rock_viet,0.75,0.4,0.7397669359334726,,0.8478422164916992,9
+rock_viet:dungnoitoidien-pbliveband-6872271.,Dung Noi Toi Dien,rock_viet,1.0,0.0,0.8230711049920477,,0.8583217859268188,10
+rock_viet:duongdenngayvinhquang-buctuong-553864(1).,Duong Den Ngay Vinh Quang,rock_viet,0.0,1.0,0.7120828557053052,,0.8575567007064819,10
+rock_viet:duongdenngayvinhquang-buctuong-553864(1).,Duong Den Ngay Vinh Quang,rock_viet,0.25,1.0,0.7120828557053052,,0.8575567007064819,10
+rock_viet:duongdenngayvinhquang-buctuong-553864(1).,Duong Den Ngay Vinh Quang,rock_viet,0.5,0.7,0.7230005737457197,,0.8642653226852417,9
+rock_viet:duongdenngayvinhquang-buctuong-553864(1).,Duong Den Ngay Vinh Quang,rock_viet,0.75,0.4,0.7862804243403166,,0.8767871856689453,7
+rock_viet:duongdenngayvinhquang-buctuong-553864(1).,Duong Den Ngay Vinh Quang,rock_viet,1.0,0.2,0.8283535456803954,,0.8868755102157593,10
+rock_viet:duongdenngayvinhquang-buctuong-553864.,Duong Den Ngay Vinh Quang,rock_viet,0.0,1.0,0.7120828557053052,,0.8575567007064819,10
+rock_viet:duongdenngayvinhquang-buctuong-553864.,Duong Den Ngay Vinh Quang,rock_viet,0.25,1.0,0.7120828557053052,,0.8575567007064819,10
+rock_viet:duongdenngayvinhquang-buctuong-553864.,Duong Den Ngay Vinh Quang,rock_viet,0.5,0.7,0.7230005737457197,,0.8642653226852417,9
+rock_viet:duongdenngayvinhquang-buctuong-553864.,Duong Den Ngay Vinh Quang,rock_viet,0.75,0.4,0.7862804243403166,,0.8767871856689453,7
+rock_viet:duongdenngayvinhquang-buctuong-553864.,Duong Den Ngay Vinh Quang,rock_viet,1.0,0.2,0.8283535456803954,,0.8868755102157593,10
+rock_viet:duongve-quaivattihon_3fhyf_hq,Duong Ve,rock_viet,0.0,1.0,0.700851984330384,,0.8604048490524292,7
+rock_viet:duongve-quaivattihon_3fhyf_hq,Duong Ve,rock_viet,0.25,0.9,0.7133376693209297,,0.8662666082382202,7
+rock_viet:duongve-quaivattihon_3fhyf_hq,Duong Ve,rock_viet,0.5,0.7,0.7192261737942355,,0.8784173130989075,7
+rock_viet:duongve-quaivattihon_3fhyf_hq,Duong Ve,rock_viet,0.75,0.6,0.7344222779429622,,0.8795889019966125,7
+rock_viet:duongve-quaivattihon_3fhyf_hq,Duong Ve,rock_viet,1.0,0.1,0.8195605879153678,,0.8897919654846191,8
+rock_viet:gat-brainwave-7130248.,Gat,rock_viet,0.0,1.0,0.793429101274947,,0.8172721862792969,10
+rock_viet:gat-brainwave-7130248.,Gat,rock_viet,0.25,1.0,0.793429101274947,,0.8172721862792969,10
+rock_viet:gat-brainwave-7130248.,Gat,rock_viet,0.5,0.7,0.8006444854450728,,0.8353290557861328,10
+rock_viet:gat-brainwave-7130248.,Gat,rock_viet,0.75,0.4,0.8323519504770309,,0.848924458026886,9
+rock_viet:gat-brainwave-7130248.,Gat,rock_viet,1.0,0.0,0.8157812088916412,,0.8586304783821106,8
+rock_viet:getaway-raccoon-7147174.,Get Away,rock_viet,0.0,1.0,0.7904353564338537,,0.8336611986160278,10
+rock_viet:getaway-raccoon-7147174.,Get Away,rock_viet,0.25,0.9,0.7853250075124055,,0.8366411328315735,10
+rock_viet:getaway-raccoon-7147174.,Get Away,rock_viet,0.5,0.8,0.7914330768807207,,0.8407926559448242,10
+rock_viet:getaway-raccoon-7147174.,Get Away,rock_viet,0.75,0.6,0.7941455403432717,,0.8484764099121094,9
+rock_viet:getaway-raccoon-7147174.,Get Away,rock_viet,1.0,0.2,0.7986519085277282,,0.852618396282196,8
+rock_viet:goctoi-nguyenhaiphong-605565.,Goc Toi,rock_viet,0.0,1.0,0.7081520553308543,,0.8343812823295593,9
+rock_viet:goctoi-nguyenhaiphong-605565.,Goc Toi,rock_viet,0.25,0.8,0.7046415798673636,,0.8400036096572876,9
+rock_viet:goctoi-nguyenhaiphong-605565.,Goc Toi,rock_viet,0.5,0.7,0.7178305945469718,,0.8460922241210938,10
+rock_viet:goctoi-nguyenhaiphong-605565.,Goc Toi,rock_viet,0.75,0.6,0.7609757055043472,,0.8538286089897156,10
+rock_viet:goctoi-nguyenhaiphong-605565.,Goc Toi,rock_viet,1.0,0.2,0.8602908449381498,,0.8586648106575012,9
+rock_viet:hongsaodau-dasotoi-7895750.,Hong Sao Dau,rock_viet,0.0,1.0,0.7024247388555049,,0.8335390090942383,8
+rock_viet:hongsaodau-dasotoi-7895750.,Hong Sao Dau,rock_viet,0.25,0.8,0.7101061605217998,,0.845528781414032,9
+rock_viet:hongsaodau-dasotoi-7895750.,Hong Sao Dau,rock_viet,0.5,0.7,0.7207457544022472,,0.8514046669006348,9
+rock_viet:hongsaodau-dasotoi-7895750.,Hong Sao Dau,rock_viet,0.75,0.3,0.7826243344705281,,0.8712002635002136,10
+rock_viet:hongsaodau-dasotoi-7895750.,Hong Sao Dau,rock_viet,1.0,0.1,0.7883841172535895,,0.8781552314758301,10
+rock_viet:iwannabeastar-pbliveband-6821144.,I Wanna Be A Star,rock_viet,0.0,1.0,0.7846105148227931,,0.8072975277900696,10
+rock_viet:iwannabeastar-pbliveband-6821144.,I Wanna Be A Star,rock_viet,0.25,0.9,0.7918706631813265,,0.8140021562576294,9
+rock_viet:iwannabeastar-pbliveband-6821144.,I Wanna Be A Star,rock_viet,0.5,0.9,0.7918706631813267,,0.8140021562576294,9
+rock_viet:iwannabeastar-pbliveband-6821144.,I Wanna Be A Star,rock_viet,0.75,0.8,0.8012069033047928,,0.8171144723892212,9
+rock_viet:iwannabeastar-pbliveband-6821144.,I Wanna Be A Star,rock_viet,1.0,0.1,0.7427195554995243,,0.8263932466506958,7
+rock_viet:khocdi-themeo-7023857.,Khoc Di,rock_viet,0.0,1.0,0.6953343033446011,,0.8308345079421997,7
+rock_viet:khocdi-themeo-7023857.,Khoc Di,rock_viet,0.25,1.0,0.6953343033446011,,0.8308345079421997,7
+rock_viet:khocdi-themeo-7023857.,Khoc Di,rock_viet,0.5,0.9,0.7006036315970406,,0.8336747884750366,7
+rock_viet:khocdi-themeo-7023857.,Khoc Di,rock_viet,0.75,0.5,0.7349763222981589,,0.847669243812561,9
+rock_viet:khocdi-themeo-7023857.,Khoc Di,rock_viet,1.0,0.1,0.7968485023734598,,0.8531129956245422,10
+rock_viet:khuchattuoitre-giaygaprockviet-7127061_hq,Khuc Hat Tuoi Tre,rock_viet,0.0,1.0,0.6938609124901312,,0.8356467485427856,8
+rock_viet:khuchattuoitre-giaygaprockviet-7127061_hq,Khuc Hat Tuoi Tre,rock_viet,0.25,0.9,0.6834377909212057,,0.8388065099716187,9
+rock_viet:khuchattuoitre-giaygaprockviet-7127061_hq,Khuc Hat Tuoi Tre,rock_viet,0.5,0.7,0.7050275972661328,,0.8529601097106934,9
+rock_viet:khuchattuoitre-giaygaprockviet-7127061_hq,Khuc Hat Tuoi Tre,rock_viet,0.75,0.4,0.754796907740169,,0.8623172640800476,9
+rock_viet:khuchattuoitre-giaygaprockviet-7127061_hq,Khuc Hat Tuoi Tre,rock_viet,1.0,0.1,0.8313189528609606,,0.8689497113227844,8
+rock_viet:latatca-dasotoi-6853334.,La Tat Ca,rock_viet,0.0,1.0,0.7053041041317095,,0.8344128727912903,9
+rock_viet:latatca-dasotoi-6853334.,La Tat Ca,rock_viet,0.25,0.9,0.710931091240153,,0.8360573053359985,9
+rock_viet:latatca-dasotoi-6853334.,La Tat Ca,rock_viet,0.5,0.9,0.710931091240153,,0.8360573053359985,9
+rock_viet:latatca-dasotoi-6853334.,La Tat Ca,rock_viet,0.75,0.5,0.7750692278084513,,0.8496335744857788,9
+rock_viet:latatca-dasotoi-6853334.,La Tat Ca,rock_viet,1.0,0.4,0.8437171056903938,,0.8555072546005249,7
+rock_viet:likeafool-thebohemianbasterds-7129419.,Like A Fool,rock_viet,0.0,1.0,0.7696068802762212,,0.8055432438850403,10
+rock_viet:likeafool-thebohemianbasterds-7129419.,Like A Fool,rock_viet,0.25,1.0,0.7696068802762212,,0.8055432438850403,10
+rock_viet:likeafool-thebohemianbasterds-7129419.,Like A Fool,rock_viet,0.5,0.9,0.7805840654332928,,0.8088940382003784,10
+rock_viet:likeafool-thebohemianbasterds-7129419.,Like A Fool,rock_viet,0.75,0.7,0.8105984635624561,,0.8193159103393555,10
+rock_viet:likeafool-thebohemianbasterds-7129419.,Like A Fool,rock_viet,1.0,0.1,0.801904769803801,,0.8314007520675659,8
+rock_viet:loi-metanoia-7129418.,Loi,rock_viet,0.0,1.0,0.718681339679917,,0.8316027522087097,9
+rock_viet:loi-metanoia-7129418.,Loi,rock_viet,0.25,0.8,0.7206190274732167,,0.8400478363037109,9
+rock_viet:loi-metanoia-7129418.,Loi,rock_viet,0.5,0.6,0.7217785333699973,,0.8452935218811035,9
+rock_viet:loi-metanoia-7129418.,Loi,rock_viet,0.75,0.5,0.7445201752702467,,0.8532819747924805,10
+rock_viet:loi-metanoia-7129418.,Loi,rock_viet,1.0,0.2,0.8409832093523677,,0.8629580736160278,8
+rock_viet:mascara-chillies-6467676_hq,Mascara,rock_viet,0.0,1.0,0.6833165068424983,,0.8404353857040405,7
+rock_viet:mascara-chillies-6467676_hq,Mascara,rock_viet,0.25,0.9,0.6867895500210722,,0.8423498272895813,7
+rock_viet:mascara-chillies-6467676_hq,Mascara,rock_viet,0.5,0.8,0.6938573953847612,,0.8477128148078918,6
+rock_viet:mascara-chillies-6467676_hq,Mascara,rock_viet,0.75,0.6,0.7199015306915596,,0.8552266955375671,6
+rock_viet:mascara-chillies-6467676_hq,Mascara,rock_viet,1.0,0.4,0.7587100066122942,,0.8576604127883911,6
+rock_viet:matna-cheffinrockviet-7127057_hq,Mat Na,rock_viet,0.0,1.0,0.6991864421453831,,0.8274331092834473,8
+rock_viet:matna-cheffinrockviet-7127057_hq,Mat Na,rock_viet,0.25,1.0,0.6991864421453832,,0.8274331092834473,8
+rock_viet:matna-cheffinrockviet-7127057_hq,Mat Na,rock_viet,0.5,0.6,0.7398221003651309,,0.8411318063735962,10
+rock_viet:matna-cheffinrockviet-7127057_hq,Mat Na,rock_viet,0.75,0.4,0.7579110792904571,,0.8470577001571655,10
+rock_viet:matna-cheffinrockviet-7127057_hq,Mat Na,rock_viet,1.0,0.1,0.8538489594328925,,0.8535183668136597,10
+rock_viet:matngot-titanium_hps_hq,Mat Ngot,rock_viet,0.0,1.0,0.7001589302716631,,0.8315550088882446,8
+rock_viet:matngot-titanium_hps_hq,Mat Ngot,rock_viet,0.25,0.8,0.7050217378472432,,0.8372095823287964,9
+rock_viet:matngot-titanium_hps_hq,Mat Ngot,rock_viet,0.5,0.6,0.7199662360236606,,0.8475074768066406,10
+rock_viet:matngot-titanium_hps_hq,Mat Ngot,rock_viet,0.75,0.3,0.7445894793290281,,0.8553708791732788,9
+rock_viet:matngot-titanium_hps_hq,Mat Ngot,rock_viet,1.0,0.2,0.804016631599973,,0.8597307205200195,9
+rock_viet:maykhi-theflob-6036607.,May Khi,rock_viet,0.0,1.0,0.7051896196765562,,0.8269979357719421,8
+rock_viet:maykhi-theflob-6036607.,May Khi,rock_viet,0.25,0.9,0.7043124309464095,,0.8287943005561829,9
+rock_viet:maykhi-theflob-6036607.,May Khi,rock_viet,0.5,0.9,0.7043124309464096,,0.8287943005561829,9
+rock_viet:maykhi-theflob-6036607.,May Khi,rock_viet,0.75,0.5,0.7190812136453961,,0.8377223014831543,10
+rock_viet:maykhi-theflob-6036607.,May Khi,rock_viet,1.0,0.2,0.8123915611129637,,0.8434413075447083,9
+rock_viet:neungaymaikhongden-chillies-5923043.,Neu Ngay Mai Khong Den,rock_viet,0.0,1.0,0.708248714453875,,0.8378251791000366,7
+rock_viet:neungaymaikhongden-chillies-5923043.,Neu Ngay Mai Khong Den,rock_viet,0.25,0.9,0.7017977143014853,,0.8394440412521362,6
+rock_viet:neungaymaikhongden-chillies-5923043.,Neu Ngay Mai Khong Den,rock_viet,0.5,0.9,0.7017977143014854,,0.8394441604614258,6
+rock_viet:neungaymaikhongden-chillies-5923043.,Neu Ngay Mai Khong Den,rock_viet,0.75,0.5,0.718826559092803,,0.8495603799819946,4
+rock_viet:neungaymaikhongden-chillies-5923043.,Neu Ngay Mai Khong Den,rock_viet,1.0,0.4,0.8382350894662477,,0.8531748652458191,5
+rock_viet:nguaothuongnho-phamanhkhoa_458hu.,Ngua O Thuong Nho,rock_viet,0.0,1.0,0.6859312214420936,,0.8161592483520508,8
+rock_viet:nguaothuongnho-phamanhkhoa_458hu.,Ngua O Thuong Nho,rock_viet,0.25,0.9,0.701774528633617,,0.8189932107925415,8
+rock_viet:nguaothuongnho-phamanhkhoa_458hu.,Ngua O Thuong Nho,rock_viet,0.5,0.8,0.7120576336468765,,0.8237656354904175,7
+rock_viet:nguaothuongnho-phamanhkhoa_458hu.,Ngua O Thuong Nho,rock_viet,0.75,0.6,0.7533341195599152,,0.8328425288200378,8
+rock_viet:nguaothuongnho-phamanhkhoa_458hu.,Ngua O Thuong Nho,rock_viet,1.0,0.0,0.8722835168463634,,0.8499103784561157,7
+rock_viet:nguoithiphi-thoai004-6843951.,Nguoi Thi Phi,rock_viet,0.0,1.0,0.7125402808667342,,0.8262680768966675,9
+rock_viet:nguoithiphi-thoai004-6843951.,Nguoi Thi Phi,rock_viet,0.25,0.9,0.7128525324952399,,0.8284577131271362,9
+rock_viet:nguoithiphi-thoai004-6843951.,Nguoi Thi Phi,rock_viet,0.5,0.8,0.7187328231069692,,0.830712616443634,9
+rock_viet:nguoithiphi-thoai004-6843951.,Nguoi Thi Phi,rock_viet,0.75,0.7,0.7336106263849909,,0.8340264558792114,10
+rock_viet:nguoithiphi-thoai004-6843951.,Nguoi Thi Phi,rock_viet,1.0,0.2,0.8377525550744088,,0.842552661895752,10
+rock_viet:nhatquynhimathubaluqua-meowlac-7191601.,Nhat Quy Nhi Ma Thu Ba Lu Qua,rock_viet,0.0,1.0,0.7395341585507634,,0.8273094296455383,8
+rock_viet:nhatquynhimathubaluqua-meowlac-7191601.,Nhat Quy Nhi Ma Thu Ba Lu Qua,rock_viet,0.25,0.9,0.7325730425614012,,0.8307033777236938,8
+rock_viet:nhatquynhimathubaluqua-meowlac-7191601.,Nhat Quy Nhi Ma Thu Ba Lu Qua,rock_viet,0.5,0.8,0.7346095539658442,,0.8329792022705078,8
+rock_viet:nhatquynhimathubaluqua-meowlac-7191601.,Nhat Quy Nhi Ma Thu Ba Lu Qua,rock_viet,0.75,0.6,0.7592753864332863,,0.8388174176216125,8
+rock_viet:nhatquynhimathubaluqua-meowlac-7191601.,Nhat Quy Nhi Ma Thu Ba Lu Qua,rock_viet,1.0,0.2,0.8550442050854223,,0.8498173952102661,9
+rock_viet:nho-gattanday_3qt4,Nho,rock_viet,0.0,1.0,0.7512220226891939,,0.8377339243888855,9
+rock_viet:nho-gattanday_3qt4,Nho,rock_viet,0.25,0.9,0.7584432586318927,,0.8405621647834778,9
+rock_viet:nho-gattanday_3qt4,Nho,rock_viet,0.5,0.7,0.7711500301207765,,0.847011387348175,9
+rock_viet:nho-gattanday_3qt4,Nho,rock_viet,0.75,0.4,0.8020444653685475,,0.8546463847160339,8
+rock_viet:nho-gattanday_3qt4,Nho,rock_viet,1.0,0.2,0.8101593970233687,,0.8594790697097778,9
+rock_viet:noivongtaylon-unlimited_36zjh_hq,Noi Vong Tay Lon,rock_viet,0.0,1.0,0.701041042369032,,0.8583042025566101,9
+rock_viet:noivongtaylon-unlimited_36zjh_hq,Noi Vong Tay Lon,rock_viet,0.25,0.9,0.7383901279384786,,0.861822247505188,8
+rock_viet:noivongtaylon-unlimited_36zjh_hq,Noi Vong Tay Lon,rock_viet,0.5,0.8,0.7288318399284105,,0.8624734878540039,8
+rock_viet:noivongtaylon-unlimited_36zjh_hq,Noi Vong Tay Lon,rock_viet,0.75,0.5,0.7741557432574392,,0.8737376928329468,7
+rock_viet:noivongtaylon-unlimited_36zjh_hq,Noi Vong Tay Lon,rock_viet,1.0,0.3,0.8011059065878977,,0.87690269947052,8
+rock_viet:nuhontrendinhphanxipang-ngucung_cdvh,Nu Hon Tren Dinh Phanxipang,rock_viet,0.0,1.0,0.7036834414951616,,0.8205226063728333,8
+rock_viet:nuhontrendinhphanxipang-ngucung_cdvh,Nu Hon Tren Dinh Phanxipang,rock_viet,0.25,0.9,0.7064614724840783,,0.8260542750358582,8
+rock_viet:nuhontrendinhphanxipang-ngucung_cdvh,Nu Hon Tren Dinh Phanxipang,rock_viet,0.5,0.6,0.7247383032263445,,0.8339726328849792,8
+rock_viet:nuhontrendinhphanxipang-ngucung_cdvh,Nu Hon Tren Dinh Phanxipang,rock_viet,0.75,0.5,0.7525363920330689,,0.8388427495956421,8
+rock_viet:nuhontrendinhphanxipang-ngucung_cdvh,Nu Hon Tren Dinh Phanxipang,rock_viet,1.0,0.1,0.8040586023644068,,0.8536719083786011,9
+rock_viet:quayveday-phuongthanh_3fcye.,Quay Ve Day,rock_viet,0.0,1.0,0.6965472953196833,,0.8258323669433594,9
+rock_viet:quayveday-phuongthanh_3fcye.,Quay Ve Day,rock_viet,0.25,0.8,0.6864294992361809,,0.8295519948005676,8
+rock_viet:quayveday-phuongthanh_3fcye.,Quay Ve Day,rock_viet,0.5,0.8,0.7044356894359097,,0.8346540331840515,9
+rock_viet:quayveday-phuongthanh_3fcye.,Quay Ve Day,rock_viet,0.75,0.6,0.720567783076009,,0.8390666842460632,9
+rock_viet:quayveday-phuongthanh_3fcye.,Quay Ve Day,rock_viet,1.0,0.1,0.8276912697741422,,0.850482165813446,10
+rock_viet:rocksaigon-mtv_34t2c_hq,Rock Sai Gon,rock_viet,0.0,1.0,0.7375311969886909,,0.8659152984619141,8
+rock_viet:rocksaigon-mtv_34t2c_hq,Rock Sai Gon,rock_viet,0.25,1.0,0.7375311969886909,,0.8659152984619141,8
+rock_viet:rocksaigon-mtv_34t2c_hq,Rock Sai Gon,rock_viet,0.5,0.9,0.7424553733054384,,0.8690594434738159,8
+rock_viet:rocksaigon-mtv_34t2c_hq,Rock Sai Gon,rock_viet,0.75,0.8,0.7573902787824888,,0.8710864186286926,8
+rock_viet:rocksaigon-mtv_34t2c_hq,Rock Sai Gon,rock_viet,1.0,0.6,0.8003003223982929,,0.8737152814865112,8
+rock_viet:rocksaigon-mtv_34t2c_hq(2),Rock Sai Gon,rock_viet,0.0,1.0,0.7375311969886909,,0.8659152984619141,8
+rock_viet:rocksaigon-mtv_34t2c_hq(2),Rock Sai Gon,rock_viet,0.25,1.0,0.7375311969886909,,0.8659152984619141,8
+rock_viet:rocksaigon-mtv_34t2c_hq(2),Rock Sai Gon,rock_viet,0.5,0.9,0.7424553733054384,,0.8690594434738159,8
+rock_viet:rocksaigon-mtv_34t2c_hq(2),Rock Sai Gon,rock_viet,0.75,0.8,0.7573902787824888,,0.8710864186286926,8
+rock_viet:rocksaigon-mtv_34t2c_hq(2),Rock Sai Gon,rock_viet,1.0,0.6,0.8003003223982929,,0.8737152814865112,8
+rock_viet:roi-bofrockviet-7127069_hq,Roi,rock_viet,0.0,1.0,0.828173124886872,,0.8355552554130554,10
+rock_viet:roi-bofrockviet-7127069_hq,Roi,rock_viet,0.25,0.9,0.8071011114152534,,0.840582549571991,10
+rock_viet:roi-bofrockviet-7127069_hq,Roi,rock_viet,0.5,0.9,0.8071011114152534,,0.8405824899673462,10
+rock_viet:roi-bofrockviet-7127069_hq,Roi,rock_viet,0.75,0.7,0.8134341888088938,,0.8511093258857727,10
+rock_viet:roi-bofrockviet-7127069_hq,Roi,rock_viet,1.0,0.1,0.8028908846792325,,0.8627517819404602,9
+rock_viet:runaway-thoai004-6184225.,Runaway,rock_viet,0.0,1.0,0.8068193419357301,,0.8361285328865051,9
+rock_viet:runaway-thoai004-6184225.,Runaway,rock_viet,0.25,0.9,0.8048592758785567,,0.8397334814071655,9
+rock_viet:runaway-thoai004-6184225.,Runaway,rock_viet,0.5,0.9,0.8048592758785567,,0.8397334814071655,9
+rock_viet:runaway-thoai004-6184225.,Runaway,rock_viet,0.75,0.8,0.8148323556864168,,0.8461225628852844,9
+rock_viet:runaway-thoai004-6184225.,Runaway,rock_viet,1.0,0.3,0.8373682419466377,,0.8589189648628235,10
+rock_viet:sauconmua-thuytrieudo_jpk_hq,Sau Con Mua,rock_viet,0.0,1.0,0.6992608537664492,,0.8138006329536438,9
+rock_viet:sauconmua-thuytrieudo_jpk_hq,Sau Con Mua,rock_viet,0.25,1.0,0.6992608537664491,,0.8138006329536438,9
+rock_viet:sauconmua-thuytrieudo_jpk_hq,Sau Con Mua,rock_viet,0.5,0.9,0.6941320246643494,,0.8182312846183777,9
+rock_viet:sauconmua-thuytrieudo_jpk_hq,Sau Con Mua,rock_viet,0.75,0.5,0.7328085085001703,,0.830950140953064,10
+rock_viet:sauconmua-thuytrieudo_jpk_hq,Sau Con Mua,rock_viet,1.0,0.0,0.839991886205306,,0.8478595018386841,8
+rock_viet:sunkissedfeatchaubui-chillies-7196795_hq,Sunkissed Feat Chau Bui,rock_viet,0.0,1.0,0.6993936969160577,,0.8368579149246216,5
+rock_viet:sunkissedfeatchaubui-chillies-7196795_hq,Sunkissed Feat Chau Bui,rock_viet,0.25,1.0,0.6993936969160577,,0.8368579149246216,5
+rock_viet:sunkissedfeatchaubui-chillies-7196795_hq,Sunkissed Feat Chau Bui,rock_viet,0.5,0.9,0.7073852783242878,,0.8419113159179688,6
+rock_viet:sunkissedfeatchaubui-chillies-7196795_hq,Sunkissed Feat Chau Bui,rock_viet,0.75,0.6,0.7146800439922373,,0.8486322164535522,6
+rock_viet:sunkissedfeatchaubui-chillies-7196795_hq,Sunkissed Feat Chau Bui,rock_viet,1.0,0.6,0.7728712180906877,,0.8505526781082153,6
+rock_viet:thienduongmongmanh-mtv_3vy77_hq,Thien Duong Mong Manh,rock_viet,0.0,1.0,0.6984693356111541,,0.8379613757133484,9
+rock_viet:thienduongmongmanh-mtv_3vy77_hq,Thien Duong Mong Manh,rock_viet,0.25,0.8,0.7167853108143428,,0.8490201234817505,9
+rock_viet:thienduongmongmanh-mtv_3vy77_hq,Thien Duong Mong Manh,rock_viet,0.5,0.8,0.7167853108143428,,0.8490201234817505,9
+rock_viet:thienduongmongmanh-mtv_3vy77_hq,Thien Duong Mong Manh,rock_viet,0.75,0.3,0.7683313009921564,,0.870498538017273,6
+rock_viet:thienduongmongmanh-mtv_3vy77_hq,Thien Duong Mong Manh,rock_viet,1.0,0.2,0.7750328638652999,,0.8736993074417114,7
+rock_viet:throwaway-phamanhkhoa_458sb.,Throw Away,rock_viet,0.0,1.0,0.7745677317330054,,0.8218432664871216,10
+rock_viet:throwaway-phamanhkhoa_458sb.,Throw Away,rock_viet,0.25,1.0,0.7745677317330054,,0.8218432664871216,10
+rock_viet:throwaway-phamanhkhoa_458sb.,Throw Away,rock_viet,0.5,0.9,0.7964860731876473,,0.8275687098503113,10
+rock_viet:throwaway-phamanhkhoa_458sb.,Throw Away,rock_viet,0.75,0.9,0.7964860731876475,,0.8275688290596008,10
+rock_viet:throwaway-phamanhkhoa_458sb.,Throw Away,rock_viet,1.0,0.2,0.8341898370902184,,0.8469884991645813,9
+rock_viet:tim-chucalochihung-8054117_hq,Tim,rock_viet,0.0,1.0,0.7038492243853185,,0.8345840573310852,8
+rock_viet:tim-chucalochihung-8054117_hq,Tim,rock_viet,0.25,1.0,0.7038492243853185,,0.8345840573310852,8
+rock_viet:tim-chucalochihung-8054117_hq,Tim,rock_viet,0.5,0.9,0.7142929505296408,,0.8379769325256348,8
+rock_viet:tim-chucalochihung-8054117_hq,Tim,rock_viet,0.75,0.5,0.7534128746628418,,0.8468396067619324,9
+rock_viet:tim-chucalochihung-8054117_hq,Tim,rock_viet,1.0,0.2,0.8426931380617068,,0.8581185340881348,9
+rock_viet:tuky-mtv-2850757.,Tu Ky,rock_viet,0.0,1.0,0.7087552915145248,,0.8522552251815796,8
+rock_viet:tuky-mtv-2850757.,Tu Ky,rock_viet,0.25,1.0,0.7087552915145249,,0.8522552251815796,8
+rock_viet:tuky-mtv-2850757.,Tu Ky,rock_viet,0.5,0.9,0.7105587529570759,,0.8581081628799438,8
+rock_viet:tuky-mtv-2850757.,Tu Ky,rock_viet,0.75,0.9,0.710558752957076,,0.8581081628799438,8
+rock_viet:tuky-mtv-2850757.,Tu Ky,rock_viet,1.0,0.6,0.7693934745447754,,0.8622120022773743,8
+rock_viet:vathelahet-chillies-5833412.,Va The La Het,rock_viet,0.0,1.0,0.6938125495624505,,0.8302550315856934,6
+rock_viet:vathelahet-chillies-5833412.,Va The La Het,rock_viet,0.25,1.0,0.6938125495624504,,0.8302550315856934,6
+rock_viet:vathelahet-chillies-5833412.,Va The La Het,rock_viet,0.5,0.9,0.6966089294666028,,0.8332420587539673,6
+rock_viet:vathelahet-chillies-5833412.,Va The La Het,rock_viet,0.75,0.6,0.7287866830229608,,0.8421385884284973,5
+rock_viet:vathelahet-chillies-5833412.,Va The La Het,rock_viet,1.0,0.4,0.8158392909961304,,0.8461693525314331,6
+rock_viet:viettinhca-taquangthang-4512963_hq,Viet Tinh Ca,rock_viet,0.0,1.0,0.7011885480005827,,0.8272680044174194,9
+rock_viet:viettinhca-taquangthang-4512963_hq,Viet Tinh Ca,rock_viet,0.25,0.9,0.7051878878312854,,0.8275779485702515,9
+rock_viet:viettinhca-taquangthang-4512963_hq,Viet Tinh Ca,rock_viet,0.5,0.8,0.7038467325327054,,0.8318597674369812,8
+rock_viet:viettinhca-taquangthang-4512963_hq,Viet Tinh Ca,rock_viet,0.75,0.4,0.7306082410756752,,0.8456485867500305,8
+rock_viet:viettinhca-taquangthang-4512963_hq,Viet Tinh Ca,rock_viet,1.0,0.0,0.8425271906548981,,0.8572037816047668,9
+rock_viet:vo-bof-7129427.,Vo,rock_viet,0.0,1.0,0.6954768438772704,,0.8299209475517273,8
+rock_viet:vo-bof-7129427.,Vo,rock_viet,0.25,0.7,0.717383456469886,,0.8443799018859863,9
+rock_viet:vo-bof-7129427.,Vo,rock_viet,0.5,0.5,0.7324130662295507,,0.8560796976089478,10
+rock_viet:vo-bof-7129427.,Vo,rock_viet,0.75,0.3,0.786870831427497,,0.8730887174606323,10
+rock_viet:vo-bof-7129427.,Vo,rock_viet,1.0,0.1,0.8651391730477498,,0.8822305798530579,7
+rock_viet:vungkyuc-chillies-6278528_hq,Vung Ky Uc,rock_viet,0.0,1.0,0.6991249512532144,,0.8536680340766907,7
+rock_viet:vungkyuc-chillies-6278528_hq,Vung Ky Uc,rock_viet,0.25,0.8,0.691207249702973,,0.8560535311698914,6
+rock_viet:vungkyuc-chillies-6278528_hq,Vung Ky Uc,rock_viet,0.5,0.8,0.6998130698222468,,0.8590711355209351,6
+rock_viet:vungkyuc-chillies-6278528_hq,Vung Ky Uc,rock_viet,0.75,0.6,0.717087124193438,,0.8650850057601929,5
+rock_viet:vungkyuc-chillies-6278528_hq,Vung Ky Uc,rock_viet,1.0,0.5,0.7858618345411833,,0.8673768043518066,6
+rock_viet:wavealpha-7uppercutscam-5822434.,Wave Alpha,rock_viet,0.0,1.0,0.7106941600293728,,0.8150286674499512,6
+rock_viet:wavealpha-7uppercutscam-5822434.,Wave Alpha,rock_viet,0.25,0.8,0.7151631878970279,,0.8209711313247681,8
+rock_viet:wavealpha-7uppercutscam-5822434.,Wave Alpha,rock_viet,0.5,0.8,0.7222859723063704,,0.822962760925293,7
+rock_viet:wavealpha-7uppercutscam-5822434.,Wave Alpha,rock_viet,0.75,0.5,0.7335183992931669,,0.8313568234443665,9
+rock_viet:wavealpha-7uppercutscam-5822434.,Wave Alpha,rock_viet,1.0,0.1,0.8393157340750763,,0.836502730846405,9
+rock_viet:yeu-7uppercuts-6611749.,Yeu,rock_viet,0.0,1.0,0.7196208209828829,,0.8273103833198547,9
+rock_viet:yeu-7uppercuts-6611749.,Yeu,rock_viet,0.25,0.8,0.7195396200397323,,0.832298755645752,9
+rock_viet:yeu-7uppercuts-6611749.,Yeu,rock_viet,0.5,0.6,0.7169967916488833,,0.8351083993911743,10
+rock_viet:yeu-7uppercuts-6611749.,Yeu,rock_viet,0.75,0.3,0.7824775599027721,,0.8466560244560242,10
+rock_viet:yeu-7uppercuts-6611749.,Yeu,rock_viet,1.0,0.1,0.8415196053939755,,0.8570401072502136,8
+tru_tinh:01-giacmonglon.,Giac Mong Lon,tru_tinh,0.0,1.0,0.6804869676170495,,0.8457525968551636,8
+tru_tinh:01-giacmonglon.,Giac Mong Lon,tru_tinh,0.25,1.0,0.6804869676170494,,0.8457525968551636,8
+tru_tinh:01-giacmonglon.,Giac Mong Lon,tru_tinh,0.5,0.8,0.6960307723291147,,0.8505155444145203,8
+tru_tinh:01-giacmonglon.,Giac Mong Lon,tru_tinh,0.75,0.5,0.7355317434614929,,0.8560174107551575,7
+tru_tinh:01-giacmonglon.,Giac Mong Lon,tru_tinh,1.0,0.2,0.8017575779817606,,0.8618863224983215,7
+tru_tinh:01bongnhoduongchieu.,Bong Nho Duong Chieu,tru_tinh,0.0,1.0,0.690530096481287,,0.8586657643318176,9
+tru_tinh:01bongnhoduongchieu.,Bong Nho Duong Chieu,tru_tinh,0.25,0.9,0.6816153658912255,,0.8605276346206665,9
+tru_tinh:01bongnhoduongchieu.,Bong Nho Duong Chieu,tru_tinh,0.5,0.9,0.6816153658912255,,0.8605276346206665,9
+tru_tinh:01bongnhoduongchieu.,Bong Nho Duong Chieu,tru_tinh,0.75,0.7,0.6880136005008672,,0.8643744587898254,9
+tru_tinh:01bongnhoduongchieu.,Bong Nho Duong Chieu,tru_tinh,1.0,0.4,0.7867637905869453,,0.8694779276847839,9
+tru_tinh:02-muayeu.,Mua Yeu,tru_tinh,0.0,1.0,0.748789189036761,,0.8733192682266235,7
+tru_tinh:02-muayeu.,Mua Yeu,tru_tinh,0.25,1.0,0.748789189036761,,0.8733192682266235,7
+tru_tinh:02-muayeu.,Mua Yeu,tru_tinh,0.5,0.9,0.7448399038936427,,0.8752490282058716,7
+tru_tinh:02-muayeu.,Mua Yeu,tru_tinh,0.75,0.7,0.7662498043485827,,0.879666805267334,6
+tru_tinh:02-muayeu.,Mua Yeu,tru_tinh,1.0,0.3,0.7887484516391996,,0.8845882415771484,6
+tru_tinh:02-vemientay.,Ve Mien Tay,tru_tinh,0.0,1.0,0.7124914967661262,,0.857480525970459,10
+tru_tinh:02-vemientay.,Ve Mien Tay,tru_tinh,0.25,0.9,0.692975279058552,,0.8605281114578247,10
+tru_tinh:02-vemientay.,Ve Mien Tay,tru_tinh,0.5,0.8,0.6965482040869365,,0.864901065826416,10
+tru_tinh:02-vemientay.,Ve Mien Tay,tru_tinh,0.75,0.6,0.7179174680418643,,0.8697714805603027,9
+tru_tinh:02-vemientay.,Ve Mien Tay,tru_tinh,1.0,0.2,0.7800070373278278,,0.8759247064590454,8
+tru_tinh:03-lungtalungtung.,Lung Ta Lung Tung,tru_tinh,0.0,1.0,0.7153543174666712,,0.8566370010375977,10
+tru_tinh:03-lungtalungtung.,Lung Ta Lung Tung,tru_tinh,0.25,0.8,0.7142953433812043,,0.8645526766777039,8
+tru_tinh:03-lungtalungtung.,Lung Ta Lung Tung,tru_tinh,0.5,0.7,0.728468936308021,,0.8692177534103394,8
+tru_tinh:03-lungtalungtung.,Lung Ta Lung Tung,tru_tinh,0.75,0.3,0.718663708778704,,0.8774994611740112,8
+tru_tinh:03-lungtalungtung.,Lung Ta Lung Tung,tru_tinh,1.0,0.1,0.7926318003015111,,0.8832151293754578,8
+tru_tinh:04-conduongmangtenem.,Con Duong Mang Ten Em,tru_tinh,0.0,1.0,0.6841490392828082,,0.8784233927726746,8
+tru_tinh:04-conduongmangtenem.,Con Duong Mang Ten Em,tru_tinh,0.25,0.9,0.6941718971668112,,0.8834136128425598,8
+tru_tinh:04-conduongmangtenem.,Con Duong Mang Ten Em,tru_tinh,0.5,0.8,0.7133771253255092,,0.8855568766593933,8
+tru_tinh:04-conduongmangtenem.,Con Duong Mang Ten Em,tru_tinh,0.75,0.6,0.7084394837894711,,0.8912053108215332,8
+tru_tinh:04-conduongmangtenem.,Con Duong Mang Ten Em,tru_tinh,1.0,0.2,0.7886624181577648,,0.8984991312026978,10
+tru_tinh:04-ngoclan.,Ngoc Lan,tru_tinh,0.0,1.0,0.7488119489179879,,0.8551105260848999,10
+tru_tinh:04-ngoclan.,Ngoc Lan,tru_tinh,0.25,0.9,0.7480625300317284,,0.8573893308639526,10
+tru_tinh:04-ngoclan.,Ngoc Lan,tru_tinh,0.5,0.8,0.7636097811017052,,0.8597341775894165,9
+tru_tinh:04-ngoclan.,Ngoc Lan,tru_tinh,0.75,0.4,0.7976982225966461,,0.8681139945983887,7
+tru_tinh:04-ngoclan.,Ngoc Lan,tru_tinh,1.0,0.1,0.8354402861827648,,0.8727844953536987,5
+tru_tinh:04.toichuacomuaxuan-giangtu.,Toi Chua Co Mua Xuan,tru_tinh,0.0,1.0,0.6984782409648616,,0.8518195152282715,9
+tru_tinh:04.toichuacomuaxuan-giangtu.,Toi Chua Co Mua Xuan,tru_tinh,0.25,0.9,0.7025813316141036,,0.8545719981193542,9
+tru_tinh:04.toichuacomuaxuan-giangtu.,Toi Chua Co Mua Xuan,tru_tinh,0.5,0.8,0.6892306588570468,,0.8566790819168091,10
+tru_tinh:04.toichuacomuaxuan-giangtu.,Toi Chua Co Mua Xuan,tru_tinh,0.75,0.5,0.7367298197591421,,0.8629106283187866,9
+tru_tinh:04.toichuacomuaxuan-giangtu.,Toi Chua Co Mua Xuan,tru_tinh,1.0,0.2,0.7817461580497341,,0.867531955242157,7
+tru_tinh:04toivancodon.,Toi Van Co Don,tru_tinh,0.0,1.0,0.7058419068296117,,0.858683705329895,10
+tru_tinh:04toivancodon.,Toi Van Co Don,tru_tinh,0.25,1.0,0.7058419068296116,,0.858683705329895,10
+tru_tinh:04toivancodon.,Toi Van Co Don,tru_tinh,0.5,0.9,0.707980383599146,,0.862199604511261,10
+tru_tinh:04toivancodon.,Toi Van Co Don,tru_tinh,0.75,0.5,0.7184640913994825,,0.8772088289260864,9
+tru_tinh:04toivancodon.,Toi Van Co Don,tru_tinh,1.0,0.3,0.7502224772674163,,0.8783052563667297,8
+tru_tinh:05-huonglac.,Huong Lac,tru_tinh,0.0,1.0,0.7546782686729127,,0.8647724390029907,9
+tru_tinh:05-huonglac.,Huong Lac,tru_tinh,0.25,0.8,0.7577457701020662,,0.8706395030021667,8
+tru_tinh:05-huonglac.,Huong Lac,tru_tinh,0.5,0.7,0.750160849784943,,0.8719398379325867,8
+tru_tinh:05-huonglac.,Huong Lac,tru_tinh,0.75,0.4,0.7374692204540156,,0.8802586793899536,9
+tru_tinh:05-huonglac.,Huong Lac,tru_tinh,1.0,0.2,0.8039675966608425,,0.8835932612419128,9
+tru_tinh:05.hailoimong.,Hai Loi Mong,tru_tinh,0.0,1.0,0.7049142991097732,,0.8713855743408203,8
+tru_tinh:05.hailoimong.,Hai Loi Mong,tru_tinh,0.25,0.9,0.7023388609627755,,0.8736236691474915,7
+tru_tinh:05.hailoimong.,Hai Loi Mong,tru_tinh,0.5,0.9,0.7023388609627755,,0.8736237287521362,7
+tru_tinh:05.hailoimong.,Hai Loi Mong,tru_tinh,0.75,0.7,0.7399437078487234,,0.8835927844047546,8
+tru_tinh:05.hailoimong.,Hai Loi Mong,tru_tinh,1.0,0.2,0.8129512473877818,,0.8925943374633789,7
+tru_tinh:06.doantuyet.,Doan Tuyet,tru_tinh,0.0,1.0,0.6783161717622661,,0.873205840587616,10
+tru_tinh:06.doantuyet.,Doan Tuyet,tru_tinh,0.25,1.0,0.6783161717622661,,0.873205840587616,10
+tru_tinh:06.doantuyet.,Doan Tuyet,tru_tinh,0.5,0.7,0.7006635586007968,,0.8861435651779175,10
+tru_tinh:06.doantuyet.,Doan Tuyet,tru_tinh,0.75,0.5,0.7142744641362181,,0.8929211497306824,9
+tru_tinh:06.doantuyet.,Doan Tuyet,tru_tinh,1.0,0.2,0.7938053132280918,,0.902478814125061,9
+tru_tinh:08-troioi.,Troi Oi,tru_tinh,0.0,1.0,0.6972209765573205,,0.8510717153549194,8
+tru_tinh:08-troioi.,Troi Oi,tru_tinh,0.25,1.0,0.6972209765573205,,0.8510717153549194,8
+tru_tinh:08-troioi.,Troi Oi,tru_tinh,0.5,0.7,0.712995570878228,,0.8615756034851074,8
+tru_tinh:08-troioi.,Troi Oi,tru_tinh,0.75,0.3,0.742028629451067,,0.8720359802246094,6
+tru_tinh:08-troioi.,Troi Oi,tru_tinh,1.0,0.2,0.7869286781899918,,0.8738216161727905,5
+tru_tinh:10giatudemmua.,Gia Tu Dem Mua,tru_tinh,0.0,1.0,0.7110633920946855,,0.8590182065963745,10
+tru_tinh:10giatudemmua.,Gia Tu Dem Mua,tru_tinh,0.25,0.7,0.7196484672582225,,0.8690164685249329,10
+tru_tinh:10giatudemmua.,Gia Tu Dem Mua,tru_tinh,0.5,0.5,0.7404519596032786,,0.8770707845687866,8
+tru_tinh:10giatudemmua.,Gia Tu Dem Mua,tru_tinh,0.75,0.4,0.7395714356469695,,0.8794723749160767,8
+tru_tinh:10giatudemmua.,Gia Tu Dem Mua,tru_tinh,1.0,0.3,0.7881415571658383,,0.8812726736068726,8
+tru_tinh:13.niemkhuccuoi.,Niem Khuc Cuoi,tru_tinh,0.0,1.0,0.7038485727161395,,0.8505593538284302,8
+tru_tinh:13.niemkhuccuoi.,Niem Khuc Cuoi,tru_tinh,0.25,1.0,0.7038485727161395,,0.8505592346191406,8
+tru_tinh:13.niemkhuccuoi.,Niem Khuc Cuoi,tru_tinh,0.5,0.8,0.7253300395409294,,0.8578166961669922,7
+tru_tinh:13.niemkhuccuoi.,Niem Khuc Cuoi,tru_tinh,0.75,0.5,0.7499919043193495,,0.8642133474349976,8
+tru_tinh:13.niemkhuccuoi.,Niem Khuc Cuoi,tru_tinh,1.0,0.1,0.8369949863859434,,0.8679709434509277,8
+tru_tinh:anhchoemmuaxuan-phinhung_g365,Anh Cho Em Mua Xuan,tru_tinh,0.0,1.0,0.737491903588641,,0.8655380010604858,9
+tru_tinh:anhchoemmuaxuan-phinhung_g365,Anh Cho Em Mua Xuan,tru_tinh,0.25,0.9,0.7383036370951757,,0.8690506815910339,10
+tru_tinh:anhchoemmuaxuan-phinhung_g365,Anh Cho Em Mua Xuan,tru_tinh,0.5,0.7,0.7468046260073958,,0.877101719379425,9
+tru_tinh:anhchoemmuaxuan-phinhung_g365,Anh Cho Em Mua Xuan,tru_tinh,0.75,0.6,0.75616083131136,,0.8781970143318176,9
+tru_tinh:anhchoemmuaxuan-phinhung_g365,Anh Cho Em Mua Xuan,tru_tinh,1.0,0.2,0.7996363620408529,,0.8846122026443481,6
+tru_tinh:aoluahadong-hoailam-5361840.,Ao Lua Ha Dong,tru_tinh,0.0,1.0,0.7017756042710865,,0.8678532838821411,9
+tru_tinh:aoluahadong-hoailam-5361840.,Ao Lua Ha Dong,tru_tinh,0.25,0.9,0.6970587943161014,,0.8686383366584778,10
+tru_tinh:aoluahadong-hoailam-5361840.,Ao Lua Ha Dong,tru_tinh,0.5,0.9,0.7028779798973568,,0.8709300756454468,9
+tru_tinh:aoluahadong-hoailam-5361840.,Ao Lua Ha Dong,tru_tinh,0.75,0.7,0.7240644410847291,,0.875810444355011,9
+tru_tinh:aoluahadong-hoailam-5361840.,Ao Lua Ha Dong,tru_tinh,1.0,0.4,0.7893532420275841,,0.8817720413208008,9
+tru_tinh:baicakyniem-leson-2473774.,Bai Ca Ky Niem,tru_tinh,0.0,1.0,0.6989829426631009,,0.837734043598175,9
+tru_tinh:baicakyniem-leson-2473774.,Bai Ca Ky Niem,tru_tinh,0.25,1.0,0.6989829426631009,,0.837734043598175,9
+tru_tinh:baicakyniem-leson-2473774.,Bai Ca Ky Niem,tru_tinh,0.5,0.8,0.7138146279267362,,0.8435273170471191,9
+tru_tinh:baicakyniem-leson-2473774.,Bai Ca Ky Niem,tru_tinh,0.75,0.4,0.7333608179750303,,0.8565700650215149,8
+tru_tinh:baicakyniem-leson-2473774.,Bai Ca Ky Niem,tru_tinh,1.0,0.1,0.8186679745595733,,0.8677225112915039,6
+tru_tinh:bathangtatu-namcuong-5509524_hq,Ba Thang Ta Tu,tru_tinh,0.0,1.0,0.6939035471814743,,0.8707151412963867,9
+tru_tinh:bathangtatu-namcuong-5509524_hq,Ba Thang Ta Tu,tru_tinh,0.25,0.9,0.7019030447892974,,0.8715295791625977,9
+tru_tinh:bathangtatu-namcuong-5509524_hq,Ba Thang Ta Tu,tru_tinh,0.5,0.9,0.699850913900648,,0.873792290687561,9
+tru_tinh:bathangtatu-namcuong-5509524_hq,Ba Thang Ta Tu,tru_tinh,0.75,0.7,0.7029755799401941,,0.8806673288345337,9
+tru_tinh:bathangtatu-namcuong-5509524_hq,Ba Thang Ta Tu,tru_tinh,1.0,0.2,0.7815133219799419,,0.8878716230392456,8
+tru_tinh:bauoidungkhoc-phinhung-7014153_hq,Bau Oi Dung Khoc,tru_tinh,0.0,1.0,0.6919208942799211,,0.8629172444343567,9
+tru_tinh:bauoidungkhoc-phinhung-7014153_hq,Bau Oi Dung Khoc,tru_tinh,0.25,0.9,0.7002893381568723,,0.8679096102714539,8
+tru_tinh:bauoidungkhoc-phinhung-7014153_hq,Bau Oi Dung Khoc,tru_tinh,0.5,0.8,0.7046879595051523,,0.8694248199462891,8
+tru_tinh:bauoidungkhoc-phinhung-7014153_hq,Bau Oi Dung Khoc,tru_tinh,0.75,0.5,0.7661209929440521,,0.8813477754592896,8
+tru_tinh:bauoidungkhoc-phinhung-7014153_hq,Bau Oi Dung Khoc,tru_tinh,1.0,0.2,0.8281753543929858,,0.8867052793502808,8
+tru_tinh:benxuan-dotunglam-6889641.,Ben Xuan,tru_tinh,0.0,1.0,0.7321833332063183,,0.8659404516220093,9
+tru_tinh:benxuan-dotunglam-6889641.,Ben Xuan,tru_tinh,0.25,0.8,0.7347944423568379,,0.8763434290885925,9
+tru_tinh:benxuan-dotunglam-6889641.,Ben Xuan,tru_tinh,0.5,0.6,0.7387015602447933,,0.8844445943832397,9
+tru_tinh:benxuan-dotunglam-6889641.,Ben Xuan,tru_tinh,0.75,0.5,0.7443514510324962,,0.8873804807662964,9
+tru_tinh:benxuan-dotunglam-6889641.,Ben Xuan,tru_tinh,1.0,0.0,0.7606600959328459,,0.8945919871330261,7
+tru_tinh:bietkhuc-quynhlan_t3xr,Biet Khuc,tru_tinh,0.0,1.0,0.7525654563539891,,0.8608521223068237,10
+tru_tinh:bietkhuc-quynhlan_t3xr,Biet Khuc,tru_tinh,0.25,0.7,0.7421905713816265,,0.8675522804260254,8
+tru_tinh:bietkhuc-quynhlan_t3xr,Biet Khuc,tru_tinh,0.5,0.5,0.7477436965926672,,0.8760082125663757,7
+tru_tinh:bietkhuc-quynhlan_t3xr,Biet Khuc,tru_tinh,0.75,0.5,0.7477436965926672,,0.8760082125663757,7
+tru_tinh:bietkhuc-quynhlan_t3xr,Biet Khuc,tru_tinh,1.0,0.2,0.8245906786720032,,0.8805599212646484,7
+tru_tinh:boibac-truongvu_9say,Boi Bac,tru_tinh,0.0,1.0,0.693061189136071,,0.8765690922737122,10
+tru_tinh:boibac-truongvu_9say,Boi Bac,tru_tinh,0.25,0.9,0.7045539135626327,,0.8779476881027222,10
+tru_tinh:boibac-truongvu_9say,Boi Bac,tru_tinh,0.5,0.8,0.7155022105064557,,0.8833804130554199,10
+tru_tinh:boibac-truongvu_9say,Boi Bac,tru_tinh,0.75,0.7,0.7188550738290559,,0.8861733675003052,9
+tru_tinh:boibac-truongvu_9say,Boi Bac,tru_tinh,1.0,0.3,0.8016458331324662,,0.8910001516342163,8
+tru_tinh:bonghongcaiao-vuhoang-6627658_hq,Bong Hong Cai Ao,tru_tinh,0.0,1.0,0.6907177733184919,,0.8453470468521118,6
+tru_tinh:bonghongcaiao-vuhoang-6627658_hq,Bong Hong Cai Ao,tru_tinh,0.25,0.9,0.6932778827233367,,0.8478824496269226,6
+tru_tinh:bonghongcaiao-vuhoang-6627658_hq,Bong Hong Cai Ao,tru_tinh,0.5,0.7,0.7116972937013535,,0.8550553321838379,8
+tru_tinh:bonghongcaiao-vuhoang-6627658_hq,Bong Hong Cai Ao,tru_tinh,0.75,0.5,0.7119869843526991,,0.860202431678772,8
+tru_tinh:bonghongcaiao-vuhoang-6627658_hq,Bong Hong Cai Ao,tru_tinh,1.0,0.1,0.8070466713594147,,0.865380585193634,9
+tru_tinh:canhdongyeuthuong-trungquanidol-4694272.,Canh Dong Yeu Thuong,tru_tinh,0.0,1.0,0.7145150328266061,,0.8706185221672058,9
+tru_tinh:canhdongyeuthuong-trungquanidol-4694272.,Canh Dong Yeu Thuong,tru_tinh,0.25,0.8,0.719099039185491,,0.8785830736160278,9
+tru_tinh:canhdongyeuthuong-trungquanidol-4694272.,Canh Dong Yeu Thuong,tru_tinh,0.5,0.7,0.7197322564804379,,0.8808757662773132,8
+tru_tinh:canhdongyeuthuong-trungquanidol-4694272.,Canh Dong Yeu Thuong,tru_tinh,0.75,0.6,0.7125143274230156,,0.8817818760871887,9
+tru_tinh:canhdongyeuthuong-trungquanidol-4694272.,Canh Dong Yeu Thuong,tru_tinh,1.0,0.2,0.7711472004538575,,0.885210394859314,10
+tru_tinh:canhhoayeu-caohoangnghi-5988545.,Canh Hoa Yeu,tru_tinh,0.0,1.0,0.7185822129206346,,0.8676091432571411,9
+tru_tinh:canhhoayeu-caohoangnghi-5988545.,Canh Hoa Yeu,tru_tinh,0.25,1.0,0.7185822129206346,,0.8676091432571411,9
+tru_tinh:canhhoayeu-caohoangnghi-5988545.,Canh Hoa Yeu,tru_tinh,0.5,0.8,0.7259006112111537,,0.8706135749816895,9
+tru_tinh:canhhoayeu-caohoangnghi-5988545.,Canh Hoa Yeu,tru_tinh,0.75,0.8,0.7259006112111539,,0.8706135749816895,9
+tru_tinh:canhhoayeu-caohoangnghi-5988545.,Canh Hoa Yeu,tru_tinh,1.0,0.7,0.7683683670568157,,0.8716510534286499,8
+tru_tinh:canhthiepdauxuan-manhquynhhoakhoinamem-4748710.,Canh Thiep Dau Xuan,tru_tinh,0.0,1.0,0.7166049108116412,,0.8556920289993286,9
+tru_tinh:canhthiepdauxuan-manhquynhhoakhoinamem-4748710.,Canh Thiep Dau Xuan,tru_tinh,0.25,1.0,0.7166049108116412,,0.8556919097900391,9
+tru_tinh:canhthiepdauxuan-manhquynhhoakhoinamem-4748710.,Canh Thiep Dau Xuan,tru_tinh,0.5,0.9,0.7170917987916482,,0.8586438894271851,9
+tru_tinh:canhthiepdauxuan-manhquynhhoakhoinamem-4748710.,Canh Thiep Dau Xuan,tru_tinh,0.75,0.8,0.705980370348543,,0.8600595593452454,10
+tru_tinh:canhthiepdauxuan-manhquynhhoakhoinamem-4748710.,Canh Thiep Dau Xuan,tru_tinh,1.0,0.4,0.8240098230350464,,0.8689340353012085,10
+tru_tinh:catbuicuocdoi-huynhnguyencongbang-3658039_hq,Cat Bui Cuoc Doi,tru_tinh,0.0,1.0,0.6843560564138885,,0.8663420677185059,9
+tru_tinh:catbuicuocdoi-huynhnguyencongbang-3658039_hq,Cat Bui Cuoc Doi,tru_tinh,0.25,0.9,0.70667805161507,,0.8712242245674133,10
+tru_tinh:catbuicuocdoi-huynhnguyencongbang-3658039_hq,Cat Bui Cuoc Doi,tru_tinh,0.5,0.7,0.7089346837242642,,0.8752274513244629,10
+tru_tinh:catbuicuocdoi-huynhnguyencongbang-3658039_hq,Cat Bui Cuoc Doi,tru_tinh,0.75,0.5,0.7502982796289797,,0.8855142593383789,10
+tru_tinh:catbuicuocdoi-huynhnguyencongbang-3658039_hq,Cat Bui Cuoc Doi,tru_tinh,1.0,0.1,0.7693659055277305,,0.890833854675293,9
+tru_tinh:catbuicuocdoi-huynhnguyencongbang-3658039_hq(1),Cat Bui Cuoc Doi,tru_tinh,0.0,1.0,0.6843560564138885,,0.8663420677185059,9
+tru_tinh:catbuicuocdoi-huynhnguyencongbang-3658039_hq(1),Cat Bui Cuoc Doi,tru_tinh,0.25,0.9,0.70667805161507,,0.8712242245674133,10
+tru_tinh:catbuicuocdoi-huynhnguyencongbang-3658039_hq(1),Cat Bui Cuoc Doi,tru_tinh,0.5,0.7,0.7089346837242642,,0.8752274513244629,10
+tru_tinh:catbuicuocdoi-huynhnguyencongbang-3658039_hq(1),Cat Bui Cuoc Doi,tru_tinh,0.75,0.5,0.7502982796289797,,0.8855142593383789,10
+tru_tinh:catbuicuocdoi-huynhnguyencongbang-3658039_hq(1),Cat Bui Cuoc Doi,tru_tinh,1.0,0.1,0.7693659055277305,,0.890833854675293,9
+tru_tinh:chang-kieunga_3zc4y_hq,Chang,tru_tinh,0.0,1.0,0.7935841516462858,,0.8437181711196899,9
+tru_tinh:chang-kieunga_3zc4y_hq,Chang,tru_tinh,0.25,0.9,0.8036241582752859,,0.8474438786506653,8
+tru_tinh:chang-kieunga_3zc4y_hq,Chang,tru_tinh,0.5,0.6,0.8278689925401889,,0.8571346402168274,9
+tru_tinh:chang-kieunga_3zc4y_hq,Chang,tru_tinh,0.75,0.3,0.7842797954904498,,0.8654837608337402,9
+tru_tinh:chang-kieunga_3zc4y_hq,Chang,tru_tinh,1.0,0.3,0.796444488568207,,0.8656252026557922,8
+tru_tinh:chieudongque-haphuong-4085612.,Chieu Dong Que,tru_tinh,0.0,1.0,0.7221759143598787,,0.8805640339851379,9
+tru_tinh:chieudongque-haphuong-4085612.,Chieu Dong Que,tru_tinh,0.25,1.0,0.7221759143598785,,0.8805639147758484,9
+tru_tinh:chieudongque-haphuong-4085612.,Chieu Dong Que,tru_tinh,0.5,1.0,0.7221759143598785,,0.8805639147758484,9
+tru_tinh:chieudongque-haphuong-4085612.,Chieu Dong Que,tru_tinh,0.75,0.8,0.7291828418584886,,0.886398434638977,9
+tru_tinh:chieudongque-haphuong-4085612.,Chieu Dong Que,tru_tinh,1.0,0.2,0.8217766516823274,,0.892111599445343,8
+tru_tinh:chieuhavang-ngoquoclinh_dkuh,Chieu Ha Vang,tru_tinh,0.0,1.0,0.7826325251126093,,0.873354434967041,7
+tru_tinh:chieuhavang-ngoquoclinh_dkuh,Chieu Ha Vang,tru_tinh,0.25,1.0,0.7826325251126093,,0.873354434967041,7
+tru_tinh:chieuhavang-ngoquoclinh_dkuh,Chieu Ha Vang,tru_tinh,0.5,0.7,0.7723105690477823,,0.8833358883857727,9
+tru_tinh:chieuhavang-ngoquoclinh_dkuh,Chieu Ha Vang,tru_tinh,0.75,0.4,0.7219504745874038,,0.8896802663803101,10
+tru_tinh:chieuhavang-ngoquoclinh_dkuh,Chieu Ha Vang,tru_tinh,1.0,0.3,0.7686623553472143,,0.8915508985519409,9
+tru_tinh:chieusanga-caohoangnghi-5988547.,Chieu San Ga,tru_tinh,0.0,1.0,0.7149360675801931,,0.8619562387466431,7
+tru_tinh:chieusanga-caohoangnghi-5988547.,Chieu San Ga,tru_tinh,0.25,1.0,0.7149360675801931,,0.8619562387466431,7
+tru_tinh:chieusanga-caohoangnghi-5988547.,Chieu San Ga,tru_tinh,0.5,0.9,0.7137368264168192,,0.8659933805465698,7
+tru_tinh:chieusanga-caohoangnghi-5988547.,Chieu San Ga,tru_tinh,0.75,0.5,0.7066142953154614,,0.8809787631034851,8
+tru_tinh:chieusanga-caohoangnghi-5988547.,Chieu San Ga,tru_tinh,1.0,0.1,0.8095883575446341,,0.8870251774787903,9
+tru_tinh:chuyenchungminh-thanhtuyenhavy-3256544_hq,Chuyen Chung Minh,tru_tinh,0.0,1.0,0.6876474364067262,,0.8630013465881348,9
+tru_tinh:chuyenchungminh-thanhtuyenhavy-3256544_hq,Chuyen Chung Minh,tru_tinh,0.25,0.9,0.6935413828606356,,0.866023063659668,9
+tru_tinh:chuyenchungminh-thanhtuyenhavy-3256544_hq,Chuyen Chung Minh,tru_tinh,0.5,0.9,0.6935413828606355,,0.866023063659668,9
+tru_tinh:chuyenchungminh-thanhtuyenhavy-3256544_hq,Chuyen Chung Minh,tru_tinh,0.75,0.7,0.7043466960929108,,0.8724438548088074,10
+tru_tinh:chuyenchungminh-thanhtuyenhavy-3256544_hq,Chuyen Chung Minh,tru_tinh,1.0,0.2,0.7727080504216755,,0.8775531649589539,10
+tru_tinh:chuyenconcatrendong-mcminhcanh-4174335_hq,Chuyen Con Ca Tren Dong,tru_tinh,0.0,1.0,0.706233081389239,,0.8812235593795776,9
+tru_tinh:chuyenconcatrendong-mcminhcanh-4174335_hq,Chuyen Con Ca Tren Dong,tru_tinh,0.25,0.9,0.7161836459697266,,0.8833473324775696,10
+tru_tinh:chuyenconcatrendong-mcminhcanh-4174335_hq,Chuyen Con Ca Tren Dong,tru_tinh,0.5,0.9,0.7161836459697266,,0.8833473324775696,10
+tru_tinh:chuyenconcatrendong-mcminhcanh-4174335_hq,Chuyen Con Ca Tren Dong,tru_tinh,0.75,0.8,0.7175257995187343,,0.8845243453979492,10
+tru_tinh:chuyenconcatrendong-mcminhcanh-4174335_hq,Chuyen Con Ca Tren Dong,tru_tinh,1.0,0.5,0.7747357859402052,,0.8875507116317749,8
+tru_tinh:chuyenhenho-quangle-2555550.,Chuyen Hen Ho,tru_tinh,0.0,1.0,0.6904745812979638,,0.8542067408561707,8
+tru_tinh:chuyenhenho-quangle-2555550.,Chuyen Hen Ho,tru_tinh,0.25,0.8,0.6985677868974973,,0.8591880798339844,9
+tru_tinh:chuyenhenho-quangle-2555550.,Chuyen Hen Ho,tru_tinh,0.5,0.7,0.7034401688221764,,0.8630668520927429,10
+tru_tinh:chuyenhenho-quangle-2555550.,Chuyen Hen Ho,tru_tinh,0.75,0.7,0.7058871084730978,,0.8637185096740723,10
+tru_tinh:chuyenhenho-quangle-2555550.,Chuyen Hen Ho,tru_tinh,1.0,0.4,0.7784393089981028,,0.8702553510665894,10
+tru_tinh:chuyenhoptan-tamdoan_3kgjk.,Chuyen Hop Tan,tru_tinh,0.0,1.0,0.7052558224082008,,0.8565824627876282,9
+tru_tinh:chuyenhoptan-tamdoan_3kgjk.,Chuyen Hop Tan,tru_tinh,0.25,0.9,0.7075777117625337,,0.8607174158096313,8
+tru_tinh:chuyenhoptan-tamdoan_3kgjk.,Chuyen Hop Tan,tru_tinh,0.5,0.7,0.7096674486410138,,0.8659437894821167,8
+tru_tinh:chuyenhoptan-tamdoan_3kgjk.,Chuyen Hop Tan,tru_tinh,0.75,0.6,0.7171001893513513,,0.8711692094802856,9
+tru_tinh:chuyenhoptan-tamdoan_3kgjk.,Chuyen Hop Tan,tru_tinh,1.0,0.2,0.7756201515442359,,0.8752824068069458,10
+tru_tinh:chuyentinhhoatrang-mailequyen-6046236_hq,Chuyen Tinh Hoa Trang,tru_tinh,0.0,1.0,0.6887122924464224,,0.8701160550117493,8
+tru_tinh:chuyentinhhoatrang-mailequyen-6046236_hq,Chuyen Tinh Hoa Trang,tru_tinh,0.25,1.0,0.6887122924464223,,0.8701160550117493,8
+tru_tinh:chuyentinhhoatrang-mailequyen-6046236_hq,Chuyen Tinh Hoa Trang,tru_tinh,0.5,0.8,0.7072166488284504,,0.8751730918884277,10
+tru_tinh:chuyentinhhoatrang-mailequyen-6046236_hq,Chuyen Tinh Hoa Trang,tru_tinh,0.75,0.5,0.6887310918449938,,0.8801996111869812,10
+tru_tinh:chuyentinhhoatrang-mailequyen-6046236_hq,Chuyen Tinh Hoa Trang,tru_tinh,1.0,0.1,0.7942845542842172,,0.8847479820251465,8
+tru_tinh:chuyentinhnguoidanao-quanglemaithienvan-4184289.,Chuyen Tinh Nguoi Dan Ao,tru_tinh,0.0,1.0,0.6872850933959748,,0.85540372133255,9
+tru_tinh:chuyentinhnguoidanao-quanglemaithienvan-4184289.,Chuyen Tinh Nguoi Dan Ao,tru_tinh,0.25,0.9,0.6980902463624381,,0.8602997064590454,10
+tru_tinh:chuyentinhnguoidanao-quanglemaithienvan-4184289.,Chuyen Tinh Nguoi Dan Ao,tru_tinh,0.5,0.7,0.7102307907547692,,0.8638392686843872,9
+tru_tinh:chuyentinhnguoidanao-quanglemaithienvan-4184289.,Chuyen Tinh Nguoi Dan Ao,tru_tinh,0.75,0.5,0.710642349700895,,0.8716692924499512,10
+tru_tinh:chuyentinhnguoidanao-quanglemaithienvan-4184289.,Chuyen Tinh Nguoi Dan Ao,tru_tinh,1.0,0.3,0.7969637940298409,,0.8756953477859497,9
+tru_tinh:codon-quynhlan_t3du,Co Don,tru_tinh,0.0,1.0,0.7131867696821709,,0.8655563592910767,9
+tru_tinh:codon-quynhlan_t3du,Co Don,tru_tinh,0.25,0.9,0.7161698717775222,,0.8673426508903503,9
+tru_tinh:codon-quynhlan_t3du,Co Don,tru_tinh,0.5,0.7,0.7415337547970698,,0.8752117156982422,9
+tru_tinh:codon-quynhlan_t3du,Co Don,tru_tinh,0.75,0.6,0.7324375236653937,,0.8791300058364868,8
+tru_tinh:codon-quynhlan_t3du,Co Don,tru_tinh,1.0,0.3,0.7925213492470615,,0.885598361492157,8
+tru_tinh:coinho-luuchivyduonghongloan-3176516_hq,Coi Nho,tru_tinh,0.0,1.0,0.6746108518522358,,0.8549644351005554,9
+tru_tinh:coinho-luuchivyduonghongloan-3176516_hq,Coi Nho,tru_tinh,0.25,0.9,0.6747440268397044,,0.8568980097770691,9
+tru_tinh:coinho-luuchivyduonghongloan-3176516_hq,Coi Nho,tru_tinh,0.5,0.7,0.677270476080464,,0.8634024858474731,9
+tru_tinh:coinho-luuchivyduonghongloan-3176516_hq,Coi Nho,tru_tinh,0.75,0.5,0.7107181838615639,,0.8708403706550598,10
+tru_tinh:coinho-luuchivyduonghongloan-3176516_hq,Coi Nho,tru_tinh,1.0,0.2,0.8442292235183554,,0.8841503262519836,9
+tru_tinh:conduongxuaemdi-thanhtuyen-2434528.,Con Duong Xua Em Di,tru_tinh,0.0,1.0,0.6927487546189424,,0.8695200085639954,9
+tru_tinh:conduongxuaemdi-thanhtuyen-2434528.,Con Duong Xua Em Di,tru_tinh,0.25,0.9,0.6911827224680777,,0.871888279914856,9
+tru_tinh:conduongxuaemdi-thanhtuyen-2434528.,Con Duong Xua Em Di,tru_tinh,0.5,0.7,0.6974179112746031,,0.8781970739364624,9
+tru_tinh:conduongxuaemdi-thanhtuyen-2434528.,Con Duong Xua Em Di,tru_tinh,0.75,0.4,0.7171148494411089,,0.8868239521980286,10
+tru_tinh:conduongxuaemdi-thanhtuyen-2434528.,Con Duong Xua Em Di,tru_tinh,1.0,0.2,0.8082415995333792,,0.8901110887527466,9
+tru_tinh:conthuongraudangmocsauhe-phuongmychikhoinguyen-2745658_hq,Con Thuong Rau Dang Moc Sau He,tru_tinh,0.0,1.0,0.6967113671200467,,0.8709532022476196,9
+tru_tinh:conthuongraudangmocsauhe-phuongmychikhoinguyen-2745658_hq,Con Thuong Rau Dang Moc Sau He,tru_tinh,0.25,0.9,0.7019721734778213,,0.8770866394042969,9
+tru_tinh:conthuongraudangmocsauhe-phuongmychikhoinguyen-2745658_hq,Con Thuong Rau Dang Moc Sau He,tru_tinh,0.5,0.6,0.7065670710010874,,0.8837966918945312,8
+tru_tinh:conthuongraudangmocsauhe-phuongmychikhoinguyen-2745658_hq,Con Thuong Rau Dang Moc Sau He,tru_tinh,0.75,0.4,0.7225996488507874,,0.8903490900993347,10
+tru_tinh:conthuongraudangmocsauhe-phuongmychikhoinguyen-2745658_hq,Con Thuong Rau Dang Moc Sau He,tru_tinh,1.0,0.2,0.8010836445741168,,0.8971128463745117,8
+tru_tinh:dapmocuoctinh-dannguyen-2460868_hq,Dap Mo Cuoc Tinh,tru_tinh,0.0,1.0,0.6820335338361314,,0.8860052227973938,8
+tru_tinh:dapmocuoctinh-dannguyen-2460868_hq,Dap Mo Cuoc Tinh,tru_tinh,0.25,0.9,0.6738920983314766,,0.8883832693099976,9
+tru_tinh:dapmocuoctinh-dannguyen-2460868_hq,Dap Mo Cuoc Tinh,tru_tinh,0.5,0.8,0.680086690919059,,0.8906638026237488,9
+tru_tinh:dapmocuoctinh-dannguyen-2460868_hq,Dap Mo Cuoc Tinh,tru_tinh,0.75,0.8,0.6943005091675658,,0.8959130048751831,9
+tru_tinh:dapmocuoctinh-dannguyen-2460868_hq,Dap Mo Cuoc Tinh,tru_tinh,1.0,0.2,0.811352330791316,,0.9123586416244507,10
+tru_tinh:dapmocuoctinh-hoviettrung-4404818_hq,Dap Mo Cuoc Tinh,tru_tinh,0.0,1.0,0.7016303481893883,,0.8800411224365234,9
+tru_tinh:dapmocuoctinh-hoviettrung-4404818_hq,Dap Mo Cuoc Tinh,tru_tinh,0.25,0.9,0.6960692955058638,,0.8834437131881714,9
+tru_tinh:dapmocuoctinh-hoviettrung-4404818_hq,Dap Mo Cuoc Tinh,tru_tinh,0.5,0.7,0.70239612143309,,0.8904174566268921,10
+tru_tinh:dapmocuoctinh-hoviettrung-4404818_hq,Dap Mo Cuoc Tinh,tru_tinh,0.75,0.6,0.7106473898888138,,0.8984149694442749,9
+tru_tinh:dapmocuoctinh-hoviettrung-4404818_hq,Dap Mo Cuoc Tinh,tru_tinh,1.0,0.2,0.8227398740392468,,0.9066537618637085,9
+tru_tinh:demganhhaonghedieuhoailang-quynhmai-3521603_hq,Dem Ganh Hao Nghe Dieu Hoai Lang,tru_tinh,0.0,1.0,0.7031657783954604,,0.8470673561096191,10
+tru_tinh:demganhhaonghedieuhoailang-quynhmai-3521603_hq,Dem Ganh Hao Nghe Dieu Hoai Lang,tru_tinh,0.25,1.0,0.7031657783954601,,0.8470673561096191,10
+tru_tinh:demganhhaonghedieuhoailang-quynhmai-3521603_hq,Dem Ganh Hao Nghe Dieu Hoai Lang,tru_tinh,0.5,0.8,0.7350755694672977,,0.8530004620552063,10
+tru_tinh:demganhhaonghedieuhoailang-quynhmai-3521603_hq,Dem Ganh Hao Nghe Dieu Hoai Lang,tru_tinh,0.75,0.7,0.7337467527165747,,0.8561461567878723,10
+tru_tinh:demganhhaonghedieuhoailang-quynhmai-3521603_hq,Dem Ganh Hao Nghe Dieu Hoai Lang,tru_tinh,1.0,0.3,0.8010511878465904,,0.8614228963851929,10
+tru_tinh:demtamsu-truongvu-2071003.,Dem Tam Su,tru_tinh,0.0,1.0,0.7016663962432601,,0.868301510810852,9
+tru_tinh:demtamsu-truongvu-2071003.,Dem Tam Su,tru_tinh,0.25,0.9,0.7046320499604729,,0.8728030323982239,9
+tru_tinh:demtamsu-truongvu-2071003.,Dem Tam Su,tru_tinh,0.5,0.8,0.7034841416521626,,0.8756527900695801,9
+tru_tinh:demtamsu-truongvu-2071003.,Dem Tam Su,tru_tinh,0.75,0.6,0.715343778103579,,0.8829473257064819,9
+tru_tinh:demtamsu-truongvu-2071003.,Dem Tam Su,tru_tinh,1.0,0.2,0.776047490837069,,0.8882328271865845,9
+tru_tinh:doanbuondemmua-baokhanh-4652434_hq,Doan Buon Dem Mua,tru_tinh,0.0,1.0,0.6950180903517647,,0.8467968106269836,9
+tru_tinh:doanbuondemmua-baokhanh-4652434_hq,Doan Buon Dem Mua,tru_tinh,0.25,0.9,0.7114367599040694,,0.8520385026931763,8
+tru_tinh:doanbuondemmua-baokhanh-4652434_hq,Doan Buon Dem Mua,tru_tinh,0.5,0.9,0.7127239902178886,,0.853499710559845,9
+tru_tinh:doanbuondemmua-baokhanh-4652434_hq,Doan Buon Dem Mua,tru_tinh,0.75,0.5,0.7466704672250235,,0.8648768663406372,9
+tru_tinh:doanbuondemmua-baokhanh-4652434_hq,Doan Buon Dem Mua,tru_tinh,1.0,0.1,0.8152357752634728,,0.8695561289787292,10
+tru_tinh:duanhngheo-mailequyencaohoangnghi-6046235_hq,Du Anh Ngheo,tru_tinh,0.0,1.0,0.6870513651142196,,0.8636196255683899,8
+tru_tinh:duanhngheo-mailequyencaohoangnghi-6046235_hq,Du Anh Ngheo,tru_tinh,0.25,0.8,0.6941721070011343,,0.8719182014465332,8
+tru_tinh:duanhngheo-mailequyencaohoangnghi-6046235_hq,Du Anh Ngheo,tru_tinh,0.5,0.7,0.6948862762829825,,0.8747504353523254,8
+tru_tinh:duanhngheo-mailequyencaohoangnghi-6046235_hq,Du Anh Ngheo,tru_tinh,0.75,0.4,0.7160460580315973,,0.883340060710907,8
+tru_tinh:duanhngheo-mailequyencaohoangnghi-6046235_hq,Du Anh Ngheo,tru_tinh,1.0,0.0,0.7820450369004399,,0.8879810571670532,10
+tru_tinh:duyenphan-duonghongloan-4151535_hq,Duyen Phan,tru_tinh,0.0,1.0,0.7074967959551238,,0.8537592887878418,8
+tru_tinh:duyenphan-duonghongloan-4151535_hq,Duyen Phan,tru_tinh,0.25,0.8,0.711443802367577,,0.8582008481025696,8
+tru_tinh:duyenphan-duonghongloan-4151535_hq,Duyen Phan,tru_tinh,0.5,0.8,0.7183139796061463,,0.8590599298477173,8
+tru_tinh:duyenphan-duonghongloan-4151535_hq,Duyen Phan,tru_tinh,0.75,0.7,0.7369776869196842,,0.8616639971733093,9
+tru_tinh:duyenphan-duonghongloan-4151535_hq,Duyen Phan,tru_tinh,1.0,0.4,0.7841256747453718,,0.8633453249931335,7
+tru_tinh:emditrenconon-huonglantuanvu-896895.,Em Di Tren Co Non,tru_tinh,0.0,1.0,0.725429550478694,,0.8641203045845032,9
+tru_tinh:emditrenconon-huonglantuanvu-896895.,Em Di Tren Co Non,tru_tinh,0.25,1.0,0.725429550478694,,0.8641203045845032,9
+tru_tinh:emditrenconon-huonglantuanvu-896895.,Em Di Tren Co Non,tru_tinh,0.5,0.8,0.7227210039320514,,0.8704909086227417,8
+tru_tinh:emditrenconon-huonglantuanvu-896895.,Em Di Tren Co Non,tru_tinh,0.75,0.5,0.741993743349928,,0.8767824172973633,8
+tru_tinh:emditrenconon-huonglantuanvu-896895.,Em Di Tren Co Non,tru_tinh,1.0,0.2,0.8074521022138451,,0.882854163646698,9
+tru_tinh:emvatoi-phamanhduy-5489206_hq,Em Va Toi,tru_tinh,0.0,1.0,0.7536956047147666,,0.8549284934997559,9
+tru_tinh:emvatoi-phamanhduy-5489206_hq,Em Va Toi,tru_tinh,0.25,1.0,0.7536956047147666,,0.8549284934997559,9
+tru_tinh:emvatoi-phamanhduy-5489206_hq,Em Va Toi,tru_tinh,0.5,0.8,0.759108880196902,,0.8655250668525696,9
+tru_tinh:emvatoi-phamanhduy-5489206_hq,Em Va Toi,tru_tinh,0.75,0.5,0.7540397179127033,,0.8748708963394165,7
+tru_tinh:emvatoi-phamanhduy-5489206_hq,Em Va Toi,tru_tinh,1.0,0.2,0.7923670665422544,,0.8785161972045898,8
+tru_tinh:emvekeotroimua-phinhung-2267264_hq,Em Ve Keo Troi Mua,tru_tinh,0.0,1.0,0.7087480177826235,,0.8544327020645142,10
+tru_tinh:emvekeotroimua-phinhung-2267264_hq,Em Ve Keo Troi Mua,tru_tinh,0.25,0.8,0.7168040280803453,,0.8653289675712585,9
+tru_tinh:emvekeotroimua-phinhung-2267264_hq,Em Ve Keo Troi Mua,tru_tinh,0.5,0.7,0.7222471918645008,,0.8704656362533569,8
+tru_tinh:emvekeotroimua-phinhung-2267264_hq,Em Ve Keo Troi Mua,tru_tinh,0.75,0.4,0.7410936679490738,,0.8787351846694946,6
+tru_tinh:emvekeotroimua-phinhung-2267264_hq,Em Ve Keo Troi Mua,tru_tinh,1.0,0.3,0.7829762134289372,,0.8854758143424988,7
+tru_tinh:gapnhaulamngo-hienthuc-2516728.,Gap Nhau Lam Ngo,tru_tinh,0.0,1.0,0.6835615970616099,,0.844990074634552,9
+tru_tinh:gapnhaulamngo-hienthuc-2516728.,Gap Nhau Lam Ngo,tru_tinh,0.25,0.9,0.6638709959534392,,0.8471579551696777,9
+tru_tinh:gapnhaulamngo-hienthuc-2516728.,Gap Nhau Lam Ngo,tru_tinh,0.5,0.8,0.6820806456917536,,0.847614586353302,9
+tru_tinh:gapnhaulamngo-hienthuc-2516728.,Gap Nhau Lam Ngo,tru_tinh,0.75,0.6,0.6946056613517197,,0.8520871996879578,9
+tru_tinh:gapnhaulamngo-hienthuc-2516728.,Gap Nhau Lam Ngo,tru_tinh,1.0,0.2,0.8205106217268244,,0.8570904731750488,8
+tru_tinh:giotnangbenthem-anhkhang-4263074,Giot Nang Ben Them,tru_tinh,0.0,1.0,0.7111673546638583,,0.8499072790145874,9
+tru_tinh:giotnangbenthem-anhkhang-4263074,Giot Nang Ben Them,tru_tinh,0.25,0.7,0.7001944329715717,,0.8586452603340149,9
+tru_tinh:giotnangbenthem-anhkhang-4263074,Giot Nang Ben Them,tru_tinh,0.5,0.5,0.7172323520676104,,0.8668597340583801,8
+tru_tinh:giotnangbenthem-anhkhang-4263074,Giot Nang Ben Them,tru_tinh,0.75,0.3,0.7397466715974297,,0.8729928135871887,9
+tru_tinh:giotnangbenthem-anhkhang-4263074,Giot Nang Ben Them,tru_tinh,1.0,0.2,0.8000520991068986,,0.8772751092910767,8
+tru_tinh:gocuatraitim-quynhtrang-4706741_hq,Go Cua Trai Tim,tru_tinh,0.0,1.0,0.7035228690388221,,0.8602441549301147,10
+tru_tinh:gocuatraitim-quynhtrang-4706741_hq,Go Cua Trai Tim,tru_tinh,0.25,0.9,0.7131952370019794,,0.8634986877441406,10
+tru_tinh:gocuatraitim-quynhtrang-4706741_hq,Go Cua Trai Tim,tru_tinh,0.5,0.9,0.7131952370019795,,0.8634986877441406,10
+tru_tinh:gocuatraitim-quynhtrang-4706741_hq,Go Cua Trai Tim,tru_tinh,0.75,0.6,0.7455570710201372,,0.8714765310287476,10
+tru_tinh:gocuatraitim-quynhtrang-4706741_hq,Go Cua Trai Tim,tru_tinh,1.0,0.1,0.837083739725559,,0.8773393630981445,9
+tru_tinh:haihoarungchoem-caohoangnghi-5988549.,Hai Hoa Rung Cho Em,tru_tinh,0.0,1.0,0.6991237791520627,,0.8543592691421509,8
+tru_tinh:haihoarungchoem-caohoangnghi-5988549.,Hai Hoa Rung Cho Em,tru_tinh,0.25,1.0,0.6991237791520627,,0.8543593287467957,8
+tru_tinh:haihoarungchoem-caohoangnghi-5988549.,Hai Hoa Rung Cho Em,tru_tinh,0.5,0.8,0.6939915102045674,,0.8622762560844421,8
+tru_tinh:haihoarungchoem-caohoangnghi-5988549.,Hai Hoa Rung Cho Em,tru_tinh,0.75,0.5,0.7102489464803007,,0.8694392442703247,8
+tru_tinh:haihoarungchoem-caohoangnghi-5988549.,Hai Hoa Rung Cho Em,tru_tinh,1.0,0.4,0.8127254296937094,,0.8757853507995605,6
+tru_tinh:hailoimong-daophiduong_4abc6.,Hai Loi Mong,tru_tinh,0.0,1.0,0.7043331549596827,,0.8767262697219849,6
+tru_tinh:hailoimong-daophiduong_4abc6.,Hai Loi Mong,tru_tinh,0.25,1.0,0.7043331549596829,,0.8767262697219849,6
+tru_tinh:hailoimong-daophiduong_4abc6.,Hai Loi Mong,tru_tinh,0.5,1.0,0.7043331549596829,,0.8767262697219849,6
+tru_tinh:hailoimong-daophiduong_4abc6.,Hai Loi Mong,tru_tinh,0.75,0.6,0.732325066099287,,0.8882951736450195,8
+tru_tinh:hailoimong-daophiduong_4abc6.,Hai Loi Mong,tru_tinh,1.0,0.3,0.8075637584719985,,0.8943673372268677,8

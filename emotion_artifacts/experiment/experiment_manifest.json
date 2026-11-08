@@ -1,0 +1,33 @@
+{
+  "dataset": "dataViet",
+  "approved_lyrics_tracks": 335,
+  "genre_counts": {
+    "nhac_trinh": 104,
+    "rap_viet": 72,
+    "rock_viet": 63,
+    "tru_tinh": 58,
+    "cach_mang": 38
+  },
+  "emotion_weights": [
+    0.0,
+    0.25,
+    0.5,
+    0.75,
+    1.0
+  ],
+  "top_k": 10,
+  "comparison_seed_count": 335,
+  "human_blind_seed_count": 20,
+  "manual_summary_review_count": 33,
+  "random_state": 300,
+  "popularity_source": "unavailable (no varying popularity signal for dataViet)",
+  "popularity_warning": "LongTailShare is unavailable when all dataViet tracks have zero or identical popularity. If using bundled interactions as a fallback, they are synthetic and are not real listener popularity.",
+  "accuracy_warning": "No emotion labels or real listening ground truth are available. These metrics compare ranking diversity/tail behavior, not accuracy.",
+  "files": [
+    "weight_comparison.csv",
+    "weight_comparison_by_seed.csv",
+    "blind_review_lists.csv",
+    "blind_review_key.csv",
+    "summary_quality_review.csv"
+  ]
+}

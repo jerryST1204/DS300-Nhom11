@@ -1,0 +1,46 @@
+{
+  "format_version": 2,
+  "dataset": {
+    "catalog_file": "Dataset\\data\\lyrics_all_sources_cleaned.csv",
+    "catalog_sha256": "1d4c91ce92735cc36458d191c9c0cb0fb3a0d1da2bee2ab5287b9a2d4f19781c",
+    "n_tracks": 5459,
+    "n_tracks_with_approved_lyrics": 2600,
+    "sources": {
+      "VMusic": 4820,
+      "dataViet": 639
+    },
+    "interaction_history_used": false
+  },
+  "training": {
+    "content_based": {
+      "genre_weight": 1.0,
+      "text_weight": 1.0,
+      "lyrics_weight": 2.0
+    },
+    "lyrics_policy": "lyrics_use_for_vector must be true",
+    "genre_policy": {
+      "confidence_weights": {
+        "high": 1.0,
+        "medium": 0.75,
+        "low": 0.25,
+        "very_low": 0.1,
+        "unknown": 0.0
+      },
+      "description": "existing genre label weighted by genre confidence"
+    },
+    "subtitle_policy": "not used as a substitute for song lyrics"
+  },
+  "runtime_versions": {
+    "python": "3.14.5",
+    "joblib": "1.5.3",
+    "numpy": "2.4.6",
+    "pandas": "3.0.3",
+    "scipy": "1.17.1",
+    "scikit_learn": "1.8.0"
+  },
+  "sha256": {
+    "catalog.csv": "f5f4a7bb4f67599084946c33de6bbe45723919d0b1e9d143e1165942f9b9a0e4",
+    "mappings.json": "c471f71c311241fac463c6cec01851ddc964d2889e6b6745ef206e6af4740dad",
+    "content_based.joblib": "cd1a87e7d1e124cc30ffe57091349ae7cf4901c711339276fd974c163dbaaecc"
+  }
+}

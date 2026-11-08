@@ -1,0 +1,32 @@
+{
+  "format_version": 1,
+  "catalog_path": "D:\\Học tập\\DS300\\Đồ án\\ials_music_recommendation\\Dataset\\data\\lyrics_all_sources_cleaned.csv",
+  "n_tracks": 335,
+  "n_approved_lyrics": 335,
+  "n_unique_lyrics": 295,
+  "n_neutral_fallback_summaries": 3,
+  "summary_versions": {
+    "v1": 81,
+    "v2": 254
+  },
+  "summary_version": "v2",
+  "sample_only": true,
+  "sample_dataset_source": "dataViet",
+  "summary_model": "qwen2.5:3b",
+  "embedding_model": "bge-m3",
+  "embedding_dimension": 1024,
+  "embedding_normalized": true,
+  "summary_embeddings_file": "vietnam_song_summary_embeddings.sample.npy",
+  "summary_embedding_dimension": 1024,
+  "summary_embeddings_normalized": true,
+  "summary_embedding_zero_rows": 0,
+  "summary_csv": "emotion_summaries.csv",
+  "checkpoint_jsonl": "emotion_summaries.checkpoint.jsonl",
+  "embeddings_file": "vietnam_song_emotion_embeddings.sample.npy",
+  "song_ids_file": "song_ids.sample.json",
+  "sha256": {
+    "vietnam_song_emotion_embeddings.sample.npy": "adc170d2fa09558fbe60c5412db1bc1d708c3ee05116d46cec5109011c5f0037",
+    "vietnam_song_summary_embeddings.sample.npy": "247cd2aa5155962bc1e7ad80bc38a45e582ac9d87ae2bb0a90e55e5b24a5e111",
+    "song_ids.sample.json": "cb3dbf7340604c783a095cfefadc42c5147505ffe6063ccf9d7508411514db2b"
+  }
+}
